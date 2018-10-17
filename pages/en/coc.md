@@ -3,6 +3,7 @@ title: Code of Conduct
 description: "Consignes pour créer un cadre d’interaction bientraitant et protecteur"
 i18n-key: coc
 permalink: /en/code-of-conduct/
+published: false
 ---
 
 <section class="section">

@@ -5,6 +5,7 @@ i18n-key: coc
 permalink: /code-de-conduite/
 redirect_from:
   - /code-of-conduct/
+published: false
 ---
 
 <section class="section">
