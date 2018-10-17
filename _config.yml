@@ -1,13 +1,13 @@
 # Site configuration
 
 title: Sud Web
-tagline: les 25 et 26 mai 2018 à Anduze
-description: Deux journées pour faire le plein d'inspiration entre super-héros du web.
+tagline: Quelques part dans le Sud
+description: Deux journées pour faire le plein d'inspiration.
 logo: /assets/images/twittercard.png
 url: https://sudweb.fr
-repository: sudweb/2018
-baseurl: /2018
-destination: _site/2018
+repository: sudweb/2019
+baseurl: /2019
+destination: _site/2019
 locale: fr_FR
 logo: https://sudweb.fr/2018/assets/images/social/sudweb-logo.jpg
 lazyload:
@@ -31,7 +31,7 @@ robots: index,follow
 # Services configuration
 
 weezevent:
-    mini-site-url: https://www.weezevent.com/sudweb-2018
+    mini-site-url: https://www.weezevent.com/sudweb-2019
 
 newsletter:
   url: http://sudweb.us2.list-manage.com/subscribe?u=af19b58cf514c01eca3f7652e&id=b579f5b507
@@ -63,7 +63,7 @@ defaults:
       path: "pages/en"
       type: pages
     values:
-      baseurl: "/2018/en"
+      baseurl: "/2019/en"
       locale: en_US
 
 microtypo:

@@ -22,13 +22,13 @@
   type: page
   value: venir-anduze
   in_nav: true
-  in_footer: true
+  in_footer: false
 - name: Infos pratiques
   type: page
   value: infos-pratiques
   fr_only: true
   in_nav: true
-  in_footer: true
+  in_footer: false
 - name: Code de Conduite
   type: page
   value: code-de-conduite
@@ -43,13 +43,13 @@
   type: page
   value: financer
   in_nav: false
-  in_footer: true
+  in_footer: false
 - name: Elles et ils nous soutiennent
   type: page
   value: merci
   fr_only: true
   in_nav: false
-  in_footer: true
+  in_footer: false
 - name: Contact
   type: translate
   value: https://sudweb.fr/blog/contact/
