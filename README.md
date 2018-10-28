@@ -9,7 +9,7 @@ Site internet du cycle de conférences annuel Sud Web, dont la 9e édition aura 
 
 ## Pré-requis
 
-Le site est généré à l'aide de [Jekyll](http://jekyllrb.com/) et nécessite Ruby 2.4.0 (voir `.ruby-version`)
+Le site est généré à l'aide de [Jekyll](http://jekyllrb.com/) et nécessite Ruby 2.4.3 (voir `.ruby-version`)
 
 Nous vous recommandons de gérer l'installation de Ruby via [rbenv](http://rbenv.org/).
 
