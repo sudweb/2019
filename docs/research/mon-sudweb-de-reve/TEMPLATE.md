@@ -2,6 +2,8 @@
 
 ## Contexte
 
+[Sud Web](https://sudweb.fr) est une conférence annuelle qui questionne nos métiers, qui nous fait découvrir des domaines vers lequels on ne serait pas allé et qui crée un espace-temps de transmission. C'est en lien avec le Web, mais pas que.
+
 La 9ème édition de Sud Web va se dérouler à Toulouse dans le courant du mois de mai/juin. L'équipe organisatrice actuelle est composée de 4 personnes.
 
 Elle s'interroge sur ce qu'est une bonne édition de Sud Web. Elle se demande sur quoi porter son énergie. Elle a envie de proposer un truc chouette, différent et dans la continuité de ce qui fait Sud Web.
