@@ -33,7 +33,7 @@
   type: page
   value: code-de-conduite
   in_nav: false
-  in_footer: true
+  in_footer: false
 - name: Manifeste
   type: page
   value: manifeste

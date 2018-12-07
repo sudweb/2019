@@ -2,6 +2,7 @@
 title: Sud Web Manifesto
 description: ""
 permalink: /en/manifesto/
+published: false
 ---
 
 <section class="section">
