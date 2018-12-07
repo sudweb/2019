@@ -133,7 +133,7 @@
 
   function initSmoothScroll() {
     loadScript(
-      'https://cdn.rawgit.com/cferdinandi/smooth-scroll/master/dist/js/smooth-scroll.min.js',
+      'https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@14.0.0/dist/smooth-scroll.polyfills.min.js',
       function () {
         var scroll = new SmoothScroll("a[href^='#']:not([role='button'])", {
           speed: 1000,
