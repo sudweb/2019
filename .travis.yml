@@ -18,7 +18,8 @@ after_deploy:
 deploy:
   provider: script
   skip_cleanup: true
-  script: rsync -r --delete-after --quiet --exclude '.ssh' $TRAVIS_BUILD_DIR/_site/2019/ sudweb_2018@ssh-sudweb.alwaysdata.net:/home/sudweb/www/2019/
+  script: rsync -r --delete-after --quiet --exclude '.ssh' $TRAVIS_BUILD_DIR/_site/2019/
+    sudweb_2019@ssh-sudweb.alwaysdata.net:/home/sudweb/www/2019/
   on:
     branch: master
 env:
@@ -26,5 +27,7 @@ env:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
   - WEEZEVENT_EVENT_ID=218160
 before_install:
-- openssl aes-256-cbc -K $encrypted_2733e3f99a07_key -iv $encrypted_2733e3f99a07_iv
+- openssl aes-256-cbc -K $encrypted_913e2c12d44b_key -iv $encrypted_913e2c12d44b_iv
+  -in deploy_rsa.enc -out deploy_rsa -d
+- openssl aes-256-cbc -K $encrypted_913e2c12d44b_key -iv $encrypted_913e2c12d44b_iv
   -in deploy_rsa.enc -out deploy_rsa -d
