@@ -7,7 +7,7 @@
 }
 
 .illustration {
-	font-size: 4em; color: $green;
+	font-size: 4em; color: $brand-color;
 
 	@include media('>large') {
 		font-size: 3em;
