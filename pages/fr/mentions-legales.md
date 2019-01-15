@@ -18,11 +18,11 @@ Ce site web est édité par l’association Sud-Web :
 * association à but non lucratif de type loi 1901;
 * déclarée le 30/11/2011, auprès de la préfecture d’Avignon;
 * sous le numéro W842002749;
-* dont le siège social est situé : 32, route de la Grange, 24750 Champcevinel
+* dont le siège social est situé : 15, rue de Crosne, 76000 Rouen
 
 ## Directeur de la publication
 
-Le directeur de la publication est Boris Schapira, président de l’association Sud-Web.
+Le directeur de la publication est Marien Fressinaud, président de l’association Sud-Web.
 
 ## Hébergeur
 
