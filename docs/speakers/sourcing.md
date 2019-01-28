@@ -55,3 +55,7 @@ parce qu'il a lancé une action pour consommer des ressources locales dans les e
 ## Effondrement et l'autonomie alimentaire à Albi
 Parce qu’Albi c'est dans le sud, parce que qu'il faut du courage pour se lancer sur ce sujet à la mode. Parce que ça peut s’intégrer à la journée du samedi dans le jardin. L'autonomie alimentaire et le web ?
 
+## Dominique Muselet
+Le problème du chômage et des inégalités peut être résolu par un salaire minimum garanti à vie pour tous avec une faible échelle des salaires et la gratuité de la santé, des services et du logement. 
+L’exploitation des ressources devra être soutenable et toutes les formes de prédations durement sanctionnées.
+
