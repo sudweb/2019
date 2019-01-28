@@ -62,3 +62,27 @@ Parce qu’Albi c'est dans le sud, parce que qu'il faut du courage pour se lance
 Le problème du chômage et des inégalités peut être résolu par un salaire minimum garanti à vie pour tous avec une faible échelle des salaires et la gratuité de la santé, des services et du logement. 
 L’exploitation des ressources devra être soutenable et toutes les formes de prédations durement sanctionnées.
 
+## M4dz
+
+Parce qu'il vulgarise la crypto en l'appliquant à des problématiques de vie privées sur Internet et que c'est cool - https://m4dz.net/ et https://twitter.com/m4d_z
+ * Marien : Vu à Snowcamp 2019, il m'a réconcilié avec la Blockchain (et c'était pas gagné).
+
+## Frédéric Bordage
+
+Il mène des réflexions autour de l'impact environnemental de l'informatique à travers le site https://www.greenit.fr/.
+ * Marien : Vu à Snowcamp 2019, j'étais pas forcément d'accord avec tout ce qu'il disait, mais sa démarche (proche de celle d'un⋅e UX designer) est intéressante.
+
+## Manon Bril
+
+Elle est docteure en histoire contemporaine et Youtubeuse. Elle vulgarise l'histoire avec beaucoup d'humour. Elle vient de Toulouse à la base donc potentiellement pas trop compliquée de l'inviter.
+ * Marien : Dans la même veine que l'année dernière avec Heu?reka et Chez Papa Papou, ça permettrait d'élargir le cercle "web"
+
+## Framasoft
+
+Pour venir parler démarche politique au niveau du web, critique de la surveillance de masse ou participation à la création d'imaginaire positif pour la société
+ * Marien : Ça fait un peu conflit d'intérêt mais tant pis
+
+## DataGueule
+
+Pour la qualité de leurs productions et l'usage qu'ils ont du web pour créer des vidéos au service d'une critique de la société.
+ * Marien : je suis sûr qu'ils seraient ravis de venir à Sud Web, pas sûr qu'ils soient très dispo ceci dit
