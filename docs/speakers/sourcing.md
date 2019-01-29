@@ -1,5 +1,13 @@
 # Liste de personnes susceptibles de participer à l’animation
 
+Sur ce quoi on a discuté mais qui peut-être remis en cause :
+ 1. Des personnes qui ont engagée une action
+ 2. Des personnes qu'on a pas l'habitude de voir
+ 3. Des présentations qui parlent d’usage du web
+ 4. Des sujets techniques ou pas
+ 5. Des makeurs
+ 6. Des inspirateurs
+
 ## Mélissa Gentile
 parce qu'elle a la patate, anime le tiers-lieu Quartier Génial dans un quartier en transition près de Bordeaux, est liée aux Usines Nouvelles à Poitiers (http://www.lesusinesnouvelles.com)
  * @bertrandkeller : pas trouvé grand chose, mais ce qu'elle fait à l'air pas mal
@@ -21,7 +29,7 @@ parce qu'elle n'a rien à voir avec le web, parce que son documentaire « Ouvrir
 :warning: elle vit au Canada désormais (mais peut-être qu'elle peut recommander quelqu'un qui a bossé avec elle/partage ses vues et qui vit en France)
 
 ## Sandra Chakroun
-parce qu'elle bosse sur le simulateur Open-Fisca afin de mieux prévoir l'impact des lois sur le volet social de nos vies, pour son implication dans la communauté open data tunisienne (https://blog.beta.gouv.fr/dinsic/2018/09/24/simuler-impact-loi/)
+parce qu'elle bosse sur le simulateur Open-Fisca afin de mieux prévoir **l'impact des lois sur le volet social de nos vies**, pour son implication dans la communauté open data tunisienne (https://blog.beta.gouv.fr/dinsic/2018/09/24/simuler-impact-loi/)
  * @bertrandkeller : :+1: Oui, c'est cool ça.
  * @lellex : :+1:
 
@@ -31,7 +39,7 @@ parce qu'elle porte des projets numériques à la Direction Régionale pour l'En
 
 ## Inès Léraud
 pour sa fantastique série « Journal Breton », pour son intérêt pour le village de Trémargat, fortement auto-organisé et son combat engagé contre les pollutions industrielles (une journaliste qui met les mains dans le cambouis) — http://inesleraud.fr/
-  * @bertrandkeller : :+1: je trouve que son action peut permettre de lancer de bonnes discussion sur l’action
+  * @bertrandkeller : :+1: je trouve que son action peut permettre de lancer de bonnes discussions sur le passage à l’action. Elle peut animer de bonne réflexions sur les 2 jours => **comment se servir du web dans le journalisme d'investigation ?**
 
 ## Pia Pandelakis
 parce qu'elle pense hors-les-normes, co-dirige un master « Design, Prospective et Sociétés » et explore le genre et la sexualité ; bonus : est à Toulouse.
@@ -55,7 +63,7 @@ https://github.com/Atinux (lead dev de Nuxt qui habite Toulouse),  il y a quelqu
 
 ## Pierre Renault
 parce qu'il a lancé une action pour consommer des ressources locales dans les espaces vert et les places publiques (bois, plantes,…), parce qu'il a fait du réseau avec les artisans du Rhônes-Alpes. Se pose des questions sur les aménagements de nos espaces de travail - https://www.hopdurable.fr/.
- * @bertrandkeller : :+1: profil super pour la journée au fablab.
+ * @bertrandkeller : :+1: profil super pour la journée au fablab => **construire un espace avec des matériaux durables et des plantes locales ?** On pourrait proposer d’aménager le jardin le samedi.
 
 ## Effondrement et l'autonomie alimentaire à Albi
 Parce qu’Albi c'est dans le sud, parce que qu'il faut du courage pour se lancer sur ce sujet à la mode. Parce que ça peut s’intégrer à la journée du samedi dans le jardin. L'autonomie alimentaire et le web ?
@@ -64,7 +72,7 @@ Parce qu’Albi c'est dans le sud, parce que qu'il faut du courage pour se lance
 ## Dominique Muselet
 Le problème du chômage et des inégalités peut être résolu par un salaire minimum garanti à vie pour tous avec une faible échelle des salaires et la gratuité de la santé, des services et du logement. 
 L’exploitation des ressources devra être soutenable et toutes les formes de prédations durement sanctionnées.
- * @bertrandkeller : :+1: faire le lien entre la contribution open source et source de revenu avec le salaire à vie. un angle que j'aurai aimer aboder.
+ * @bertrandkeller : :+1: faire le lien entre la **contribution open source et source de revenu** avec le salaire à vie. un angle que j'aurai aimer aboder.
 
 ## Clément MONTFORT
 https://fr.tipeee.com/next-web-serie - https://www.telerama.fr/television/le-meilleur-de-youtube-clement-montfort,-realisateur-qui-ne-laisse-pas-abattre,n5830011.php
@@ -73,17 +81,17 @@ https://fr.tipeee.com/next-web-serie - https://www.telerama.fr/television/le-mei
 ## M4dz
 Parce qu'il vulgarise la crypto en l'appliquant à des problématiques de vie privées sur Internet et que c'est cool - https://m4dz.net/ et https://twitter.com/m4d_z
  * Marien : Vu à Snowcamp 2019, il m'a réconcilié avec la Blockchain (et c'était pas gagné).
- * @bertrandkeller : présent dans beaucoup de conférences, on l'aime mais déjà vu
+ * @bertrandkeller : :-1: présent dans beaucoup de conférences, on l'aime mais déjà vu
 
 ## Frédéric Bordage
 Il mène des réflexions autour de l'impact environnemental de l'informatique à travers le site https://www.greenit.fr/.
  * Marien : Vu à Snowcamp 2019, j'étais pas forcément d'accord avec tout ce qu'il disait, mais sa démarche (proche de celle d'un⋅e UX designer) est intéressante.
- * @bertrandkeller : considéré comme une conférence "sponso", par moi en tout cas. déjà vu : https://www.paris-web.fr/orateurs/frederic-bordage.php
+ * @bertrandkeller : :-1: considéré comme une conférence "sponso", par moi en tout cas. déjà vu : https://www.paris-web.fr/orateurs/frederic-bordage.php
 
 ## Manon Bril
 Elle est docteure en histoire contemporaine et Youtubeuse. Elle vulgarise l'histoire avec beaucoup d'humour. Elle vient de Toulouse à la base donc potentiellement pas trop compliquée de l'inviter.
  * Marien : Dans la même veine que l'année dernière avec Heu?reka et Chez Papa Papou, ça permettrait d'élargir le cercle "web"
- * @bertrandkeller : rien contre, mais je ne vois pas de sujet à lui proposer.
+ * @bertrandkeller : rien contre, mais quel sujet ?
 
 ## Framasoft
 Pour venir parler démarche politique au niveau du web, critique de la surveillance de masse ou participation à la création d'imaginaire positif pour la société
@@ -92,12 +100,12 @@ Pour venir parler démarche politique au niveau du web, critique de la surveilla
 
 ## DataGueule
 Pour la qualité de leurs productions et l'usage qu'ils ont du web pour créer des vidéos au service d'une critique de la société.
- * Marien : je suis sûr qu'ils seraient ravis de venir à Sud Web, pas sûr qu'ils soient très dispo ceci dit
+ * Marien : je suis sûr qu'ils seraient ravis de venir à Sud Web, pas sûr qu'ils soient très dispos ceci dit.
 
 ## Charlotte Dann
 https://twitter.com/charlotte_dann - vivant à Londres et qui se définie comme une makeuse. elle fait de l’orfèvrerie : https://hexatope.io/ et a une chaine youtube https://www.youtube.com/chareads et un github https://github.com/pouretrebelle
 https://hexatope.io/
- * @bertrandkeller : :+1: Makeuse, codeuse, j'adore !!!!
+ * @bertrandkeller : :+1: :+1: Makeuse, codeuse, j'adore !!!!
  
 ## Jude Piccard
  * @Tak Castel : :+1:
@@ -105,10 +113,10 @@ https://hexatope.io/
 ## Arthur Retrou
 Je m’appelle Arthur Retrou et je suis Designer UX pour l’agence Dernier Cri (Lille, Paris, Bordeaux) :  https://derniercri.io/
  * @Tak Castel : :+1:
- * @bertrandkeller : pas opposé, mais on ne cherche pas le format habituel de conférence pour ce Sudweb, que peut-on lui demander ?
+ * @bertrandkeller : :-1: pas opposé, que peut-on lui demander qui rentre dans notre envie pour 2019 ?
  
 ## Stéphanie Walter
 https://stephaniewalter.design/
  * @Tak Castel : :+1:
- * @bertrandkeller : :-1: Fille géniale, mais déjà vu selon moi. Voir si elle peut devenir makeuse pour nous
+ * @bertrandkeller : :-1: Fille géniale, mais déjà vu selon moi. Voir si elle peut devenir makeuse pour nous.
  
