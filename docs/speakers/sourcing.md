@@ -1,12 +1,18 @@
 # Liste de personnes susceptibles de participer à l’animation
 
 Sur ce quoi on a discuté mais qui peut-être remis en cause :
- 1. Des personnes qui ont engagée une action
+ 1. Des personnes qui ont engagé une action
  2. Des personnes qu'on a pas l'habitude de voir
  3. Des présentations qui parlent d’usage du web
  4. Des sujets techniques ou pas
  5. Des makeurs
  6. Des inspirateurs
+ 
+Thèmes possibles :
+ 1. Zéro waste avec le web - https://riendeneuf.org/
+ 2. Sites lowtech - https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/
+ 3. Valeur productive Vs valeur d'usage
+ 4. …
 
 ## Mélissa Gentile
 parce qu'elle a la patate, anime le tiers-lieu Quartier Génial dans un quartier en transition près de Bordeaux, est liée aux Usines Nouvelles à Poitiers (http://www.lesusinesnouvelles.com)
