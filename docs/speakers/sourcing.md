@@ -76,7 +76,7 @@ parce qu'il a lancé une action pour consommer des ressources locales dans les e
 Parce qu’Albi c'est dans le sud, parce que qu'il faut du courage pour se lancer sur ce sujet à la mode. Parce que ça peut s’intégrer à la journée du samedi dans le jardin. L'autonomie alimentaire et le web ?
  * @bertrandkeller : :+1: car le samedi on va dans un jardin avec des producteurs
  * @lellex : J'ai pas trop compris, ce serait un sujet de Pierre Renault ?
- * @Tak : Drôle de nom cet orateur ?
+ * @Tak : Drôle de nom cet orateur
 
 ## Dominique Muselet
 Le problème du chômage et des inégalités peut être résolu par un salaire minimum garanti à vie pour tous avec une faible échelle des salaires et la gratuité de la santé, des services et du logement. 
@@ -121,7 +121,8 @@ https://hexatope.io/
  * @lellex : :+1: Parce qu'elle fait des jolies choses !
  
 ## Jude Piccard
- * @Tak Castel : :+1:
+Un jeune qui fait du Python et a travaillé un logiciel de traitement d'image sur un satellite envoyé sur Mars. Le sujet laisse rêveur et on a envie d'en savoir plus. Qu'est-ce que ça fait de faire partie d'une aventure spatiale en tant que développeur ? Comment on se sent, à si petite échelle, impliqué dans l'évolution de l'humanité. Habite à Toulouse, travaille à Capgemini.
+ * @Tak Castel : :+1: :+1: :+1: je dis oui, oui, oui ! En plus c'est un pote.
  
 ## Arthur Retrou
 Je m’appelle Arthur Retrou et je suis Designer UX pour l’agence Dernier Cri (Lille, Paris, Bordeaux) :  https://derniercri.io/
