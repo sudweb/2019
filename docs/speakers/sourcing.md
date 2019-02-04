@@ -24,7 +24,7 @@ parce qu'elle fait des trucs top dans les prisons et étudie le langage d'une ma
 
 ## Stéphanie Baltus
 parce que j'aime ce qu'elle tweet, bosse chez Algolia à Paris (https://twitter.com/steph_baltus)
- * @lellex : :-1: Bien mais on voit (un peu trop) des gens d'algolia dans des confs. Mais ok si c'est un sujet qui n'a rien à voir
+ * @lellex : pourquoi pas mais sur quel sujet ?
 
 ## Victoire Tuaillon
 parce que son podcast sur les masculinités m’aide à déconstruire et comprendre http://www.binge.audio/category/aujourdhui/les-couilles-sur-la-table/
