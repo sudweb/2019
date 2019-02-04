@@ -83,6 +83,7 @@ L’exploitation des ressources devra être soutenable et toutes les formes de p
 ## Clément MONTFORT
 https://fr.tipeee.com/next-web-serie - https://www.telerama.fr/television/le-meilleur-de-youtube-clement-montfort,-realisateur-qui-ne-laisse-pas-abattre,n5830011.php
  * @bertrandkeller : a lancé un web serie très engagée
+ * @lellex : :-1: un peu angoissant / pessimiste et pas trop de rapport avec le web (à part la plateforme)
 
 ## M4dz
 Parce qu'il vulgarise la crypto en l'appliquant à des problématiques de vie privées sur Internet et que c'est cool - https://m4dz.net/ et https://twitter.com/m4d_z
