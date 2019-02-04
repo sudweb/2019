@@ -56,7 +56,7 @@ parce qu'elle pense hors-les-normes, co-dirige un master « Design, Prospective 
 le Youtubeur https://twitter.com/MrBidouille : car il est très pédagogique et je trouve que ça serait super intéressant d’avoir sa présence et éventuellement qu’il nous fasse une présentation de ce qu’il fait, alors ça fait 1 an que j’ai pas regardé de vidéo mais je me replongerai dans son travail pour essayer de trouver quelque chose qui pourrait se rapprocher de nos conférences :slightly_smiling_face:
  * @bertrandkeller : :+1: bon profil par rapport à notre ligne
  * @lellex : :+1:
- * @Tak Castel : :+1:
+ * @Tak Castel : :+1: Je suis son plus grand fan (smiley coeur)
 
 ## La Dev Du Dimanche
 (Youtubeuse aussi) https://twitter.com/dev_dimanche pour avoir ses retours d’expérience sur la création d’un jeu et le suivi de son évolution sur sa chaîne, j’adore assez ce qu’elle publie comme contenu et ses tweets sont intéressants aussi
