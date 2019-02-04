@@ -128,6 +128,6 @@ https://stephaniewalter.design/
  
 ## Gaël Musquet
 Un des fondateurs de OpenStreetMap, hacker et maker impliqué dans la prévention des catastrophes naturelles. Il intervient avec le collectif HAND : http://hand.team/
-* @lellex : :+1: Déjà vu en conf il fait des trucs vraiment très chouettes ! Des sujets qui mèlent logiciels libres, valeurs et makers (mais peut être compliquer de le faire venir) 
+* @lellex : :+1: Déjà vu en conf il fait des trucs vraiment très chouettes ! Des sujets qui mèlent logiciels libres, valeurs et makers (mais peut être compliqué de le faire venir) 
 
 ##
