@@ -130,4 +130,6 @@ https://stephaniewalter.design/
 Un des fondateurs de OpenStreetMap, hacker et maker impliqué dans la prévention des catastrophes naturelles. Il intervient avec le collectif HAND : http://hand.team/
 * @lellex : :+1: Déjà vu en conf il fait des trucs vraiment très chouettes ! Des sujets qui mèlent logiciels libres, valeurs et makers (mais peut être compliqué de le faire venir) 
 
-##
+## Umberto Grandi
+Chercheur à l'IRIT (à côté du Catalyseur). Il fait des recherches sur la conception de procédures et d'algorithmes dans le domaine informatique. Vidéo de présentation où il explique bien son métier : https://www.youtube.com/watch?v=G0R-RJPd5r0
+* @lellex : :+1: Je trouve qu'il explique assez bien ce qu'il fait, en plus il est à côté du Catalyseur !
