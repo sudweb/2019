@@ -94,6 +94,7 @@ Parce qu'il vulgarise la crypto en l'appliquant à des problématiques de vie pr
 Il mène des réflexions autour de l'impact environnemental de l'informatique à travers le site https://www.greenit.fr/.
  * Marien : Vu à Snowcamp 2019, j'étais pas forcément d'accord avec tout ce qu'il disait, mais sa démarche (proche de celle d'un⋅e UX designer) est intéressante.
  * @bertrandkeller : :-1: considéré comme une conférence "sponso", par moi en tout cas. déjà vu : https://www.paris-web.fr/orateurs/frederic-bordage.php
+ * @lellex : :-1: Sujet un peu déjà vu
 
 ## Manon Bril
 Elle est docteure en histoire contemporaine et Youtubeuse. Elle vulgarise l'histoire avec beaucoup d'humour. Elle vient de Toulouse à la base donc potentiellement pas trop compliquée de l'inviter.
@@ -113,6 +114,7 @@ Pour la qualité de leurs productions et l'usage qu'ils ont du web pour créer d
 https://twitter.com/charlotte_dann - vivant à Londres et qui se définie comme une makeuse. elle fait de l’orfèvrerie : https://hexatope.io/ et a une chaine youtube https://www.youtube.com/chareads et un github https://github.com/pouretrebelle
 https://hexatope.io/
  * @bertrandkeller : :+1: :+1: Makeuse, codeuse, j'adore !!!!
+ * @lellex : :+1: Parce qu'elle fait des jolies choses !
  
 ## Jude Piccard
  * @Tak Castel : :+1:
