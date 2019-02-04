@@ -24,7 +24,7 @@ parce qu'elle fait des trucs top dans les prisons et étudie le langage d'une ma
 
 ## Stéphanie Baltus
 parce que j'aime ce qu'elle tweet, bosse chez Algolia à Paris (https://twitter.com/steph_baltus)
- * @lellex : :+1:
+ * @lellex : :-1: Bien mais on voit (un peu trop) des gens d'algolia dans des confs. Mais ok si c'est un sujet qui n'a rien à voir
 
 ## Victoire Tuaillon
 parce que son podcast sur les masculinités m’aide à déconstruire et comprendre http://www.binge.audio/category/aujourdhui/les-couilles-sur-la-table/
@@ -37,7 +37,7 @@ parce qu'elle n'a rien à voir avec le web, parce que son documentaire « Ouvrir
 ## Sandra Chakroun
 parce qu'elle bosse sur le simulateur Open-Fisca afin de mieux prévoir **l'impact des lois sur le volet social de nos vies**, pour son implication dans la communauté open data tunisienne (https://blog.beta.gouv.fr/dinsic/2018/09/24/simuler-impact-loi/)
  * @bertrandkeller : :+1: Oui, c'est cool ça.
- * @lellex : :+1:
+ * @lellex : :+1: Ça à l'air intéressant oui !
 
 ## Véronique Lagrange
 parce qu'elle porte des projets numériques à la Direction Régionale pour l'Environnement, de l'Aménagement et du Logement (DREAL), dont des prototypes numériques, une étude sur l'impact des notifications e-mail/téléphone sur notre travail
@@ -65,7 +65,7 @@ le Youtubeur https://twitter.com/MrBidouille : car il est très pédagogique et 
 ## Sébastien Chopin
 https://github.com/Atinux (lead dev de Nuxt qui habite Toulouse),  il y a quelques mois pour tricoter autour de cet article : https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/. Je trouverai intéressant d’avoir un local qui nous parle de la manière dont il promeut la communauté (NuxtJS) et aussi qui puisse discuter autour de sujets techniques autour de sites à faible consommation d’énergie.
  * @bertrandkeller : :+1: un beau projet technique (PWA, sites statiques) communautaire.
- * @lellex : :+1:
+ * @lellex : :+1: ça peut être un bon sujet tech, il en faut !
 
 ## Pierre Renault
 parce qu'il a lancé une action pour consommer des ressources locales dans les espaces vert et les places publiques (bois, plantes,…), parce qu'il a fait du réseau avec les artisans du Rhônes-Alpes. Se pose des questions sur les aménagements de nos espaces de travail - https://www.hopdurable.fr/.
@@ -88,6 +88,7 @@ https://fr.tipeee.com/next-web-serie - https://www.telerama.fr/television/le-mei
 Parce qu'il vulgarise la crypto en l'appliquant à des problématiques de vie privées sur Internet et que c'est cool - https://m4dz.net/ et https://twitter.com/m4d_z
  * Marien : Vu à Snowcamp 2019, il m'a réconcilié avec la Blockchain (et c'était pas gagné).
  * @bertrandkeller : :-1: présent dans beaucoup de conférences, on l'aime mais déjà vu
+
 
 ## Frédéric Bordage
 Il mène des réflexions autour de l'impact environnemental de l'informatique à travers le site https://www.greenit.fr/.
