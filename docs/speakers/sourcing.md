@@ -83,6 +83,7 @@ parce qu'il a lancé une action pour consommer des ressources locales dans les e
  * @bertrandkeller : :+1: profil super pour la journée au fablab => **construire un espace avec des matériaux durables et des plantes locales ?** On pourrait proposer d’aménager le jardin le samedi.
  * @lellex : :+1: Bien pour le samedi oui !
   * @takcastel : intéressant, mais on s'écarte de la technique
+  * @bertrandkeller : en fait, il a essayé de monter une plateforme web pour les artisants (un échec). Ce que j'aime bien dans son profil c’est qu'il s'est lancé dans l'inconnu et qu'il a complétement investi un secteur qui existait peut il y a quelques années. Mais bon, son projet est tellement particulier que c'est toujours dur d'en parler.
 
 ## Effondrement et l'autonomie alimentaire à Albi
 Parce qu’Albi c'est dans le sud, parce que qu'il faut du courage pour se lancer sur ce sujet à la mode. Parce que ça peut s’intégrer à la journée du samedi dans le jardin. L'autonomie alimentaire et le web ?
@@ -94,7 +95,7 @@ Parce qu’Albi c'est dans le sud, parce que qu'il faut du courage pour se lance
 Le problème du chômage et des inégalités peut être résolu par un salaire minimum garanti à vie pour tous avec une faible échelle des salaires et la gratuité de la santé, des services et du logement. 
 L’exploitation des ressources devra être soutenable et toutes les formes de prédations durement sanctionnées.
  * @bertrandkeller : :+1: faire le lien entre la **contribution open source et source de revenu** avec le salaire à vie. un angle que j'aurai aimer aboder.
-  * @takcastel : je soutien l'initiative mais je prime d'abord les sujets tech
+  * @takcastel : je soutiens l'initiative mais je prime d'abord les sujets tech
 
 ## Clément MONTFORT
 https://fr.tipeee.com/next-web-serie - https://www.telerama.fr/television/le-meilleur-de-youtube-clement-montfort,-realisateur-qui-ne-laisse-pas-abattre,n5830011.php
@@ -113,7 +114,7 @@ Il mène des réflexions autour de l'impact environnemental de l'informatique à
  * Marien : Vu à Snowcamp 2019, j'étais pas forcément d'accord avec tout ce qu'il disait, mais sa démarche (proche de celle d'un⋅e UX designer) est intéressante.
  * @bertrandkeller : :-1: considéré comme une conférence "sponso", par moi en tout cas. déjà vu : https://www.paris-web.fr/orateurs/frederic-bordage.php
  * @lellex : :-1: Sujet un peu déjà vu
-* @takcastel : tu en as rencontré du monde à snowcamp dis donc ^^, sujet intéressant mais déjà vu hélas
+ * @takcastel : tu en as rencontré du monde à snowcamp dis donc ^^, sujet intéressant mais déjà vu hélas
 
 ## Manon Bril
 Elle est docteure en histoire contemporaine et Youtubeuse. Elle vulgarise l'histoire avec beaucoup d'humour. Elle vient de Toulouse à la base donc potentiellement pas trop compliquée de l'inviter.
@@ -157,8 +158,10 @@ https://stephaniewalter.design/
 Un des fondateurs de OpenStreetMap, hacker et maker impliqué dans la prévention des catastrophes naturelles. Il intervient avec le collectif HAND : http://hand.team/
  * @lellex : :+1: Déjà vu en conf il fait des trucs vraiment très chouettes ! Des sujets qui mèlent logiciels libres, valeurs et makers (mais peut être compliqué de le faire venir) 
  * @takcastel :+1: allez je dis oui rien que pour voir des makiniens faire de l'OSM à Sud Web :P
+ * @bertrandkeller : +1 Gaël serait dans son élément dans cette édition 2019, ce qui n'était pas le cas dans les précédentes.
  
 ## Umberto Grandi
 Chercheur à l'IRIT (à côté du Catalyseur). Il fait des recherches sur la conception de procédures et d'algorithmes dans le domaine informatique. Vidéo de présentation où il explique bien son métier : https://www.youtube.com/watch?v=G0R-RJPd5r0
 * @lellex : :+1: Je trouve qu'il explique assez bien ce qu'il fait, en plus il est à côté du Catalyseur !
 * @takcastel :+1: très belle idée d'atelier et de conf inspirante, un peu technique mais bien vulgarisé, un oui pour moi :)
+* @bertrandkeller : je trouve le personnage super, mais pour le moment comment le faire intervenir
