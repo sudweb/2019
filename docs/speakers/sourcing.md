@@ -35,7 +35,9 @@ parce que son podcast sur les masculinités m’aide à déconstruire et compren
 
 ## Amandine Gay
 parce qu'elle n'a rien à voir avec le web, parce que son documentaire « Ouvrir la voix » déchire et que j'y vois un potentiel pour apprendre d'elle mais aussi partager des formats de discussion/technique (audio/vidéo) avec une communauté proche du libre et des communs (https://www.youtube.com/user/orpheonegra) (et aussi http://cheekmagazine.fr/societe/amandine-gay-france-20-ans-retard-les-questions-raciales/)
+
 :warning: elle vit au Canada désormais (mais peut-être qu'elle peut recommander quelqu'un qui a bossé avec elle/partage ses vues et qui vit en France)
+
 @takcastel : je suis ouvert à cette proposition, mais à contacter rapidement pour gérer les frais
 
 ## Sandra Chakroun
@@ -52,7 +54,7 @@ parce qu'elle porte des projets numériques à la Direction Régionale pour l'En
 ## Inès Léraud
 pour sa fantastique série « Journal Breton », pour son intérêt pour le village de Trémargat, fortement auto-organisé et son combat engagé contre les pollutions industrielles (une journaliste qui met les mains dans le cambouis) — http://inesleraud.fr/
   * @bertrandkeller : :+1: je trouve que son action peut permettre de lancer de bonnes discussions sur le passage à l’action. Elle peut animer de bonne réflexions sur les 2 jours => **comment se servir du web dans le journalisme d'investigation ?**
-   * @takcastel : intéressant, mais pas assez tech à mon goût
+  * @takcastel : intéressant, mais pas assez tech à mon goût
 
 ## Pia Pandelakis
 parce qu'elle pense hors-les-normes, co-dirige un master « Design, Prospective et Sociétés » et explore le genre et la sexualité ; bonus : est à Toulouse.
