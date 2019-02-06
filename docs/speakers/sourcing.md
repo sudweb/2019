@@ -29,10 +29,6 @@ parce que j'aime ce qu'elle tweet, bosse chez Algolia à Paris (https://twitter.
  * @lellex : pourquoi pas mais sur quel sujet ?
  * @takcastel : quel pourrait-être le sujet ?
 
-## Victoire Tuaillon
-parce que son podcast sur les masculinités m’aide à déconstruire et comprendre http://www.binge.audio/category/aujourdhui/les-couilles-sur-la-table/
-* @takcastel : j'avais déjà écouté ce podcast, mais je ne vois pas bien le rapport avec le web
-
 ## Amandine Gay
 parce qu'elle n'a rien à voir avec le web, parce que son documentaire « Ouvrir la voix » déchire et que j'y vois un potentiel pour apprendre d'elle mais aussi partager des formats de discussion/technique (audio/vidéo) avec une communauté proche du libre et des communs (https://www.youtube.com/user/orpheonegra) (et aussi http://cheekmagazine.fr/societe/amandine-gay-france-20-ans-retard-les-questions-raciales/)
 
@@ -55,12 +51,6 @@ parce qu'elle porte des projets numériques à la Direction Régionale pour l'En
 pour sa fantastique série « Journal Breton », pour son intérêt pour le village de Trémargat, fortement auto-organisé et son combat engagé contre les pollutions industrielles (une journaliste qui met les mains dans le cambouis) — http://inesleraud.fr/
   * @bertrandkeller : :+1: je trouve que son action peut permettre de lancer de bonnes discussions sur le passage à l’action. Elle peut animer de bonne réflexions sur les 2 jours => **comment se servir du web dans le journalisme d'investigation ?**
   * @takcastel : intéressant, mais pas assez tech à mon goût
-
-## Pia Pandelakis
-parce qu'elle pense hors-les-normes, co-dirige un master « Design, Prospective et Sociétés » et explore le genre et la sexualité ; bonus : est à Toulouse.
-
-:warning: elle n’est pas trop intéressée pour intervenir dans des conférences web
-* @takcastel : pourquoi la contacter si elle n'est pas intéressée ?
 
 ## Mr Bidouille
 le Youtubeur https://twitter.com/MrBidouille : car il est très pédagogique et je trouve que ça serait super intéressant d’avoir sa présence et éventuellement qu’il nous fasse une présentation de ce qu’il fait, alors ça fait 1 an que j’ai pas regardé de vidéo mais je me replongerai dans son travail pour essayer de trouver quelque chose qui pourrait se rapprocher de nos conférences :slightly_smiling_face:
