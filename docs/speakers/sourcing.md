@@ -86,7 +86,7 @@ parce qu'il a lancé une action pour consommer des ressources locales dans les e
 Parce qu’Albi c'est dans le sud, parce que qu'il faut du courage pour se lancer sur ce sujet à la mode. Parce que ça peut s’intégrer à la journée du samedi dans le jardin. L'autonomie alimentaire et le web ?
  * @bertrandkeller : :+1: car le samedi on va dans un jardin avec des producteurs
  * @lellex : J'ai pas trop compris, ce serait un sujet de Pierre Renault ?
- * @takcastel : Drôle de nom cet orateur ^^
+ * @takcastel : drôle de nom cet orateur ^^
 
 ## Dominique Muselet
 Le problème du chômage et des inégalités peut être résolu par un salaire minimum garanti à vie pour tous avec une faible échelle des salaires et la gratuité de la santé, des services et du logement. 
