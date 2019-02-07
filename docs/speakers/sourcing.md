@@ -62,7 +62,7 @@ le Youtubeur https://twitter.com/MrBidouille : car il est très pédagogique et 
 (Youtubeuse aussi) https://twitter.com/dev_dimanche pour avoir ses retours d’expérience sur la création d’un jeu et le suivi de son évolution sur sa chaîne, j’adore assez ce qu’elle publie comme contenu et ses tweets sont intéressants aussi
  * @takcastel :+1:
 
-## Sébastien Chopin
+## Sébastien Chopin - programmé
 https://github.com/Atinux (lead dev de Nuxt qui habite Toulouse),  il y a quelques mois pour tricoter autour de cet article : https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/. Je trouverai intéressant d’avoir un local qui nous parle de la manière dont il promeut la communauté (NuxtJS) et aussi qui puisse discuter autour de sujets techniques autour de sites à faible consommation d’énergie.
  * @bertrandkeller : :+1: un beau projet technique (PWA, sites statiques) communautaire.
  * @lellex : :+1: ça peut être un bon sujet tech, il en faut !
@@ -123,7 +123,7 @@ Pour la qualité de leurs productions et l'usage qu'ils ont du web pour créer d
  * Marien : je suis sûr qu'ils seraient ravis de venir à Sud Web, pas sûr qu'ils soient très dispos ceci dit.
  * @takcastel : :1: ça pourrait être intéressant de savoir où ils se fournissent en données et si on peut encore les consulter quelque part, persistence des données, mise à disposition aux citoyens, quelle est leur position, que font-ils ? J'approuve
 
-## Charlotte Dann
+## Charlotte Dann - contacté
 https://twitter.com/charlotte_dann - vivant à Londres et qui se définie comme une makeuse. elle fait de l’orfèvrerie : https://hexatope.io/ et a une chaine youtube https://www.youtube.com/chareads et un github https://github.com/pouretrebelle
 https://hexatope.io/
  * @bertrandkeller : :+1: :+1: Makeuse, codeuse, j'adore !!!!
@@ -176,7 +176,7 @@ Chercheur à l'IRIT (à côté du Catalyseur). Il fait des recherches sur la con
 ### Thème (Marien) : L'informatique à l'ère de l'attention
 
 - Véronique Lagrange (impact notifications sur notre travail)
-- Sébastien Chopin (low tech)
+- Sébastien Chopin (low tech) - programmé
 - Framasoft
 - DataGueule (à confirmer qu'ils ont traité le sujet)
 - Stéphanie Walter (?)
@@ -185,6 +185,6 @@ Chercheur à l'IRIT (à côté du Catalyseur). Il fait des recherches sur la con
 
 - Mr Bidouille
 - La Dev du Dimanche
-- Sébastien Chopin (Nuxt)
+- Sébastien Chopin (Nuxt) - programmé
 - (M4dz)
 - Jude Piccard
