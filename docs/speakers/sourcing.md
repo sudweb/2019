@@ -155,3 +155,36 @@ Chercheur à l'IRIT (à côté du Catalyseur). Il fait des recherches sur la con
 * @lellex : :+1: Je trouve qu'il explique assez bien ce qu'il fait, en plus il est à côté du Catalyseur !
 * @takcastel :+1: très belle idée d'atelier et de conf inspirante, un peu technique mais bien vulgarisé, un oui pour moi :)
 * @bertrandkeller : je trouve le personnage super, mais pour le moment comment le faire intervenir
+
+## Regroupement par thèmatiques
+
+### Thème (Marien) : Informatique et impact sociétal
+
+- Mélissa Gentile (Usines Nouvelles / tiers-lieu)
+- Laélia Véron (travail dans les prisons)
+- Amandine Gay (doc "Ouvrir la voix")
+- Sandra Chakroun (simulateur Open-Fisca)
+- Véronique Lagrange (DREAL)
+- Inès Léraud (journaliste)
+- Pierre Renault (consommation ressources locales)
+- Dominique Muselet (chômage / inégalités)
+- Clément Montfort (webserie / effondrement)
+- DataGueule (mise en lumière de sujets sociétaux via leurs vidéos)
+- Gaël Musquet (OpenStreetMap / catastrophes naturelles)
+- Umberto Grandi (algorithme prise de décisions)
+
+### Thème (Marien) : L'informatique à l'ère de l'attention
+
+- Véronique Lagrange (impact notifications sur notre travail)
+- Sébastien Chopin (low tech)
+- Framasoft
+- DataGueule (à confirmer qu'ils ont traité le sujet)
+- Stéphanie Walter (?)
+
+### Thème (Marien) : Les petites mains techniques
+
+- Mr Bidouille
+- La Dev du Dimanche
+- Sébastien Chopin (Nuxt)
+- (M4dz)
+- Jude Piccard
