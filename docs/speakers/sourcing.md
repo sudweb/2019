@@ -81,11 +81,13 @@ Parce qu’Albi c'est dans le sud, parce que qu'il faut du courage pour se lance
  * @lellex : J'ai pas trop compris, ce serait un sujet de Pierre Renault ?
  * @takcastel : drôle de nom cet orateur ^^
 
-## Dominique Muselet
+## Franck Lebas - contacté
 Le problème du chômage et des inégalités peut être résolu par un salaire minimum garanti à vie pour tous avec une faible échelle des salaires et la gratuité de la santé, des services et du logement. 
 L’exploitation des ressources devra être soutenable et toutes les formes de prédations durement sanctionnées.
  * @bertrandkeller : :+1: faire le lien entre la **contribution open source et source de revenu** avec le salaire à vie. un angle que j'aurai aimer aborder.
   * @takcastel : je soutiens l'initiative mais je prime d'abord les sujets tech
+  
+ Ressources : http://www.reseau-salariat.info/ee9a84efdce8d711b9e16feca2d94fb4?lang=fr
 
 ## Clément MONTFORT
 https://fr.tipeee.com/next-web-serie - https://www.telerama.fr/television/le-meilleur-de-youtube-clement-montfort,-realisateur-qui-ne-laisse-pas-abattre,n5830011.php
@@ -130,7 +132,7 @@ https://hexatope.io/
  * @lellex : :+1: Parce qu'elle fait des jolies choses !
  * @takcastel : :+1: on dit artisane, mais pour moi c'est un grand oui :P
  
-## Jude Piccard
+## Jude Piccard - contacté
 Un jeune qui fait du Python et a travaillé un logiciel de traitement d'image sur un satellite envoyé sur Mars. Le sujet laisse rêveur et on a envie d'en savoir plus. Qu'est-ce que ça fait de faire partie d'une aventure spatiale en tant que développeur ? Comment on se sent, à si petite échelle, impliqué dans l'évolution de l'humanité. Habite à Toulouse, travaille à Capgemini.
  * @takcastel : :+1: je dis oui, oui, oui ! En plus c'est un pote.
  
@@ -167,7 +169,7 @@ Chercheur à l'IRIT (à côté du Catalyseur). Il fait des recherches sur la con
 - Véronique Lagrange (DREAL)
 - Inès Léraud (journaliste)
 - Pierre Renault (consommation ressources locales)
-- Dominique Muselet (chômage / inégalités)
+- Franck Lebas (chômage / inégalités)
 - Clément Montfort (webserie / effondrement)
 - DataGueule (mise en lumière de sujets sociétaux via leurs vidéos)
 - Gaël Musquet (OpenStreetMap / catastrophes naturelles)
