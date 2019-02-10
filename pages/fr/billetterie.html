@@ -3,7 +3,7 @@ title: Billetterie
 description: "Réservez votre place, il n'y en aura pas pour tout le monde"
 i18n-key: register
 permalink: /billetterie/
-published: false
+published: true
 ---
 
 <section class="section">
@@ -13,11 +13,11 @@ published: false
       Il existe trois tarifs pour Sud Web, destinés à des publics différents. Ces trois types de billets ouvrent droit à la même expérience, sans aucune différence faite, sur place, entre les personnes. Les tarifs réduits et pro-diversité sont financés par <a href="{{ "/financer/" | relative_url }}">la solidarité</a> de la communauté Sud Web, <a href="{{ "/merci/" | relative_url }}">particuliers comme entreprises</a>.
     </p>
     <p class="text-center">
-      <a class="button" data-text="tarif plein (250&nbsp;€)" href="#register" title="Réserver une place à plein tarif">
-        <span class="button-inner">tarif plein (250&nbsp;€)</span>
+      <a class="button" data-text="tarif plein (120&nbsp;€)" href="#register" title="Réserver une place à plein tarif">
+        <span class="button-inner">tarif plein (120&nbsp;€)</span>
       </a>
       <a class="button" data-text="ÉPUISÉS" href="#tarif-reduit" title="S'inscrire en liste d'attente pour une place à tarif réduit">
-        <span class="button-inner">tarif réduit (50&nbsp;€)</span>
+        <span class="button-inner">tarif réduit (30&nbsp;€)</span>
       </a>
       <a class="button" data-text="tarif pro-diversité (gratuit)" href="#diversity" title="Candidater pour une place pro-diversité">
         <span class="button-inner">tarif pro-diversité (gratuit)</span>
@@ -112,8 +112,7 @@ published: false
   <div class="wrapper">
     <h2 id="diversity">Tickets Pro-Diversité</h2>
     {% comment %}<p><a href="https://diversitytickets.org/" target="_blank">DiversityTickets.org</a> est une initiative de la Fondation Travis dont l'objectif est d'encourager la diversité en offrant des places pour des événements.</p>{% endcomment %}
-    <p>Les personnes ayant l'impression d'appartenir à un groupe sous-représenté dans le domaine de la technologie (cela comprend, sans s'y limiter : les personnes de couleur, les personnes LGBTQIA+, les femmes et les personnes handicapées) sont éligibles à cette initiative leur permettant de bénéficier d'un billet gratuit pour Sud Web 2018.</p>
-
+    <p>Les personnes ayant l'impression d'appartenir à un groupe sous-représenté dans le domaine de la technologie sont éligibles à cette initiative leur permettant de bénéficier d'un billet gratuit pour Sud Web 2018.</p>
     <p>Si vous êtes éligible et souhaitez profiter d’une de ces places mais que vous voulez quand même aider financièrement Sud Web, vous pouvez <a href="{{ "/financer/#diversity" | relative_url }}">réaliser un don</a>. Cet argent ne sera pas utilisé cette année mais servira pour renouveler l’initiative l’année prochaine.</p>
 
     <p>Il y a actuellement {{ site.data.crowdfunding.diversity.nb }} places <a href="{{ "/financer/#diversity" | relative_url }}" title="Offrir des places pour la diversité">financées</a>{% if site.data.crowdfunding.diversity.available > 0 %} dont <strong>{{ site.data.crowdfunding.diversity.available }} sont disponible{% if site.data.crowdfunding.diversity.available > 1 %}s{% endif %}</strong>{% endif %}.</p>
@@ -122,22 +121,6 @@ published: false
     <div class="text-center">
       <a class="button" target="_blank" href="https://goo.gl/forms/rNFMxcLQYPMH0z4S2" data-text="Candidater sur le site de Diversity Tickets">
         <span class="button-inner">Candidater{% comment %} sur le site de Diversity Tickets{% endcomment %}</span>
-      </a>
-    </div>
-  </div>
-</section>
-
-<hr class="wrapper">
-
-<section class="section">
-  <div class="wrapper">
-    <h2>Effrayé·e par le trajet ?</h2>
-    <section>
-      <p>Nous avons des solutions ! Nous n'avons pas choisi ce lieu par hasard et pensons vraiment qu'il nous permettra de vous offrir le meilleur Sud Web possible… qui commencera d'ailleurs peut-être pendant le trajet !</p>
-    </section>
-    <div class="text-center">
-      <a class="button" href="{{ "/venir-anduze/" | relative_url }}" data-text="Venir à Anduze">
-        <span class="button-inner">Venir à Anduze</span>
       </a>
     </div>
   </div>
