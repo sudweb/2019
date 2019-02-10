@@ -11,17 +11,17 @@
 - name: Programme
   type: page
   value: programme
-  in_nav: true
+  in_nav: false
   in_footer: false
 - name: Billetterie
   type: page
   value: billetterie
-  in_nav: false
-  in_footer: false
+  in_nav: true
+  in_footer: true
 - name: Venir à Anduze
   type: page
   value: venir-anduze
-  in_nav: true
+  in_nav: false
   in_footer: false
 - name: Infos pratiques
   type: page
