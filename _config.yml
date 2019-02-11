@@ -16,7 +16,7 @@ lazyload:
 # Est-ce qu'on vend des places à tarif plein, est-ce qu'on propose une liste d'attente ou les deux ?
 tickets:
   selling: true
-  waiting-list: true
+  waiting-list: false
 
 # Compression du code HTML en production
 compress_html:
@@ -31,7 +31,7 @@ robots: index,follow
 # Services configuration
 
 weezevent:
-    mini-site-url: https://www.weezevent.com/sudweb-2019
+    mini-site-url: https://www.weezevent.com/sud-web-2019
 
 newsletter:
   url: http://sudweb.us2.list-manage.com/subscribe?u=af19b58cf514c01eca3f7652e&id=b579f5b507
