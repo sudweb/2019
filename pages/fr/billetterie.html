@@ -16,7 +16,7 @@ published: true
       <a class="button" data-text="tarif plein (120&nbsp;€)" href="#register" title="Réserver une place à plein tarif">
         <span class="button-inner">tarif plein (120&nbsp;€)</span>
       </a>
-      <a class="button" data-text="ÉPUISÉS" href="#tarif-reduit" title="S'inscrire en liste d'attente pour une place à tarif réduit">
+      <a class="button" data-text="AUCUNS" href="#tarif-reduit" title="S'inscrire en liste d'attente pour une place à tarif réduit">
         <span class="button-inner">tarif réduit (30&nbsp;€)</span>
       </a>
       <a class="button" data-text="tarif pro-diversité (gratuit)" href="#diversity" title="Candidater pour une place pro-diversité">
@@ -33,16 +33,24 @@ published: true
     <h2>Que comprend une place pour Sud Web ?</h2>
     <div class="grid-2">
       <section>
-        <h3>Une journée de conférence</h3>
-        <p>Le vendredi, une journée placée sous l'angle de la transmission, du retour d'expérience et de l'émotion. Tous les participants se réunissent pour écouter ou participer à des interventions qui se succèdent, entrecoupées de pauses pour réfléchir et échanger.</p>
+        <h3>Conférences le Vendredi matin</h3>
+        <p>Le vendredi matin, rendez-vous au Catalyseur de l'université Toulouse Paul Sabatier pour faire le plein d'énergie avec un petit déjeuner suivi de conférences dans un amphithéatre. Ces conférences ne sont pas obligatoires mais ouvrent l'évènement pour lancer notre journée.</p>
       </section>
       <section>
-        <h3>Le Forum Ouvert</h3>
-        <p>Le samedi, une journée d'échange et de co-construction, où tout devient possible. Chacun·e amène ses idées le matin, et nous construisons ensemble des prises de paroles, des ateliers, des réflexions…</p>
+        <h3>Forum ouvert toute la journée</h3>
+        <p>En parallèle, vous aurez la possibilité de proposer vos propres sujets, ateliers ou autres présentations. Nous laisserons à votre disposition un ensemble de 4 salles dont certaines pouvant accueillir des <em>talks</em> et 1 espace de coworking pour des ateliers plus techniques.</p>
       </section>
     </div>
-    <p>Vous pouvez choisir de vivre l’évènement de différentes manières : en restant <a href="{{ "/#dodo" | relative_url }}" title="Dormir sur place au Val de l'Hort">au Val de l'Hort</a> avec nous pendant toute la durée de l'événement ou en profitant de ce que propose Anduze en terme d'hébergement, de repas et autres divertissements.</p>
-    <p>Mais quoi qu’il en soit, sachez que vous serez chouchouté·e·s et bien nourri·e·s. Chaque place comprend de copieux petits-déjeuners, de délicieux buffets déjeunatoires – végétariens par défaut – et de petites collations pendant les pauses pour vous éviter l’hypoglycémie. Sans oublier les soirées communautaires, pour prolonger les échanges de la journée.</p>
+    <div class="grid-2">
+      <section>
+        <h3>Un accès au Fablab</h3>
+        <p>Nous proposons également un accès au Fablab afin que vous puissiez proposer des retours d'expériences sur vos réalisations. Pour en savoir plus, voici quelques informations sur le <a href="https://twitter.com/sudweb">matériel disponible</a> dans cette salle en accès libre.</p>
+      </section>
+      <section>
+        <h3>Un Samedi libre et gratuit</h3>
+        <p>Après cette journée lab remplie de discussions, d'expériences et de créations, rendez-vous le lendemain au Jardin Mon Plaisir pour une journée ouverte et gratuite où l'ont poursuit nos échanges et nos partages dans un parc collaboratif.</p>
+      </section>
+    </div>
     <p>Si vous avez des questions, n'hésitez pas à nous contacter par <a href="mailto:contact@sudweb.fr" title="Envoyer-nous un email">mail</a>, sur <a href="https://twitter.com/sudweb">Twitter</a>, ou <a href="http://sudweb.herokuapp.com/">Slack</a>.</p>
   </div>
 </section>
@@ -50,7 +58,7 @@ published: true
 {% if site.tickets.selling %}
 <section class="section" id="register">
   <div class="wrapper">
-    <h2>{% comment %}Acheter votre place et&#8239;/&#8239;ou {% endcomment %}Contribuer à la cagnotte</h2>
+    <h2>Acheter votre place et&#8239;/&#8239;ou Contribuer à la cagnotte</h2>
     <a title="Billetterie en ligne pour Sud Web" href="https://www.weezevent.com/?c=sys_widget" class="weezevent-widget-integration"
       target="_blank" data-src="https://www.weezevent.com/widget_billeterie.php?id_evenement=308930&lg_billetterie=1&code=76027&resize=1&width_auto=1&color_primary=93ac3d"
       data-width="650" data-height="600" data-id="308930" data-resize="1" data-width_auto="1" data-noscroll="0" data-nopb="0">Billetterie Weezevent</a>
