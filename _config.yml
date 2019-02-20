@@ -49,6 +49,8 @@ collections:
     order: date asc
     permalink: /talks/:path/
     sitemap: false
+  locations:
+    output: true
 
 defaults:
   -
@@ -65,6 +67,12 @@ defaults:
     values:
       baseurl: "/2019/en"
       locale: en_US
+  -
+    scope:
+      path: ""
+      type: "locations" # a collection in your site, in plural form
+    values:
+      layout: "locations"
 
 microtypo:
   median: true
