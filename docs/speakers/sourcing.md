@@ -160,6 +160,33 @@ Chercheur à l'IRIT (à côté du Catalyseur). Il fait des recherches sur la con
 
 ## Regroupement par thèmatiques
 
+### Principes qui se dégagent par bertrandkeller
+
+Sébastien Chopin veut présenter un sujet sur la difficulté d’animer une communauté (NuxtJs). Comment fidéliser des développeurs sur un projet qui ne rapporte pas d’argent directement. Franck Lebas pourrait venir (en tant que gentil virus :: http://gentilsvirus.org/) pour discuter des notions de valeur productive et de valeur d’usage (se qui rapporte de l'argent et se qui sert à la société).
+
+Justement des personnes comme Mr Bidouille ou Gaël Musquet (ou Framasoft) pourraient venir animer des ateliers et présenter leurs actions de bidouille en tant que valeur d’usage. Jude Piccard amenerait une discussion intéressante sur la recherche sur Mars, ce qui se passe, comment on peut y participer, à quoi sa sert d’aller sur Mars ?
+
+Pour aborder la question du cadre, le sujet de travail de Sandra Chakroun évoquerait la question des conséquences des lois sur nos possibilités de travailler ensemble afin de générer de la valeur.
+
+Où faire ça et comment ? Mettons sur le tapis la question des tiers lieu avec Anne-Sophie Girard ou Mélissa Gentile. Comment on fait se rencontrer les citoyens pour qu'ils apprennent à collaborer ?
+
+**Pour résumer :**
+
+On nous parle de la nécessité de changer de société au plus vite. A Sud Web, cette année, on voulait aller dans le "faire". Qui fait ? Comment ? Où ça ? Pourquoi ? Pour qui ?
+
+*Exemple de programme :*
+* Sandra Chakroun => Le cadre
+* Véronique Lagrange => Le cadre
+* Anne-Sophie Girard => Où ça
+* Inès Léraud => Pourquoi
+* Sébastien Chopin => Qui fait
+* Jude Piccard => Pour qui
+* Umberto Grandi => Comment
+* Mr Bidouille => Quoi
+* La Dev du Dimanche => Qui fait
+* Franck Lebas  => Le cadre
+
+
 ### Thème (Marien) : Informatique et impact sociétal
 
 - Mélissa Gentile (Usines Nouvelles / tiers-lieu)
