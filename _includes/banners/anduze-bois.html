@@ -1,0 +1,15 @@
+{% if include.page_top %}
+  {% assign slug = "anduze-bois page-top" %}
+{% else %}
+  {% assign slug = "anduze-bois" %}
+{% endif %}
+{% include banners/_generic.html
+  slug=slug
+  locale=include.locale
+  source_title="Un atelier en pleine nature"
+  source_url="https://flic.kr/p/KTSg7w"
+  source_author="Sud Web"
+  source_rights_url="https://creativecommons.org/licenses/by-sa/2.0/"
+  source_rights_title="Licence Creative Commons"
+  source_rights_shortname="CC BY-SA 2.0"
+%}
