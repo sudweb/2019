@@ -6,19 +6,64 @@ permalink: /
 redirect_from:
 - /thym/
 ---
+
 <section class="section">
   <div class="wrapper">
-    <div class="wrapper-inner">
-      <p class="text-center">
-        <a class="button" data-text="réserver votre place" href="/2019/billetterie/" title="réserver votre place">
-          <span class="button-inner">réserver votre place</span>
-        </a>
-      </p>
-      <p>Une petite équipe se consulte pour vous proposer une nouvelle édition de Sud Web pour 2019.</p>
-      <blockquote>
-        <p>Quatre personnes pour préparer un évènement pour une centaine de personnes, c’est déjà pas mal. Ça nous laisse l’occasion d’expérimenter des choses et de nous faire vraiment plaisir.</p>
-      </blockquote>
-      <p><strong>Nous faire plaisir ?</strong> Probablement en essayant de construire encore un moment d’échanges et de réflexion. <strong>Expérimenter ?</strong> Peut-être en ouvrant un peu plus l’organisation à vous notre public, vous rendre encore plus acteur de ces 2 jours de conférence.</p>
+    <h1>Réserver votre place</h1>
+    <p>
+      Il existe deux tarifs pour Sud Web, destinés à des publics différents. Ces deux types de billets ouvrent droit à la même expérience sans qu'aucune différence ne soit faite entre les personnes. Les tarifs réduits sont financés par les dons et distribués régulièrement par tirage au sort.
+      {% comment %}Les tarifs réduits et pro-diversité sont financés par <a href="{{ "/financer/" | relative_url }}">la solidarité</a> de la communauté Sud Web, <a href="{{ "/merci/" | relative_url }}">particuliers comme entreprises</a>.{% endcomment %}
+    </p>
+    <p class="text-center">
+      <a class="button" data-text="tarif plein (120&nbsp;€)" href="#register" title="Réserver une place à plein tarif">
+        <span class="button-inner">tarif plein (120&nbsp;€)</span>
+      </a>
+      <a class="button" data-text="AUCUNS" href="#tarif-reduit" title="S'inscrire en liste d'attente pour une place à tarif réduit">
+        <span class="button-inner">tarif réduit (30&nbsp;€)</span>
+      </a>
+      {% comment %}
+      <a class="button" data-text="tarif pro-diversité (gratuit)" href="#diversity" title="Candidater pour une place pro-diversité">
+        <span class="button-inner">tarif pro-diversité (gratuit)</span>
+      </a>
+      {% endcomment %}
+    </p>
+  </div>
+</section>
+
+<hr class="wrapper">
+
+<section class="section">
+  <div class="wrapper">
+    <h2>Que comprend une place pour Sud Web ?</h2>
+    <div class="grid-2">
+      <section>
+        <h3>Conférences le Vendredi matin</h3>
+        <p>Le vendredi matin, rendez-vous au <a href="https://www.openstreetmap.org/way/18628306#map=18/43.56276/1.47013" target="_blank" rel="noopener" title="Catalyseur sur open street map">Catalyseur</a> de l'université Toulouse Paul Sabatier pour faire le plein d'énergie avec un petit déjeuner suivi de conférences dans un amphithéatre. Ces speechs ne sont pas obligatoires mais introduisent la thématique de cette année.</p>
+        <a class="button" href="/2019/{{ site.locations.[0].url }}" data-text="{{ site.locations.[0].title }}"><span class="button-inner">{{ site.locations.[0].title }}</span></a>
+      </section>
+      <section>
+        <h3>Forum ouvert toute la journée</h3>
+        <p>En parallèle, vous aurez la possibilité de proposer vos propres sujets,
+          ateliers ou autres présentations. Nous laisserons à votre disposition un
+          ensemble de 4 salles dont certaines pouvant accueillir des <em>talks</em>
+          et 1 espace de coworking pour des ateliers plus techniques.</p>
+      </section>
     </div>
+    <div class="grid-2">
+      <section>
+        <h3>Un accès au Fablab</h3>
+        <p>Nous proposons également un accès au Fablab afin que vous puissiez être
+          initié·es aux machines ou présenter vos projets. Cette salle ne peut accueillir que
+          très peu de personnes par heure mais des personnes seront présentes pour vous
+          accompagner.
+        </p>
+      </section>
+      <section>
+        <h3>Un Samedi libre et gratuit</h3>
+        <p>Après cette journée lab remplie de discussions, d'expériences et de créations, rendez-vous le lendemain au Jardin Mon Plaisir pour une journée gratuite. Ce rassemblement placé sous le signe de la convivialité permettra de poursuivre les discussions de la veille dans un cadre agréable et reposant.</p>
+        <a class="button" href="/2019/{{ site.locations.[1].url }}" data-text="{{ site.locations.[1].title }}"><span class="button-inner">{{ site.locations.[1].title }}</span></a>
+      </section>
+    </div>
+    <p>Si vous avez des questions, n'hésitez pas à nous contacter par <a href="mailto:contact@sudweb.fr" title="Envoyer-nous un email">mail</a>, sur <a href="https://twitter.com/sudweb">Twitter</a>, ou <a href="http://sudweb.herokuapp.com/">Slack</a>.</p>
   </div>
 </section>
