@@ -158,6 +158,14 @@ Chercheur à l'IRIT (à côté du Catalyseur). Il fait des recherches sur la con
 * @takcastel :+1: très belle idée d'atelier et de conf inspirante, un peu technique mais bien vulgarisé, un oui pour moi :)
 * @bertrandkeller : je trouve le personnage super, mais comment le faire intervenir
 
+## Anne-Sophie Girard
+
+Création d’un tiers lieu intergénérationnel près de Grenoble.
+
+> Il s’agit d’un « concept » de lieux favorisant le lien social au sein d’un territoire (quartier ou village), à travers une offre de services répondant à des besoins de la vie quotidienne (bar-petite restauration, services à la personne, lieu propice au travail et à la rencontre) , tout en créant des emplois pour des publics qui en sont éloignés.
+
+[Plus d'infos](http://9nyy.mjt.lu/nl2/9nyy/li53o.html)
+
 ## Regroupement par thèmatiques
 
 ### Principes qui se dégagent par bertrandkeller
