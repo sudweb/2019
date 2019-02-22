@@ -36,7 +36,7 @@ parce qu'elle n'a rien à voir avec le web, parce que son documentaire « Ouvrir
 
 @takcastel : je suis ouvert à cette proposition, mais à contacter rapidement pour gérer les frais
 
-## Sandra Chakroun
+## Sandra Chakroun - contacté mais par linkedin
 parce qu'elle bosse sur le simulateur Open-Fisca afin de mieux prévoir **l'impact des lois sur le volet social de nos vies**, pour son implication dans la communauté open data tunisienne (https://blog.beta.gouv.fr/dinsic/2018/09/24/simuler-impact-loi/)
  * @bertrandkeller : :+1: Oui, c'est cool ça.
  * @lellex : :+1: Ça à l'air intéressant oui !
@@ -158,7 +158,7 @@ Chercheur à l'IRIT (à côté du Catalyseur). Il fait des recherches sur la con
 * @takcastel :+1: très belle idée d'atelier et de conf inspirante, un peu technique mais bien vulgarisé, un oui pour moi :)
 * @bertrandkeller : je trouve le personnage super, mais comment le faire intervenir
 
-## Anne-Sophie Girard
+## Anne-Sophie Girard - Contacté
 
 Création d’un tiers lieu intergénérationnel près de Grenoble.
 
