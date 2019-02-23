@@ -1,8 +1,12 @@
-services:
-  - docker
-sudo: true
+language: ruby
+cache: bundler
+sudo: false
+rvm: 2.6.1
+install:
+- bundle install
 script:
-- docker run --rm --volume="$PWD:/srv/jekyll" jekyll/jekyll:$JEKYLL_VERSION /bin/bash -c "chmod a+wx . && jekyll build -V"
+- bundle exec rake build:prod
+- bundle exec rake postbuild:test
 addons:
   ssh_known_hosts: ssh-sudweb.alwaysdata.net
 before_deploy:
@@ -20,7 +24,6 @@ deploy:
     branch: master
 env:
   global:
-  - JEKYLL_VERSION=3.8
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
   - WEEZEVENT_EVENT_ID=218160
 before_install:

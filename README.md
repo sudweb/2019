@@ -14,8 +14,12 @@ Le site est généré à l'aide de [Jekyll](http://jekyllrb.com/) et nécessite 
 ### Installation avec Docker
 
 ```
+export JEKYLL_VERSION=3.8
+
 docker run --rm --volume="$PWD:/srv/jekyll" -p 3000:4000 -it jekyll/jekyll:$JEKYLL_VERSION jekyll serve
 ```
+
+La version dev est consultable ensuite à l'adresse `localhost:3000/2019`
 
 ### Installation en local
 
