@@ -1,0 +1,16 @@
+{% if include.page_top %}
+  {% assign slug = "toulouse page-top" %}
+{% else %}
+  {% assign slug = "toulouse" %}
+{% endif %}
+{% include banners/_generic.html
+  slug=slug
+  locale=include.locale
+  source_title="La brique rose de Toulouse"
+  source_target_url="https://flic.kr/p/qhWydK"
+  source_url="https://flic.kr/p/qhWydK"
+  source_author="Frédéric Neupont"
+  source_rights_url="https://creativecommons.org/licenses/by-sa/2.0/"
+  source_rights_title="Licence Creative Commons"
+  source_rights_shortname="CC BY-SA 2.0"
+%}

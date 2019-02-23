@@ -9,6 +9,8 @@ layout: microtypo
   {% else %}
     {% include header-page.html %}
   {% endif %}
+  {% include navigation.html %}
+  {{ page.type }}
   {{ content }}
   {% include footer.html %}
   {% include scripts.html %}

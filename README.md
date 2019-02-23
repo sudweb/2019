@@ -11,6 +11,18 @@ Site internet du cycle de conférences annuel Sud Web, dont la 9e édition aura 
 
 Le site est généré à l'aide de [Jekyll](http://jekyllrb.com/) et nécessite Ruby 2.4.3 (voir `.ruby-version`)
 
+### Installation avec Docker
+
+```
+export JEKYLL_VERSION=3.8
+
+docker run --rm --volume="$PWD:/srv/jekyll" -p 3000:4000 -it jekyll/jekyll:$JEKYLL_VERSION jekyll serve
+```
+
+La version dev est consultable ensuite à l'adresse `localhost:3000/2019`
+
+### Installation en local
+
 Nous vous recommandons de gérer l'installation de Ruby via [rbenv](http://rbenv.org/).
 
 Sous Mac OS X, vous pouvez utiliser [Homebrew](http://brew.sh/) pour cela
