@@ -11,16 +11,18 @@ redirect_from:
   <div class="wrapper">
     <h1>Prochaine édition les 24 et 25 mai à Toulouse !</h1>
     <p>
-      Réservez votre place : il existe deux tarifs pour Sud Web, destinés à des publics différents. Ces deux types de billets ouvrent droit à la même expérience sans qu'aucune différence ne soit faite entre les personnes. Les tarifs réduits sont financés par les dons et distribués régulièrement par tirage au sort.
+      Réservez votre place : il existe deux tarifs pour Sud Web, destinés à des publics différents. Ces deux types de billets ouvrent droit à la même expérience sans qu'aucune différence ne soit faite entre les personnes. Les tarifs réduits sont financés par les dons et distribués régulièrement par tirage au sort. Il n'y en a aucun pour le moment.
       {% comment %}Les tarifs réduits et pro-diversité sont financés par <a href="{{ "/financer/" | relative_url }}">la solidarité</a> de la communauté Sud Web, <a href="{{ "/merci/" | relative_url }}">particuliers comme entreprises</a>.{% endcomment %}
     </p>
     <p class="text-center">
       <a class="button" data-text="tarif plein (120&nbsp;€)" href="/2019/billetterie/" title="Réserver une place à plein tarif">
         <span class="button-inner">tarif plein (120&nbsp;€)</span>
       </a>
-      <a class="button" data-text="AUCUNS" href="#tarif-reduit" title="S'inscrire en liste d'attente pour une place à tarif réduit">
+      {% comment %}
+      <a class="button" data-text="tarif réduit (30&nbsp;€)" href="#tarif-reduit" title="S'inscrire en liste d'attente pour une place à tarif réduit">
         <span class="button-inner">tarif réduit (30&nbsp;€)</span>
       </a>
+      {% endcomment %}
       {% comment %}
       <a class="button" data-text="tarif pro-diversité (gratuit)" href="#diversity" title="Candidater pour une place pro-diversité">
         <span class="button-inner">tarif pro-diversité (gratuit)</span>
@@ -72,5 +74,5 @@ redirect_from:
     </div>
     <p>Si vous avez des questions, n'hésitez pas à nous contacter par <a href="mailto:contact@sudweb.fr" title="Envoyer-nous un email">mail</a>, sur <a href="https://twitter.com/sudweb">Twitter</a>, ou <a href="http://sudweb.herokuapp.com/">Slack</a>.</p>
   </div>
-  {% include banners/atelier-tricot.html locale=page.locale %}
+  {% include banners/capitole.html locale=page.locale %}
 </section>
