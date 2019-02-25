@@ -191,7 +191,7 @@ On nous parle de la nécessité de changer de société au plus vite. A Sud Web,
 6. Jude Piccard => Pour qui
 7. Umberto Grandi => Comment
 8. Mr Bidouille => Quoi
-9 La Dev du Dimanche => Qui fait
+9. La Dev du Dimanche => Qui fait
 10. Franck Lebas  => Le cadre
 
 
