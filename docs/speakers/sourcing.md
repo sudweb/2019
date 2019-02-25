@@ -183,16 +183,16 @@ Où faire ça et comment ? Mettons sur le tapis la question des tiers lieu avec 
 On nous parle de la nécessité de changer de société au plus vite. A Sud Web, cette année, on voulait aller dans le "faire". Qui fait ? Comment ? Où ça ? Pourquoi ? Pour qui ?
 
 *Exemple de programme :*
-* Sandra Chakroun => Le cadre
-* Véronique Lagrange => Le cadre
-* Anne-Sophie Girard => Où ça
-* Inès Léraud => Pourquoi
-* Sébastien Chopin => Qui fait
-* Jude Piccard => Pour qui
-* Umberto Grandi => Comment
-* Mr Bidouille => Quoi
-* La Dev du Dimanche => Qui fait
-* Franck Lebas  => Le cadre
+1. Sandra Chakroun => Le cadre
+2. Véronique Lagrange => Le cadre
+3. Anne-Sophie Girard => Où ça
+4. Inès Léraud => Pourquoi
+5. Sébastien Chopin => Qui fait
+6. Jude Piccard => Pour qui
+7. Umberto Grandi => Comment
+8. Mr Bidouille => Quoi
+9 La Dev du Dimanche => Qui fait
+10. Franck Lebas  => Le cadre
 
 
 ### Thème (Marien) : Informatique et impact sociétal
