@@ -6,6 +6,6 @@ description: Le vendredi matin, rendez-vous au Catalyseur de l’université Tou
 price: C’est payant. C’est 120 euros.
 eat: Atelier nourriture, nous fournissons les matières premières, c’est vous qui participez.
 why: Pour allonger le forum ouvert, l’aspect atelier, la mise en pratique
-what: Des présentations le matin, mais en parrallèle des salles pour des ateliers et des conciliabules
+what: Des présentations le matin, mais en parallèle des salles pour des ateliers et des conciliabules
 how: On vient le matin, on se présente, on prend connaissance des grands sujets, on échange, on participe, on s’amuse.
 ---
