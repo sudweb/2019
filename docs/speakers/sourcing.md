@@ -12,7 +12,36 @@ Thèmes possibles :
  1. Zéro waste avec le web - https://riendeneuf.org/
  2. Sites lowtech - https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/
  3. Valeur productive Vs valeur d'usage
- 4. …
+ 4. Espaces de travail, espaces de transoformation, l’espace…
+ 5. …
+ 
+### Principes qui se dégagent pour cette année
+
+Sébastien Chopin veut présenter un sujet sur la difficulté d’animer une communauté (NuxtJs). Comment fidéliser des développeurs sur un projet qui ne rapporte pas d’argent directement. Franck Lebas pourrait venir (en tant que gentil virus) pour discuter des notions de valeur productive et de valeur d’usage (ce qui rapporte de l'argent et ce qui sert à la société).
+
+Justement des personnes comme Mr Bidouille ou Gaël Musquet (ou Framasoft) pourraient venir animer des ateliers et présenter leurs actions de bidouille en tant que valeur d’usage. Jude Piccard amenerait une discussion intéressante sur la recherche sur Mars, ce qui se passe, comment on peut y participer, à quoi sa sert d’aller sur Mars ?
+
+Pour aborder la question du cadre, le sujet de travail de Sandra Chakroun évoquerait la question des conséquences des lois sur nos possibilités de travailler ensemble afin de générer de la valeur.
+
+Où faire ça et comment ? Mettons sur le tapis la question des tiers lieu avec Anne-Sophie Girard ou Mélissa Gentile. Comment on fait se rencontrer les citoyens pour qu'ils apprennent à collaborer ?
+
+Enfin, quand on agit : qu'est-ce que cela implique ? À quoi se confronte-t-on ? Comment le web permet d’informer de communiquer ? Inès Léraud a une belle expérience sur le sujet.
+
+**Pour résumer :**
+
+On nous parle de la nécessité de changer de société au plus vite. A Sud Web, cette année, on voulait aller dans le "faire". Qui fait ? Comment ? Où ça ? Quoi ? Pourquoi ? Pour qui ?
+
+*Exemple de programme :*
+1. Sandra Chakroun => Pour qui - contactée :: @bertrandkeller
+2. Véronique Lagrange => Le cadre
+3. Anne-Sophie Girard => Où ça - contactée :: @bertrandkeller
+4. Inès Léraud => Pourquoi :: @Marien
+5. Sébastien Chopin => Qui fait - contacté/validée :: @bertrandkeller
+6. Jude Piccard => Pour qui - contacté :: @Tak
+7. Umberto Grandi => Comment
+8. Mr Bidouille => Quoi :: @Tak
+9. Lola Guilldou => Qui fait
+10. Franck Lebas  => Le cadre - contacté  :: @bertrandkeller
 
 ## Mélissa Gentile
 parce qu'elle a la patate, anime le tiers-lieu Quartier Génial dans un quartier en transition près de Bordeaux, est liée aux Usines Nouvelles à Poitiers (http://www.lesusinesnouvelles.com)
@@ -23,18 +52,6 @@ parce qu'elle a la patate, anime le tiers-lieu Quartier Génial dans un quartier
 parce qu'elle fait des trucs top dans les prisons et étudie le langage d'une manière fascinante (https://twitter.com/Laelia_Ve)
  * @bertrandkeller : les prisons, le langage intéressant
  * @takcastel : :+1: yes j'aime bien ce qu'elle tweet
-
-## Stéphanie Baltus
-parce que j'aime ce qu'elle tweet, bosse chez Algolia à Paris (https://twitter.com/steph_baltus)
- * @lellex : pourquoi pas mais sur quel sujet ?
- * @takcastel : quel pourrait-être le sujet ?
-
-## Amandine Gay
-parce qu'elle n'a rien à voir avec le web, parce que son documentaire « Ouvrir la voix » déchire et que j'y vois un potentiel pour apprendre d'elle mais aussi partager des formats de discussion/technique (audio/vidéo) avec une communauté proche du libre et des communs (https://www.youtube.com/user/orpheonegra) (et aussi http://cheekmagazine.fr/societe/amandine-gay-france-20-ans-retard-les-questions-raciales/)
-
-:warning: elle vit au Canada désormais (mais peut-être qu'elle peut recommander quelqu'un qui a bossé avec elle/partage ses vues et qui vit en France)
-
-@takcastel : je suis ouvert à cette proposition, mais à contacter rapidement pour gérer les frais
 
 ## Sandra Chakroun - contacté mais par linkedin
 parce qu'elle bosse sur le simulateur Open-Fisca afin de mieux prévoir **l'impact des lois sur le volet social de nos vies**, pour son implication dans la communauté open data tunisienne (https://blog.beta.gouv.fr/dinsic/2018/09/24/simuler-impact-loi/)
@@ -58,7 +75,7 @@ le Youtubeur https://twitter.com/MrBidouille : car il est très pédagogique et 
  * @lellex : :+1:
  * @takcastel :+1: Je suis son plus grand fan (smiley coeur)
 
-## La Dev Du Dimanche
+## Lola Guilldou (La Dev Du Dimanche)
 (Youtubeuse aussi) https://twitter.com/dev_dimanche pour avoir ses retours d’expérience sur la création d’un jeu et le suivi de son évolution sur sa chaîne, j’adore assez ce qu’elle publie comme contenu et ses tweets sont intéressants aussi
  * @takcastel :+1:
 
@@ -75,12 +92,6 @@ parce qu'il a lancé une action pour consommer des ressources locales dans les e
   * @takcastel : intéressant, mais on s'écarte de la technique
   * @bertrandkeller : en fait, il a essayé de monter une plateforme web pour les artisants (un échec). Ce que j'aime bien dans son profil c’est qu'il s'est lancé dans l'inconnu et qu'il a complétement investi un secteur qui existait peut il y a quelques années. Mais bon, son projet est tellement particulier que c'est toujours dur d'en parler.
 
-## Effondrement et l'autonomie alimentaire à Albi
-Parce qu’Albi c'est dans le sud, parce que qu'il faut du courage pour se lancer sur ce sujet à la mode. Parce que ça peut s’intégrer à la journée du samedi dans le jardin. L'autonomie alimentaire et le web ?
- * @bertrandkeller : :+1: car le samedi on va dans un jardin avec des producteurs
- * @lellex : J'ai pas trop compris, ce serait un sujet de Pierre Renault ?
- * @takcastel : drôle de nom cet orateur ^^
-
 ## Franck Lebas - contacté
 Le problème du chômage et des inégalités peut être résolu par un salaire minimum garanti à vie pour tous avec une faible échelle des salaires et la gratuité de la santé, des services et du logement. 
 L’exploitation des ressources devra être soutenable et toutes les formes de prédations durement sanctionnées.
@@ -88,25 +99,6 @@ L’exploitation des ressources devra être soutenable et toutes les formes de p
   * @takcastel : je soutiens l'initiative mais je prime d'abord les sujets tech
   
  Ressources : http://www.reseau-salariat.info/ee9a84efdce8d711b9e16feca2d94fb4?lang=fr
-
-## Clément MONTFORT
-https://fr.tipeee.com/next-web-serie - https://www.telerama.fr/television/le-meilleur-de-youtube-clement-montfort,-realisateur-qui-ne-laisse-pas-abattre,n5830011.php
- * @bertrandkeller : a lancé un web serie très engagée
- * @lellex : :-1: un peu angoissant / pessimiste et pas trop de rapport avec le web (à part la plateforme)
- * @takcastel : bien que j'accroche le discours, je ne souhaite pas amener le sujet de la collapsologie à Sud Web
-
-## M4dz
-Parce qu'il vulgarise la crypto en l'appliquant à des problématiques de vie privées sur Internet et que c'est cool - https://m4dz.net/ et https://twitter.com/m4d_z
- * Marien : Vu à Snowcamp 2019, il m'a réconcilié avec la Blockchain (et c'était pas gagné).
- * @bertrandkeller : :-1: présent dans beaucoup de conférences, on l'aime mais déjà vu
- * @takcastel : :+1: et bien je dis pourquoi pas, ça m'intéresse
-
-## Frédéric Bordage
-Il mène des réflexions autour de l'impact environnemental de l'informatique à travers le site https://www.greenit.fr/.
- * Marien : Vu à Snowcamp 2019, j'étais pas forcément d'accord avec tout ce qu'il disait, mais sa démarche (proche de celle d'un⋅e UX designer) est intéressante.
- * @bertrandkeller : :-1: considéré comme une conférence "sponso", par moi en tout cas. déjà vu : https://www.paris-web.fr/orateurs/frederic-bordage.php
- * @lellex : :-1: Sujet un peu déjà vu
- * @takcastel : tu en as rencontré du monde à snowcamp dis donc ^^, sujet intéressant mais déjà vu hélas
 
 ## Manon Bril
 Elle est docteure en histoire contemporaine et Youtubeuse. Elle vulgarise l'histoire avec beaucoup d'humour. Elle vient de Toulouse à la base donc potentiellement pas trop compliquée de l'inviter.
@@ -166,46 +158,16 @@ Création d’un tiers lieu intergénérationnel près de Grenoble.
 
 [Plus d'infos](http://9nyy.mjt.lu/nl2/9nyy/li53o.html)
 
-## Regroupement par thèmatiques
-
-### Principes qui se dégagent par bertrandkeller
-
-Sébastien Chopin veut présenter un sujet sur la difficulté d’animer une communauté (NuxtJs). Comment fidéliser des développeurs sur un projet qui ne rapporte pas d’argent directement. Franck Lebas pourrait venir (en tant que gentil virus :: http://gentilsvirus.org/) pour discuter des notions de valeur productive et de valeur d’usage (se qui rapporte de l'argent et se qui sert à la société).
-
-Justement des personnes comme Mr Bidouille ou Gaël Musquet (ou Framasoft) pourraient venir animer des ateliers et présenter leurs actions de bidouille en tant que valeur d’usage. Jude Piccard amenerait une discussion intéressante sur la recherche sur Mars, ce qui se passe, comment on peut y participer, à quoi sa sert d’aller sur Mars ?
-
-Pour aborder la question du cadre, le sujet de travail de Sandra Chakroun évoquerait la question des conséquences des lois sur nos possibilités de travailler ensemble afin de générer de la valeur.
-
-Où faire ça et comment ? Mettons sur le tapis la question des tiers lieu avec Anne-Sophie Girard ou Mélissa Gentile. Comment on fait se rencontrer les citoyens pour qu'ils apprennent à collaborer ?
-
-**Pour résumer :**
-
-On nous parle de la nécessité de changer de société au plus vite. A Sud Web, cette année, on voulait aller dans le "faire". Qui fait ? Comment ? Où ça ? Pourquoi ? Pour qui ?
-
-*Exemple de programme :*
-1. Sandra Chakroun => Le cadre
-2. Véronique Lagrange => Le cadre
-3. Anne-Sophie Girard => Où ça
-4. Inès Léraud => Pourquoi
-5. Sébastien Chopin => Qui fait
-6. Jude Piccard => Pour qui
-7. Umberto Grandi => Comment
-8. Mr Bidouille => Quoi
-9. La Dev du Dimanche => Qui fait
-10. Franck Lebas  => Le cadre
-
+## Regroupement par thèmatiques par @Marien
 
 ### Thème (Marien) : Informatique et impact sociétal
 
 - Mélissa Gentile (Usines Nouvelles / tiers-lieu)
-- Laélia Véron (travail dans les prisons)
-- Amandine Gay (doc "Ouvrir la voix")
 - Sandra Chakroun (simulateur Open-Fisca)
 - Véronique Lagrange (DREAL)
 - Inès Léraud (journaliste)
 - Pierre Renault (consommation ressources locales)
 - Franck Lebas (chômage / inégalités)
-- Clément Montfort (webserie / effondrement)
 - DataGueule (mise en lumière de sujets sociétaux via leurs vidéos)
 - Gaël Musquet (OpenStreetMap / catastrophes naturelles)
 - Umberto Grandi (algorithme prise de décisions)
