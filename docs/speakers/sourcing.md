@@ -34,14 +34,14 @@ On nous parle de la nécessité de changer de société au plus vite. A Sud Web,
 *Exemple de programme :*
 1. Sandra Chakroun => Pour qui - contactée :: @bertrandkeller
 2. Véronique Lagrange => Le cadre
-3. Anne-Sophie Girard => Où ça - contactée :: @bertrandkeller
-4. Inès Léraud => Pourquoi :: @Marien
-5. Sébastien Chopin => Qui fait - contacté/validée :: @bertrandkeller
+3. Anne-Sophie Girard => Où ça - contactée/validé :: @bertrandkeller
+4. Inès Léraud => Pourquoi contacté :: @Marien
+5. Sébastien Chopin => Qui fait - contacté/validé :: @bertrandkeller
 6. Jude Piccard => Pour qui - contacté :: @Tak
-7. Umberto Grandi => Comment
+7. Umberto Grandi => Comment - contacté mais pas dispo
 8. Mr Bidouille => Quoi :: @Tak
 9. Lola Guilldou => Qui fait
-10. Franck Lebas  => Le cadre - contacté  :: @bertrandkeller
+10. Franck Lebas  => Le cadre - contacté/validé  :: @bertrandkeller
 
 ## Mélissa Gentile
 parce qu'elle a la patate, anime le tiers-lieu Quartier Génial dans un quartier en transition près de Bordeaux, est liée aux Usines Nouvelles à Poitiers (http://www.lesusinesnouvelles.com)
@@ -144,7 +144,7 @@ Un des fondateurs de OpenStreetMap, hacker et maker impliqué dans la préventio
  * @takcastel :+1: allez je dis oui rien que pour voir des makiniens faire de l'OSM à Sud Web :P
  * @bertrandkeller :+1: Gaël serait dans son élément dans cette édition 2019, ce qui n'était pas le cas dans les précédentes.
  
-## Umberto Grandi
+## Umberto Grandi - contacté mais pas dispo
 Chercheur à l'IRIT (à côté du Catalyseur). Il fait des recherches sur la conception de procédures et d'algorithmes dans le domaine informatique. Vidéo de présentation où il explique bien son métier : https://www.youtube.com/watch?v=G0R-RJPd5r0
 * @lellex : :+1: Je trouve qu'il explique assez bien ce qu'il fait, en plus il est à côté du Catalyseur !
 * @takcastel :+1: très belle idée d'atelier et de conf inspirante, un peu technique mais bien vulgarisé, un oui pour moi :)
