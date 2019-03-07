@@ -9,7 +9,7 @@ Site internet du cycle de conférences annuel Sud Web, dont la 9e édition aura 
 
 ## Pré-requis
 
-Le site est généré à l'aide de [Jekyll](http://jekyllrb.com/) et nécessite Ruby 2.4.3 (voir `.ruby-version`)
+Le site est généré à l'aide de [Jekyll](http://jekyllrb.com/) et nécessite Ruby 2.6.1 (voir `.ruby-version`)
 
 ### Installation avec Docker
 
@@ -31,10 +31,13 @@ $ brew install rbenv ruby-build
 ```
 
 Sous GNU/Linux, certaines librairies sont nécessaires (à adapter à votre gestionnaire de paquets) :
+
 ```bash
 sudo apt-get install -y libreadline-dev build-essential
 ```
+
 Puis pour rbenv et ruby-build, préférer une installation par git :
+
 ```bash
 $ git clone https://github.com/rbenv/rbenv.git ~/.rbenv
 $ cd ~/.rbenv && src/configure && make -C src
@@ -48,15 +51,24 @@ Si vous n'avez pas déjà cloné le dépot :
 ```bash
 $ git clone https://github.com/sudweb/2019.git && cd 2019
 ```
+
 Si bundler n'est pas installé
 ```bash
 $ gem install bundler
 ```
+
 Pour installer toutes les dépendances du projet :
 ```bash
 $ bundle install;
 $ bundle exec rake prebuild:install;
 ```
+
+Si vous avez des problèmes pour l'installation de nokogiri :
+```bash
+$ gem update --system;
+$ bundle config build.nokogiri --use-system-libraries
+```
+
 Pour installer la bonne version de Ruby avec rbenv :
 ```bash
 $ rbenv install
