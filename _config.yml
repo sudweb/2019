@@ -51,6 +51,9 @@ collections:
     sitemap: false
   locations:
     output: true
+  speakers:
+    output: true
+
 
 defaults:
   -
@@ -73,6 +76,12 @@ defaults:
       type: "locations" # a collection in your site, in plural form
     values:
       layout: "locations"
+  -
+    scope:
+      path: ""
+      type: "speakers" # a collection in your site, in plural form
+    values:
+      layout: "speakers"
 
 microtypo:
   median: true
