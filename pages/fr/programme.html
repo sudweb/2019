@@ -3,7 +3,7 @@ title: Programme
 description: Le programme de l'édition 2018 de Sud Web
 i18n-key: programme
 permalink: /programme/
-published: false
+published: true
 ---
 
 {%- assign conferences = site.talks | sort: "display-order" -%}
@@ -11,10 +11,10 @@ published: false
 
 <section class="section">
   <div class="wrapper">
-    <h1>Le programme 2018 : {{ number_of_conferences }} conférences</h1>
+    <h1>Le programme 2019</h1>
     <p>Cette année, nous avons constitué un programme en lien avec nos valeurs d’inspiration, de lien, de bienveillance et d’authenticité. Vous y trouverez des engagements humains, professionnels, éthiques, des personnes qui tentent de renverser la table comme des gens qui veulent se comprendre et proposer de nouvelles choses.</p>
     {% if site.tickets.selling %}
-    <p class="text-center"><a class="button" data-text="{% t réserver votre place %}" href="{{ page.baseurl | default:site.baseurl }}/{{ "billetterie" | t: page.locale }}/" title="{% t Venir à Sud Web 2018 %}">
+    <p class="text-center"><a class="button" data-text="{% t réserver votre place %}" href="{{ page.baseurl | default:site.baseurl }}/{{ "billetterie" | t: page.locale }}/" title="{% t Venir à Sud Web 2019 %}">
       <span class="button-inner">{% t réserver votre place %}</span>
     </a></p>
     {% endif %}
@@ -27,24 +27,27 @@ published: false
   </div>
 </section>
 
-{% include speakers.html conferences=conferences locale=page.locale shorturl=true %}
+<section class="section">
+  <div class="wrapper">
+  <div class="grid-2">
+      {% for speaker in site.speakers %}
+      <section>
+      <figure class="person">
+        <a title="{{ "Aller directement à l'intervention de %s" | replace:"%s",speaker.title }}" href="{{ speaker.url }}"><img src="/2019/assets/images/speakers/{{ speaker.image }}" class="person-avatar lozad" width="150" height="150"></a>
+      </figure>
+      <a href="/2019{{ speaker.url }}">{{ speaker.speaker }}</a>
+      {% if speaker.fr_FR.description %}<p>{{ speaker.fr_FR.description }}</p>{% endif %}
+      </section>
+    {% endfor %}
+
+    </div>
+  </div>
+</section>
 
 <section class="section">
   <div class="wrapper">
     <hr>
   </div>
 </section>
-
-{% include conferences.html conferences=conferences locale=page.locale %}
-
-{% if site.tickets.selling %}
-<section class="section">
-  <div class="wrapper">
-    <p class="text-center"><a class="button" data-text="{% t réserver votre place %}" href="{{ page.baseurl | default:site.baseurl }}/{{ "billetterie" | t: page.locale }}/" title="{% t Venir à Sud Web 2018 %}">
-      <span class="button-inner">{% t réserver votre place %}</span>
-    </a></p>
-  </div>
-</section>
-{% endif %}
 
 {% include banners/forum.html locale=page.locale %}

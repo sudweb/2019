@@ -4,6 +4,9 @@ layout: default
 
 <article class="wrapper">
   <h1>{{ page.title }}</h1>
-  <p>{{ page.description }}</p>
+  <figure class="person">
+    <a title="{{ "Aller directement à l'intervention de %s" | replace:"%s",page.title }}" href="{{ page.url }}"><img src="/2019/assets/images/speakers/{{ page.image }}" class="person-avatar lozad" width="150" height="150"></a>
+  </figure>
+  {% if page.fr_FR.description %}<p>{{ page.fr_FR.description }}</p>{% endif %}
   {{ content }}
 </article>

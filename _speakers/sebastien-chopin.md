@@ -1,9 +1,11 @@
 ---
 speaker:
   - Sébastien
+image: sebastien-chopin.jpg
 fr_FR:
-  title: "Fidéliser une communauté l’exemple de NuxtJS"
+  title: "Fidéliser une communauté de développeur l’exemple de NuxtJS"
   description: >-
+    Quelles peuvent être les valeurs pour faire participer des développeurs à une projet de développement comme NuxtJS.
 ---
 
 ## Comment l’a-ton approché ?
@@ -20,8 +22,13 @@ Nous voudrions qu'il nous parle des actions qu'il engage pour fidéliser la comm
 
 ## Et pourquoi pas un atelier ?
 
-NuxtJS permet de générer des applications statiques. Il s'agit d’un système préconfiguré pour permettre de générer une PWA, c'est-à-dire un site qui peut se charger rapidement (en théorie) qui demande peu de ressources et qui a la possibilité de s'afficher en offline.
+NuxtJS permet de générer des applications statiques. Il s’agit d’un système préconfiguré pour permettre de générer une PWA, c'est-à-dire un site qui peut se charger rapidement (en théorie) qui demande peu de ressources et qui a la possibilité de s'afficher en offline.
 
 Les avancées actuelles sur les générateurs d’applications statiques cherchent à avoir un temps de mise à jour le plus court possible, ceci n'est pas incompatible avec une empreinte énergétique la plus basse possible.
 
-On a proposé à Sébastien de réfléchir avec vous à la manière de construire des sites les plus fiables et les moins consommateurs d'énergie possible : [How to Build a Low-tech Website?](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/).
+On a proposé à Sébastien de réfléchir avec vous à la manière de construire des sites les plus fiables et les moins consommateurs d'énergie possible.
+
+**Ressources**
+  * [How to Build a Low-tech Website?](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/)
+  * [Ecohost](https://ecoho.st/)
+  * [Climanifeste](https://www.climanifeste.net/)
