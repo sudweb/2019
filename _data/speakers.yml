@@ -27,3 +27,33 @@ arthur:
       Arthur sourit fièrement à la caméra dans une photo en noir et blanc.
     bio: >-
       Arthur est un conférencier UX Designer à Roubaix.
+
+franck:
+  name: Franck Lebas
+  image: /assets/images/speakers/franck-lebas.jpg
+  url: 
+  en_US:
+    alt: >-
+      
+    bio: >-
+      
+  fr_FR:
+    alt: >-
+      
+    bio: >-
+      
+
+sebastien:
+  name: Sebastien Chopin
+  image: /assets/images/speakers/sebastien-chopin.jpg
+  url: 
+  en_US:
+    alt: >-
+      
+    bio: >-
+      
+  fr_FR:
+    alt: >-
+      
+    bio: >-
+      
