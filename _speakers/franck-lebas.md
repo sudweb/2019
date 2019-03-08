@@ -23,5 +23,3 @@ Nous aurons l’honneur d’accueillir Franck Lebas. L’auteur de : [Le salaire
 La valeur bien entendu. Quelle valeur peut on donner au travail immatériel que nous produisons avec nos machines ? Quels rôles, quels métiers peuvent apparaître avec l’intelligence artificielle et l'automatisation ?
 
 Les travailleurs du web seraient usés par leur activité. Il y aurait une perte de sens à travailler pour une industrie prédatrice. Peut-on simplement changer ses perspectives de travail,plutôt que de tout plaquer ?
-
-![Salaire à vie](https://res.cloudinary.com/demo/image/fetch/x_0,y_0,w_800,h_1150,c_crop/https://www.reseau-salariat.info/744e45e08b25b74e9f3548fedc0f94f5.jpeg?revision=1511870657)
