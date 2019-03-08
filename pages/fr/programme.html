@@ -12,11 +12,17 @@ published: true
 <section class="section">
   <div class="wrapper">
     <h1>Le programme 2019</h1>
-    <p>Cette année, nous avons constitué un programme en lien avec nos valeurs d’inspiration, de lien, de bienveillance et d’authenticité. Vous y trouverez des engagements humains, professionnels, éthiques, des personnes qui tentent de renverser la table comme des gens qui veulent se comprendre et proposer de nouvelles choses.</p>
+    <p>Bienvenue à Sud Web ! Pour cette année, nous avons cherché à nous rapprocher des valeurs humaines que l'on peut
+      trouver dans le milieu du développement web et les secteurs qui gravitent autour. Notre volonté est
+      de proposer des espaces aux participant·es pour qu'ielles puissent dialoguer, échanger et expérimenter des
+      choses. Nous avons également invité des personnes qui proposent des alternatives, une autre façon de concevoir et
+      penser notre métier. 
+    </p>
     {% if site.tickets.selling %}
-    <p class="text-center"><a class="button" data-text="{% t réserver votre place %}" href="{{ page.baseurl | default:site.baseurl }}/{{ "billetterie" | t: page.locale }}/" title="{% t Venir à Sud Web 2019 %}">
-      <span class="button-inner">{% t réserver votre place %}</span>
-    </a></p>
+    <p class="text-center"><a class="button" data-text="{% t réserver votre place %}" href="{{ page.baseurl | default:site.baseurl }}/{{ "billetterie" | t: page.locale }}/"
+        title="{% t Venir à Sud Web 2019 %}">
+        <span class="button-inner">{% t réserver votre place %}</span>
+      </a></p>
     {% endif %}
   </div>
 </section>
@@ -29,16 +35,17 @@ published: true
 
 <section class="section">
   <div class="wrapper">
-  <div class="grid-2">
+    <div class="grid-2">
       {% for speaker in site.speakers %}
       <section>
-      <figure class="person">
-        <a title="{{ "Aller directement à l'intervention de %s" | replace:"%s",speaker.title }}" href="{{ speaker.url }}"><img src="/2019/assets/images/speakers/{{ speaker.image }}" class="person-avatar lozad" width="150" height="150"></a>
-      </figure>
-      <a href="/2019{{ speaker.url }}">{{ speaker.speaker }}</a>
-      {% if speaker.fr_FR.description %}<p>{{ speaker.fr_FR.description }}</p>{% endif %}
+        <figure class="person">
+          <a title="{{ "Aller directement à l'intervention de %s" | replace:"%s",speaker.title }}" href="{{ speaker.url }}"><img
+              src="/2019/assets/images/speakers/{{ speaker.image }}" class="person-avatar lozad" width="150" height="150"></a>
+        </figure>
+        <a href="/2019{{ speaker.url }}">{{ speaker.speaker }}</a>
+        {% if speaker.fr_FR.description %}<p>{{ speaker.fr_FR.description }}</p>{% endif %}
       </section>
-    {% endfor %}
+      {% endfor %}
 
     </div>
   </div>
