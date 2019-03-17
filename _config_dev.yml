@@ -22,3 +22,9 @@ defaults:
     values:
       baseurl: "/en"
       locale: en_US
+  -
+    scope:
+      path: ""
+      type: "locations"
+    values:
+      layout: "locations"
