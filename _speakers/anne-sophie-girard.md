@@ -2,6 +2,7 @@
 speaker:
   - Anne-Sophie Girard
 image: anne-sophie-girard.jpg
+published: false
 fr_FR:
   title: "Lancer un Tiers-Lieu"
   description: >-

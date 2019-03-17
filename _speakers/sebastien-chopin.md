@@ -2,10 +2,11 @@
 speaker:
   - Sébastien Chopin
 image: sebastien-chopin.jpg
+published: true
 fr_FR:
-  title: "Fidéliser une communauté de développeur l’exemple de NuxtJS"
+  title: "Fidéliser une communauté de développeurs, l’exemple de NuxtJS"
   description: >-
-    Quelles peuvent être les valeurs pour faire participer des développeurs à une projet de développement comme NuxtJS.
+    Quelles peuvent être les valeurs à promouvoir pour faire contribuer des développeurs à un projet Open-Source comme NuxtJS.
 ---
 
 ## Comment l’a-ton approché ?
