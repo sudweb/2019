@@ -13,11 +13,10 @@ published: true
   <div class="wrapper">
     <h1>Le programme 2019</h1>
     <p>Bienvenue à Sud Web ! Pour cette année, nous avons cherché à nous rapprocher des valeurs humaines que l'on peut
-      trouver dans le milieu du développement web et les secteurs qui gravitent autour. Notre volonté est
-      de proposer des espaces aux participant·es pour qu'ielles puissent dialoguer, échanger et expérimenter des
+      trouver dans le milieu du développement web et les secteurs qui gravitent autour.</p>
+    <p>Notre volonté est de proposer des espaces aux participant·es pour qu'elles puissent dialoguer, échanger et expérimenter des
       choses. Nous avons également invité des personnes qui proposent des alternatives, une autre façon de concevoir et
-      penser notre métier. 
-    </p>
+      penser notre métier.</p>
     {% if site.tickets.selling %}
     <p class="text-center"><a class="button" data-text="{% t réserver votre place %}" href="{{ page.baseurl | default:site.baseurl }}/{{ "billetterie" | t: page.locale }}/"
         title="{% t Venir à Sud Web 2019 %}">
@@ -33,20 +32,17 @@ published: true
   </div>
 </section>
 
-<section class="section">
-  <div class="wrapper">
-    <div class="grid-2">
-      {% for speaker in site.speakers %}
-      <section>
-        <figure class="person">
-          <a title="{{ "Aller directement à l'intervention de %s" | replace:"%s",speaker.title }}" href="{{ speaker.url }}"><img
-              src="/2019/assets/images/speakers/{{ speaker.image }}" class="person-avatar lozad" width="150" height="150"></a>
-        </figure>
-        <a href="/2019{{ speaker.url }}">{{ speaker.speaker }}</a>
-        {% if speaker.fr_FR.description %}<p>{{ speaker.fr_FR.description }}</p>{% endif %}
-      </section>
-      {% endfor %}
-
+<section id="speakers" class="section">
+  <div class="wrapper"> <a class="sr-only" src="#conferences">Aller directement au programme détaillé</a>
+    <h2 class="text-center"> Les intervenant<span aria-hidden="true">·e·</span>s 2019&nbsp; </h2>
+    <div class="grid-6 text-center">
+    {% for speaker in site.speakers %}
+      <figure class="person">
+        <a title="Aller directement à l’intervention de {{ speaker.title }}" href="#{{ speaker.title | slugify }}"><img
+            src="/2019/assets/images/speakers/{{ speaker.image }}" class="person-avatar"
+            alt="{{ speaker.title }}" width="100" height="100"></a>
+      </figure>
+    {% endfor %}
     </div>
   </div>
 </section>
@@ -54,6 +50,28 @@ published: true
 <section class="section">
   <div class="wrapper">
     <hr>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrapper">
+    <div class="grid-1">
+      {% for speaker in site.speakers %}
+      <article class="conference" id="{{ speaker.title | slugify }}">
+        <figure class="conference-speaker-pic">
+          <a title="{{ "Aller directement à l'intervention de %s" | replace:"%s",speaker.title }}" href="/2019{{ speaker.url }}"><img
+              src="/2019/assets/images/speakers/{{ speaker.image }}" class="person-avatar lozad" width="150" height="150"></a>
+        </figure>
+        <h3 class="conference-speaker-name">
+          <span class="text-xs">Présenté par</span><br>
+          <a href="/2019{{ speaker.url }}">{{ speaker.speaker }}</a>
+        </h3>
+          {% if speaker.fr_FR.description %}<p>{{ speaker.fr_FR.description }}</p>{% endif %}
+          <p><a href="/2019{{ speaker.url }}" title="Aller à la page de présentation de {{ speaker.title | slugify }}">Voir la page de présentation</a></p>
+      </article>
+      <hr>
+      {% endfor %}
+    </div>
   </div>
 </section>
 

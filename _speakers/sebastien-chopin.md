@@ -1,6 +1,6 @@
 ---
 speaker:
-  - Sébastien
+  - Sébastien Chopin
 image: sebastien-chopin.jpg
 fr_FR:
   title: "Fidéliser une communauté de développeur l’exemple de NuxtJS"

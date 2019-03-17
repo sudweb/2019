@@ -1,6 +1,6 @@
 ---
 speaker:
-  - Franck
+  - Franck Lebas
 image: franck-lebas.jpg
 fr_FR:
   title: "Comment rétribuer la contribution Open-Source ?"

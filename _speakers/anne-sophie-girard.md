@@ -1,6 +1,6 @@
 ---
 speaker:
-  - Anne-Sophie
+  - Anne-Sophie Girard
 image: anne-sophie-girard.jpg
 fr_FR:
   title: "Lancer un Tiers-Lieu"
@@ -24,7 +24,7 @@ Par hasard. Ce qui nous a plu quand on nous a parlé de son profil, c’est qu'A
 
 Son objectif ? Lancer un Tiers-Lieu ancré sur la territoire. Faire se rencontrer diverses populations. Pour le moment, elle n’a pas de lieu, rien de concret, mais elle discute, elle échange, elle construit.
 
-## Sur quel sujet, on voudrait le voir intervenir ?
+## Sur quel sujet, on voudrait la voir intervenir ?
 
 Le territoire et la rencontre entre différentes populations. On aimerait qu‘Anne-Sophie nous raconte son parcours et qu'elle nous dise comment est née cette volonté de construire ce Tiers-Lieu si particulier.
 
