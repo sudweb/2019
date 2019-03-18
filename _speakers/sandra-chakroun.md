@@ -25,9 +25,7 @@ On aimerait savoir comment Sandra a été amenée à travailler sur ce sujet. Co
 
 Sandra est active dans différents domaines, nous avons suivi notamment son action sur une mission de rédaction d’un guide sur l’application au niveau local des principes du « gouvernement ouvert » (ou open gov) – transparence de la vie publique, participation citoyenne à l’action publique.
 
-
-Une gouvernement ouvert qu'est-ce que c'est ? Comment ça marche ?
-
+Un gouvernement ouvert qu'est-ce que c'est ? Comment ça marche ?
 
 **Ressources**
   * [Simuler l'impact de la loi, c'est possible !](https://blog.beta.gouv.fr/dinsic/2018/09/24/simuler-impact-loi/)
