@@ -1,10 +1,12 @@
 .conference {
+  border-bottom: 1px solid $hr-color;
   &-speaker {
     &-pic {
       max-width: 6em; float: left; margin: .5em 1em 0 0; overflow: hidden;
       border-radius: 50%;
     }
     &-name {
+      margin-top: .5em;
       line-height: 1.25;
     }
     &-description {
