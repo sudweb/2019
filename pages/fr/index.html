@@ -15,12 +15,12 @@ redirect_from:
       {% comment %}Les tarifs réduits et pro-diversité sont financés par <a href="{{ "/financer/" | relative_url }}">la solidarité</a> de la communauté Sud Web, <a href="{{ "/merci/" | relative_url }}">particuliers comme entreprises</a>.{% endcomment %}
     </p>
     <p class="text-center">
-      <a class="button" data-text="tarif plein (120&nbsp;€)" href="{{ '/billetterie' | relative_url }}" title="Réserver une place à plein tarif">
-        <span class="button-inner">tarif plein (120&nbsp;€)</span>
+      <a class="button" data-text="Tarif plein (120&nbsp;€)" href="{{ '/billetterie' | relative_url }}" title="Réserver une place à plein tarif">
+        <span class="button-inner">Tarif plein (120&nbsp;€)</span>
       </a>
       {% comment %}
-      <a class="button" data-text="tarif réduit (30&nbsp;€)" href="#tarif-reduit" title="S’inscrire en liste d’attente pour une place à tarif réduit">
-        <span class="button-inner">tarif réduit (30&nbsp;€)</span>
+      <a class="button" data-text="Tarif réduit (30&nbsp;€)" href="#tarif-reduit" title="S’inscrire en liste d’attente pour une place à tarif réduit">
+        <span class="button-inner">Tarif réduit (30&nbsp;€)</span>
       </a>
       {% endcomment %}
       {% comment %}
@@ -28,6 +28,32 @@ redirect_from:
         <span class="button-inner">tarif pro-diversité (gratuit)</span>
       </a>
       {% endcomment %}
+    </p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrapper">
+    <hr>
+  </div>
+</section>
+
+<section id="speakers" class="section">
+  <div class="wrapper"> <a class="sr-only" src="#conferences">Aller directement au programme détaillé</a>
+    <h2 class="text-center">Les intervenant<span aria-hidden="true">·e·</span>s 2019&nbsp; </h2>
+    <div class="grid-6 text-center">
+    {% for speaker in site.speakers %}
+      <figure class="person">
+        <a title="Aller directement à l’intervention de {{ speaker.title }}" href="{{ speaker.url | relative_url }}"><img
+           data-src="/2019/assets/images/speakers/{{ speaker.image }}" class="person-avatar lozad fade"
+            alt="{{ speaker.title }}" width="100" height="100"><br><b>{{ speaker.title }}</b></a>
+      </figure>
+    {% endfor %}
+    </div>
+    <p class="text-center">
+      <a class="button" data-text="Consultez le programme" href="{{ '/programme' | relative_url }}" title="Consulter le programme">
+        <span class="button-inner">Consultez le programme</span>
+      </a>
     </p>
   </div>
 </section>

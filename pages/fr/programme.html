@@ -12,10 +12,10 @@ published: true
 <section class="section">
   <div class="wrapper">
     <h1>Le programme 2019</h1>
-    <p>Cette année, les 2 jours de conférences vont s'articuler autour de l’action, du faire.</p>  
+    <p>Cette année, les 2 jours de conférences vont s'articuler autour de l’action, du faire.</p>
     <p>Il y aura des conférences courtes le <strong>vendredi</strong> matin et ensuite des espaces disponibles aux participant·es pour qu'ils puissent dialoguer, échanger et expérimenter. Le <strong>samedi</strong> nous serons dans un jardin partagé au milieu d’un marché de producteurs locaux (au bord du canal du midi).</p>
     <p>Nous avons invité des personnes ressources de grande qualité qui vont animer les débats. Nous allons les annoncer petit à petit.</p>
-  
+
     {% if site.tickets.selling %}
     <p class="text-center"><a class="button" data-text="{% t Réserver votre place %}" href="{{ page.baseurl | default:site.baseurl }}/{{ "billetterie" | t: page.locale }}/"
         title="{% t Venir à Sud Web 2019 %}">
@@ -37,9 +37,9 @@ published: true
     <div class="grid-6 text-center">
     {% for speaker in site.speakers %}
       <figure class="person">
-        <a title="Aller directement à l’intervention de {{ speaker.title }}" href="#{{ speaker.title | slugify }}"><img
-            src="/2019/assets/images/speakers/{{ speaker.image }}" class="person-avatar"
-            alt="{{ speaker.title }}" width="100" height="100"></a>
+        <a title="Aller directement à l’intervention de {{ speaker.title }}" href="#{{ speaker.url | relative_url}}"><img
+           data-src="/2019/assets/images/speakers/{{ speaker.image }}" class="person-avatar lozad fade"
+            alt="{{ speaker.title }}" width="100" height="100"><br><b>{{ speaker.title }}</b></a>
       </figure>
     {% endfor %}
     </div>
@@ -58,16 +58,16 @@ published: true
       {% for speaker in site.speakers %}
       <article class="conference" id="{{ speaker.title | slugify }}">
         <figure class="conference-speaker-pic">
-          <a title="{{ "Aller directement à l'intervention de %s" | replace:"%s",speaker.title }}" href="/2019{{ speaker.url }}"><img
+          <a title="{{ "Aller directement à l'intervention de %s" | replace:"%s",speaker.title }}" href="{{ speaker.url | relative_url }}"><img
               src="/2019/assets/images/speakers/{{ speaker.image }}" class="person-avatar lozad" width="150" height="150"></a>
         </figure>
         <h3 class="conference-speaker-name">
           <span class="text-xs">Présenté par</span><br>
-          <a href="/2019{{ speaker.url }}">{{ speaker.speaker }}</a>
+          <a href="{{ speaker.url | relative_url}}">{{ speaker.speaker }}</a>
         </h3>
           <p>{% if speaker.fr_FR.title %}<strong>{{ speaker.fr_FR.title }}</strong><br>{% endif %}
           {% if speaker.fr_FR.description %}{{ speaker.fr_FR.description }}{% endif %}</p>
-          <p><a href="/2019{{ speaker.url }}" title="Aller à la page de présentation de {{ speaker.title | slugify }}">Voir la page de présentation</a></p>
+          <p><a href="{{ speaker.url | relative_url }}" title="Aller à la page de présentation de {{ speaker.title | slugify }}">Voir la page de présentation</a></p>
       </article>
       {% endfor %}
     </div>
