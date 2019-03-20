@@ -11,7 +11,7 @@ fr_FR:
 
 ## Comment l’a-ton approché ?
 
-On a découvert l'article https://blog.beta.gouv.fr/dinsic/2018/09/24/simuler-impact-loi/, il nous semblait que le sujet avait une place de choix dans la programmation 2019.
+On a découvert l'article "[Simuler l'impact de la loi, c'est possible !](https://blog.beta.gouv.fr/dinsic/2018/09/24/simuler-impact-loi/)", il nous semblait que le sujet avait une place de choix dans la programmation 2019.
 
 En effet, il montre un exemple d’usage de l'informatique et du web pour la construction d’un outil qui permet de comprendre comment les lois impactent l’avenir d'individus et de groupes de personnes.
 
