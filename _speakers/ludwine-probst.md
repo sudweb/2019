@@ -2,7 +2,7 @@
 speaker:
   - Ludwine Probst
 image: ludwine-probst.jpg
-published: false
+published: true
 fr_FR:
   title: "La gouvernance chez Human Coders - un modèle de vie plus serein ?"
   description: >-

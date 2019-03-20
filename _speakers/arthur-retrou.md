@@ -2,7 +2,7 @@
 speaker:
   - Arthur Retrou
 image: arthur-retrou.jpg
-published: false
+published: true
 fr_FR:
   title: "Faut-il pousser mémé dans les applis ?"
   description: >-
