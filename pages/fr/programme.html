@@ -13,7 +13,7 @@ published: true
   <div class="wrapper">
     <h1>Le programme 2019</h1>
     <p>Cette année, les 2 jours de conférences vont s'articuler autour de l’action, du faire.</p>
-    <p>Il y aura des conférences courtes le <strong>vendredi</strong> matin et ensuite des espaces disponibles aux participant·es pour qu'ils puissent dialoguer, échanger et expérimenter. Le <strong>samedi</strong> nous serons dans un jardin partagé au milieu d’un marché de producteurs locaux (au bord du canal du midi).</p>
+    <p>Il y aura des conférences courtes le <strong>vendredi</strong> matin et ensuite des espaces disponibles aux participant·es pour qu'ils puissent dialoguer, échanger et expérimenter. Le <strong>samedi</strong> nous serons dans un jardin partagé au milieu d’un marché de producteurs·rices locaux (au bord du canal du midi).</p>
     <p>Nous avons invité des personnes ressources de grande qualité qui vont animer les débats. Nous allons les annoncer petit à petit.</p>
 
     {% if site.tickets.selling %}
@@ -67,7 +67,13 @@ published: true
         </h3>
           <p><span class="text-xs">{{ speaker.job }}</span><br>{% if speaker.fr_FR.title %}<strong>{{ speaker.fr_FR.title }}</strong><br>{% endif %}
           {% if speaker.fr_FR.description %}{{ speaker.fr_FR.description }}{% endif %}</p>
-          <p><a href="{{ speaker.url | relative_url }}" title="Aller à la page de présentation de {{ speaker.title | slugify }}">Voir la page de présentation</a></p>
+          <p>
+            {% for talk in site.talks %}
+            {% if talk.speaker ==  speaker.speaker[0] %}
+            <a href="{{ talk.url | relative_url }}" title="Aller à la page de la conférence de {{ speaker.title | slugify }}">Voir la page de la conférence</a>
+            {% endif %}
+            {% endfor %}
+          </p>
       </article>
       {% endfor %}
     </div>

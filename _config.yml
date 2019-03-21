@@ -53,6 +53,8 @@ collections:
     output: true
   speakers:
     output: true
+  talks:
+    output: true
 
 
 defaults:
@@ -73,15 +75,21 @@ defaults:
   -
     scope:
       path: ""
-      type: "locations" # a collection in your site, in plural form
+      type: "locations"
     values:
       layout: "locations"
   -
     scope:
       path: ""
-      type: "speakers" # a collection in your site, in plural form
+      type: "speakers"
     values:
       layout: "speakers"
+  -
+    scope:
+      path: ""
+      type: "talks" # a collection in your site, in plural form
+    values:
+      layout: "conferences"
 
 microtypo:
   median: true

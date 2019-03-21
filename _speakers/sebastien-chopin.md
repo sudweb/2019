@@ -17,6 +17,10 @@ Sébastien et Alexandre Chopin sont originaires du Sud. Ensemble, ils ont lancé
 
 Depuis, ils parcourent les conférences Vue.Js à travers le monde : [Berlin](https://colloq.io/events/zeit-day/2017/berlin/1/speakers/sebastien-chopin), [Paris](https://www.dotconferences.com/2016/12/sebastien-chopin-nuxtjs-universal-vuejs-applications), [Toronto](https://www.meetup.com/fr-FR/Vue-Toronto/events/)…
 
+<figure class="image-center">
+<img src="https://camo.githubusercontent.com/c091a00708e7f8b50a0aaa8f4e2bd1d699863b7d/68747470733a2f2f696d6775722e636f6d2f56344c746f49492e706e67" alt="NuxtJS">
+</figure>
+
 On voulait demander à Sébastien de nous raconter cette expérience : pourquoi avoir lancé le projet ? Quel étaient ses objectifs ? Quels sont ceux qui ont été atteints ? Quels sont ceux qu’il a manqué ?… comment Nuxt.js pourrait changer le monde ?
 
 ## Sur quel sujet, on voudrait le voir intervenir ?
