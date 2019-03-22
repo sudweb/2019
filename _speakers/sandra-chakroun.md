@@ -2,6 +2,7 @@
 speaker:
   - Sandra Chakroun
 image: sandra-chakroun.jpg
+job: Développeuse Freelance
 published: true
 fr_FR:
   title: "Construire des outils ouverts de dialogue entre administration et société civile"

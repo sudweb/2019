@@ -1,6 +1,7 @@
 ---
 speaker:
   - Sébastien Chopin
+job: Lead developper de Nuxt.js
 image: sebastien-chopin.jpg
 published: true
 fr_FR:

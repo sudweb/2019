@@ -37,7 +37,7 @@ published: true
     <div class="grid-6 text-center">
     {% for speaker in site.speakers %}
       <figure class="person">
-        <a title="Aller directement à l’intervention de {{ speaker.title }}" href="#{{ speaker.url | relative_url}}"><img
+        <a title="Aller directement à l’intervention de {{ speaker.title }}" href="#{{ speaker.title | slugify }}"><img
            data-src="/2019/assets/images/speakers/{{ speaker.image }}" class="person-avatar lozad fade"
             alt="{{ speaker.title }}" width="100" height="100"><br><b>{{ speaker.title }}</b></a>
       </figure>
@@ -65,7 +65,7 @@ published: true
           <span class="text-xs">Présenté par</span><br>
           <a href="{{ speaker.url | relative_url}}">{{ speaker.speaker }}</a>
         </h3>
-          <p>{% if speaker.fr_FR.title %}<strong>{{ speaker.fr_FR.title }}</strong><br>{% endif %}
+          <p><span class="text-xs">{{ speaker.job }}</span><br>{% if speaker.fr_FR.title %}<strong>{{ speaker.fr_FR.title }}</strong><br>{% endif %}
           {% if speaker.fr_FR.description %}{{ speaker.fr_FR.description }}{% endif %}</p>
           <p><a href="{{ speaker.url | relative_url }}" title="Aller à la page de présentation de {{ speaker.title | slugify }}">Voir la page de présentation</a></p>
       </article>

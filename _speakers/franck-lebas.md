@@ -2,7 +2,8 @@
 speaker:
   - Franck Lebas
 image: franck-lebas.jpg
-published: false
+job: Gentil virus
+published: true
 fr_FR:
   title: "Comment rétribuer la contribution Open-Source ?"
   description: >-

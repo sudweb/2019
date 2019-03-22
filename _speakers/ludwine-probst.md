@@ -2,6 +2,7 @@
 speaker:
   - Ludwine Probst
 image: ludwine-probst.jpg
+job: Chargée de communication, Human Coders
 published: true
 fr_FR:
   title: "La gouvernance chez Human Coders - un modèle de vie plus serein ?"

@@ -2,6 +2,7 @@
 speaker:
   - Arthur Retrou
 image: arthur-retrou.jpg
+job: UX designer, agence Dernier Cri
 published: true
 fr_FR:
   title: "Faut-il pousser mémé dans les applis ?"

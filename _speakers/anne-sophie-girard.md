@@ -2,7 +2,8 @@
 speaker:
   - Anne-Sophie Girard
 image: anne-sophie-girard.jpg
-published: false
+job: Conseil pour plus d’humain
+published: true
 fr_FR:
   title: "Lancer un Tiers-Lieu"
   description: >-

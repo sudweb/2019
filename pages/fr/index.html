@@ -40,14 +40,21 @@ redirect_from:
 
 <section id="speakers" class="section">
   <div class="wrapper"> <a class="sr-only" src="#conferences">Aller directement au programme détaillé</a>
-    <h2 class="text-center">Les intervenant<span aria-hidden="true">·e·</span>s 2019&nbsp; </h2>
-    <div class="grid-6 text-center">
+    <h2 class="text-center">Les intervenant<span aria-hidden="true">·e·</span>s 2019&nbsp;</h2>
+    <div class="grid-2">
     {% for speaker in site.speakers %}
-      <figure class="person">
+    <div>
+      <figure class="conference-speaker-pic">
         <a title="Aller directement à l’intervention de {{ speaker.title }}" href="{{ speaker.url | relative_url }}"><img
            data-src="/2019/assets/images/speakers/{{ speaker.image }}" class="person-avatar lozad fade"
-            alt="{{ speaker.title }}" width="100" height="100"><br><b>{{ speaker.title }}</b></a>
+            alt="{{ speaker.title }}" width="100" height="100"></a>
       </figure>
+      <h3 class="conference-speaker-name" style="margin-bottom: 0.5em;">
+        <span class="text-xs">{{ speaker.job }}</span><br>
+        <a href="{{ speaker.url | relative_url }}">{{ speaker.speaker }}</a>
+      </h3>
+      <span>{% if speaker.fr_FR.title %}<strong>{{ speaker.fr_FR.title }}</strong><br>{% endif %}</span>
+    </div>
     {% endfor %}
     </div>
     <p class="text-center">
