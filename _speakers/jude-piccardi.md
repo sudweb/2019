@@ -12,7 +12,7 @@ fr_FR:
 
 ## Qui est-il ?
 
-Jude est un apprenti développeur travaillant à Capgemini sur la mission InSight qui consiste à écouter le coeur de Mars (sic). Avec ses compétences, il a participé à l'éllaboration d'un système permettant de recueillir des données envoyées depuis la sonde sismique. 
+Jude est un apprenti développeur travaillant à Capgemini sur la mission InSight qui consiste à écouter le coeur de Mars (sic). Avec ses compétences, il a participé à l'élaboration d'un système permettant de recueillir des données envoyées depuis la sonde sismique. 
 
 Du haut de sa jeunesse, il nous parlera de son travail, de la place qu'il y a occupé et des difficultés qu'il a rencontrées. Comment se sent-on lorsque l'on travail à un projet à échelle internationale en simple apprenti ? Quel sentiment a-t-on lorsque l'on contribue à un projet qui nous pousse aux portes de l'espace ? C'est l'objet de sa conférence.
 
