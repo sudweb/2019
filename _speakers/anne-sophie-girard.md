@@ -5,7 +5,7 @@ image: anne-sophie-girard.jpg
 job: Conseil pour plus d’humain
 published: true
 fr_FR:
-  title: "Lancer un Tiers-Lieu"
+  title: "Lancer un Tiers-Lieu ancré sur le territoire"
   description: >-
     Favoriser le lien social au sein d’un territoire, à travers une offre de services répondant à des besoins de la vie quotidienne.
 ---
@@ -24,7 +24,7 @@ A 46 ans, j’ai aujourd’hui envie de participer à ce changement, à cette tr
 
 Par hasard. Ce qui nous a plu quand on nous a parlé de son profil, c’est qu'Anne-Sophie a quitté son ancien travail dans le management pour se lancer dans cette histoire.
 
-Son objectif ? Lancer un Tiers-Lieu ancré sur la territoire. Faire se rencontrer diverses populations. Pour le moment, elle n’a pas de lieu, rien de concret, mais elle discute, elle échange, elle construit.
+Son objectif ? Lancer un Tiers-Lieu ancré sur le territoire. Faire se rencontrer diverses populations. Pour le moment, elle n’a pas de lieu, rien de concret, mais elle discute, elle échange, elle construit.
 
 ## Sur quel sujet, on voudrait la voir intervenir ?
 
