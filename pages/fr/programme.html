@@ -34,8 +34,8 @@ published: true
 <section id="speakers" class="section">
   <div class="wrapper"> <a class="sr-only" src="#conferences">Aller directement au programme détaillé</a>
     <h2 class="text-center">Les intervenant<span aria-hidden="true">·e·</span>s 2019&nbsp; </h2>
-    <div class="grid-6 text-center">
-    {% for speaker in site.speakers %}
+    <div class="grid-4 text-center">
+    {% for speaker in site.speakers reversed %}
       <figure class="person">
         <a title="Aller directement à l’intervention de {{ speaker.title }}" href="#{{ speaker.title | slugify }}"><img
            data-src="/2019/assets/images/speakers/{{ speaker.image }}" class="person-avatar lozad fade"
@@ -55,7 +55,7 @@ published: true
 <section class="section">
   <div class="wrapper">
     <div class="grid-1">
-      {% for speaker in site.speakers %}
+      {% for speaker in site.speakers reversed %}
       <article class="conference" id="{{ speaker.title | slugify }}">
         <figure class="conference-speaker-pic">
           <a title="{{ "Aller directement à l'intervention de %s" | replace:"%s",speaker.title }}" href="{{ speaker.url | relative_url }}"><img
