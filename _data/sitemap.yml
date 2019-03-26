@@ -49,7 +49,7 @@
   value: merci
   fr_only: true
   in_nav: false
-  in_footer: false
+  in_footer: true
 - name: Contact
   type: translate
   value: https://sudweb.fr/blog/contact/
