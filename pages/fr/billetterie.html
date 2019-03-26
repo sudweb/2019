@@ -12,6 +12,14 @@ redirect_from: /2019/locations/jardin-montplaisir.html
   <div class="wrapper">
     <h2>Acheter votre place et&#8239;/&#8239;ou Contribuer à la cagnotte</h2>
     <p>Acheter une place plein tarif pour participer à la journée du vendredi. Contribuer à la cagnotte afin d'ouvrir des places à tarifs réduits.<br>Sudweb est probablement la seule conférence à ne pas dépendre de sponsors pour son organisation, <strong>Aider nous !</strong></p>
+    <p class="text-center">
+      <a class="button" data-text="Consultez le programme" href="{{ '/programme' | relative_url }}" title="Consulter le programme">
+        <span class="button-inner">Consultez le programme</span>
+      </a>
+      <a class="button" data-text="Consultez les infos pratiques" href="{{ '/infos-pratiques/' | relative_url }}" title="Consultez les infos pratiques">
+        <span class="button-inner">Consultez les infos pratiques</span>
+      </a>
+    </p>
     <a title="Logiciel billetterie en ligne" href="https://weezevent.com/?c=sys_widget" class="weezevent-widget-integration" target="_blank" data-src="https://www.weezevent.com/widget_billeterie.php?id_evenement=421478&lg_billetterie=1&code=44372&width_auto=1&color_primary=00AEEF" data-width="650" data-height="600" data-id="421478" data-resize="1" data-width_auto="1" data-noscroll="0" data-nopb="0">Billetterie Weezevent</a>
     <script type="text/javascript" src="https://www.weezevent.com/js/widget/min/widget.min.js"></script>
   </div>
@@ -90,6 +98,34 @@ redirect_from: /2019/locations/jardin-montplaisir.html
   </div>
 </section>
 {% endcomment %}
+
+<hr class="wrapper">
+
+<section id="speakers" class="section">
+  <div class="wrapper"> <a class="sr-only" src="#conferences">Aller directement au programme détaillé</a>
+    <h2 class="text-center">Les intervenant<span aria-hidden="true">·e·</span>s 2019&nbsp;</h2>
+    <div class="grid-2">
+    {% for speaker in site.speakers reversed %}
+    <div>
+      <figure class="conference-speaker-pic">
+        <a title="Aller directement à l’intervention de {{ speaker.title }}" href="{{ speaker.url | relative_url }}"><img
+           data-src="/2019/assets/images/speakers/{{ speaker.image }}" class="person-avatar lozad fade"
+            alt="{{ speaker.title }}" width="100" height="100"></a>
+      </figure>
+      <h3 class="conference-speaker-name" style="margin-bottom: 0.5em;">
+        <span class="text-xs">{{ speaker.job }}</span><br>
+        <a href="{{ speaker.url | relative_url }}">{{ speaker.speaker }}</a>
+      </h3>
+    </div>
+    {% endfor %}
+    </div>
+    <p class="text-center">
+      <a class="button" data-text="Consultez le programme" href="{{ '/programme' | relative_url }}" title="Consulter le programme">
+        <span class="button-inner">Consultez le programme</span>
+      </a>
+    </p>
+  </div>
+</section>
 
 <hr class="wrapper">
 
