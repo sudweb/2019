@@ -39,3 +39,4 @@ _site/
 
 # Editors
 *.idea/
+.vscode
