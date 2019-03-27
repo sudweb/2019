@@ -1,0 +1,23 @@
+#map {
+  height: 400px;
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 2px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.4);
+  background: #883838;
+  color: white;
+  font-size: 14px;
+}
+
+.leaflet-popup-content {
+  margin: 6px 12px;
+}
+
+.leaflet-popup-tip-container {
+  display: none;
+}
+
+.leaflet-container a.leaflet-popup-close-button {
+  color: white;
+}
