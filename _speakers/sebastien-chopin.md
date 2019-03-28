@@ -3,11 +3,12 @@ speaker:
   - Sébastien Chopin
 job: Lead developper de Nuxt.js
 image: sebastien-chopin.jpg
+twitter: atinux
 published: true
 fr_FR:
   title: "Fidéliser une communauté de développeurs, l’exemple de NuxtJS"
   description: >-
-    Quelles peuvent être les valeurs à promouvoir pour faire contribuer des développeurs à un projet Open-Source comme NuxtJS.
+    Quelles peuvent être les valeurs à promouvoir pour faire contribuer des développeurs à un projet Open-Source comme NuxtJS. Aujourd’hui, je vis de mes contributions à ce projet, et je suis très heureux.
 ---
 
 ## Comment l’a-ton approché ?

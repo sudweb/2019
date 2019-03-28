@@ -7,7 +7,7 @@ published: true
 fr_FR:
   title: "Comment rétribuer la contribution Open-Source ?"
   description: >-
-    Tout travail peut être reconnu par du salaire. Le salaire à vie nous libèrerait du marché de l’emploi, dégagerait tout un espace de vie personnelle, spirituelle, artistique, etc.
+    Tout travail peut être reconnu par du salaire. Le salaire à vie nous libèrerait du marché de l’emploi, dégagerait tout un espace de vie personnelle, spirituelle, artistique,… Et si vous étiez reconnu pour toutes vos contributions à la communauté plutôt que seulement à votre travail productif
 ---
 
 ## Comment l’a-ton approché ?

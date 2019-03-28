@@ -7,7 +7,7 @@ published: true
 fr_FR:
   title: "Lancer un Tiers-Lieu ancré sur le territoire"
   description: >-
-    Favoriser le lien social au sein d’un territoire, à travers une offre de services répondant à des besoins de la vie quotidienne.
+    Êtes-vous déjà allé dans un espace de co-working, un Tiers-Lieu ? N’avez-vous pas eu envie de rencontrer vos voisins… d’autres personnes que celles qui font le même métier que vous ?
 ---
 
 ## Sa bio

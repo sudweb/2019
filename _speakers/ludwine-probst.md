@@ -3,11 +3,12 @@ speaker:
   - Ludwine Probst
 image: ludwine-probst.jpg
 job: Chargée de communication, Human Coders
+twitter: nivdul
 published: true
 fr_FR:
   title: "La gouvernance chez Human Coders - un modèle de vie plus serein ?"
   description: >-
-    J'ai choisi de rejoindre Human Coders fin 2018. J'ai trouvé la possibilité de trouver un équilibre personnel, comment ?
+    J'ai choisi de rejoindre Human Coders fin 2018. J'ai trouvé la possibilité de trouver un équilibre personnel, avoir du temps partiel pour d'autres activités… comment ?
 ---
 
 ## Comment l’a-ton approché ?

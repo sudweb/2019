@@ -3,6 +3,7 @@ speaker:
   - Sandra Chakroun
 image: sandra-chakroun.jpg
 job: Développeuse Freelance
+twitter: Data4tunisia
 published: true
 fr_FR:
   title: "Construire des outils ouverts de dialogue entre administration et société civile"

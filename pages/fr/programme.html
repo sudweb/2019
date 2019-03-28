@@ -63,7 +63,7 @@ published: true
         </figure>
         <h3 class="conference-speaker-name">
           <span class="text-xs">Présenté par</span><br>
-          <a href="{{ speaker.url | relative_url}}">{{ speaker.speaker }}</a>
+          <a href="{{ speaker.url | relative_url}}">{{ speaker.speaker }}</a>{% if speaker.twitter %}<small> - <a href="https://twitter.com/{{ speaker.twitter }}">@{{ speaker.twitter }}</a></small>{% endif %}
         </h3>
           <p><span class="text-xs">{{ speaker.job }}</span><br>{% if speaker.fr_FR.title %}<strong>{{ speaker.fr_FR.title }}</strong><br>{% endif %}
           {% if speaker.fr_FR.description %}{{ speaker.fr_FR.description }}{% endif %}</p>

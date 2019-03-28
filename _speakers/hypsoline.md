@@ -3,10 +3,12 @@ speaker:
   - Hypsoline
 image: hypsoline.jpg
 job: Directrice Artistique taquine, La Netscouade
+twitter: Hypsoline_
 published: true
 fr_FR:
-  title: ""
+  title: "Vous allez voir ce que vous allez voir !"
   description: >-
+   Hypsoline_ n’est pas que taquine, elle est aussi cachotière. Pour le moment, on ne sait pas ce qu’elle va nous montrer, mais ça va vous intéresser.
 ---
 
 ## Comment l’a-ton approché ?

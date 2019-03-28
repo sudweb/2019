@@ -7,7 +7,7 @@ published: true
 fr_FR:
   title: "Faut-il pousser mémé dans les applis ?"
   description: >-
-    La Silver Economy se porte bien et nos parents et grands-parents débarquent en force notamment sur les tablettes.
+    La Silver Economy se porte bien et nos parents et grands-parents débarquent en force notamment sur les tablettes. Retour d'expérience sur la conception d‘interfaces avec le troisième âge.
 ---
 
 ## Comment l’a-ton approché ?
