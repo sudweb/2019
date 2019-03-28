@@ -2,16 +2,12 @@
 speaker:
   - Hypsoline
 image: hypsoline.jpg
-job: Directrice artistique
+job: Directrice Artistique taquine, La Netscouade
 published: false
 fr_FR:
   title: ""
   description: >-
 ---
-
-## Sa bio
-
-À compléter ?
 
 ## Comment l’a-ton approché ?
 
@@ -22,7 +18,3 @@ Après quelques échanges sur Mastodon, elle acceptait de nous rejoindre à Sud 
 ## Sur quel sujet, on voudrait la voir intervenir ?
 
 Quand on parle de web, on pense trop peu à la typographie. On aimerait qu’elle nous en dise plus sur ce domaine, ce qui l’a attirée dedans, quel impact cela peut avoir dans notre vie quotidienne et peut-être aussi qu’elle nous y donne goût.
-
-## Et pourquoi pas un atelier ?
-
-À remplir ?
