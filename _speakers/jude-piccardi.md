@@ -1,7 +1,7 @@
 ---
 speaker:
   - Jude Piccardi
-image: jude-piccardi.jpeg
+image: jude-piccardi.jpg
 job: Apprenti développeur, Capgemini
 published: true
 fr_FR:

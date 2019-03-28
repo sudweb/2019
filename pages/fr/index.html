@@ -33,7 +33,7 @@ redirect_from:
 {% include map.html %}
 
 <section id="speakers" class="section">
-  <div class="wrapper"> <a class="sr-only" src="#conferences">Aller directement au programme détaillé</a>
+  <div class="wrapper">
     <h2 class="text-center">Les intervenant<span aria-hidden="true">·e·</span>s 2019&nbsp;</h2>
     <div class="grid-2">
     {% for speaker in site.speakers reversed %}
@@ -52,9 +52,14 @@ redirect_from:
     {% endfor %}
     </div>
     <p class="text-center">
-      <a class="button" data-text="Consultez le programme" href="{{ '/programme' | relative_url }}" title="Consulter le programme">
-        <span class="button-inner">Consultez le programme</span>
+      <a class="button" data-text="Consultez le programme" href="{{ '/qui-vient-sudweb' | relative_url }}" title="Consulter le programme">
+        <span class="button-inner">Consultez le programme complet</span>
       </a>
+      <a class="button" data-text="Voir les personnes déjà inscrites" href="{{ '/programme' | relative_url }}" title="Voir les personnes déjà inscrites">
+        <span class="button-inner">Voir les personnes déjà inscrites</span>
+      </a>
+
+
     </p>
   </div>
 </section>
