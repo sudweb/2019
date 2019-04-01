@@ -10,6 +10,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'liquid-md5'
   gem 'octopress-autoprefixer'
+  gem 'jekyll-minifier'
 end
 
 group :development do
