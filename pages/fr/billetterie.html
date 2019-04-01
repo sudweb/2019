@@ -25,6 +25,7 @@ redirect_from: /2019/locations/jardin-montplaisir.html
   </div>
 </section>
 {% endif %}
+
 {% if site.tickets.waiting-list %}
 <section class="section" id="register">
   <div class="wrapper">
@@ -46,17 +47,21 @@ redirect_from: /2019/locations/jardin-montplaisir.html
 </section>
 {% endif %}
 
-{% comment %}
+
 <hr class="wrapper">
 
 <section class="section" id="register">
   <div class="wrapper">
-    <h2 id="tarif-reduit">Tirage au sort des places à tarif réduit</h2>
+    <h2 id="tarif-reduit">Places à tarif réduit</h2>
     <p>Cette année une fois encore nous avons décidé de poursuivre l'objectif de proposer des places à tarifs réduit. Ces places sont destinées aux personnes sans emploi, aux étudiant·e·s ou à toute personne en situation financière compliquée.</p>
-    <p>Comme l'année précédente, nous avons mis en place une cagnotte qui permet de financer des places au <strong>tarif réduit de 30&nbsp;€</strong>. Une nouvelle place sera financée <a href="{{ "/financer/#crowdfounding" | relative_url }}">tous les 90&nbsp;€ de dons</a>.<p>
+    <p>L'année précédente, nous avions mis en place un système de tirage au sort. Cette année, nous décidons de les mettre à disposition de toutes et tous, en libérant des places petit à petit. Si vous vous sentez légitime pour accéder à ces places, n'hésitez surtout pas : c'est grâce aux <a href="{{ "/financer/#crowdfounding" | relative_url }}" title="Contribuer à la cagnotte pour financer des place à tarif réduit">donations</a> que nous pouvons mettre ces places en vente !</p>
+    <p>Une nouvelle place se crée <a href="{{ "/financer/#crowdfounding" | relative_url }}">tous les 90&nbsp;€ de dons</a>.<p></p>
 
-    <p>Il y a actuellement {{ site.data.crowdfunding.reduced.nb }} place <a href="{{ "/financer/#crowdfounding" | relative_url }}" title="Contribuer à la cagnotte pour financer des place à tarif réduit">financée</a>{% if site.data.crowdfunding.reduced.available > 0 %} dont <strong>{{ site.data.crowdfunding.reduced.available }} sont disponible{% if site.data.crowdfunding.reduced.available > 1 %}s{% endif %}</strong>{% endif %}.{% comment %}{% if site.data.crowdfunding.reduced.available==0 %} Toutes ont été affectées.{% endif %}{% endcomment %}</p>
+    <p>Il y a actuellement {{ site.data.crowdfunding.reduced.nb }} places financées {% if site.data.crowdfunding.reduced.available > 0 %} dont <strong>{{ site.data.crowdfunding.reduced.available }} sont disponible{% if site.data.crowdfunding.reduced.available > 1 %}s{% endif %}</strong>{% endif %}.{% comment %}{% if site.data.crowdfunding.reduced.available==0 %} Toutes ont été affectées.{% endif %}{% endcomment %}</p>
 
+    <p>L'équipe de Sud Web se réserve le droit de demander un justificatif en cas d'abus constaté. Ces places sont <strong>réservées</strong> à des personnes en situation de difficulté financière. Nous comptons sur l'honnêteté des personnes que nous avons l'habitude d'accueillir tous les ans et le respect mutuel.</p>
+    
+    {% comment %}
     <p>Par souci d'équité, l'attribution de ces places se fera par tirage au sort, qui aura lieu tous les jeudis jusqu'au <strong>26 Avril 2019</strong> (limite d'inscription la veille à 23:59). Nous contacterons alors les personnes concernées pour confirmer leur réglement.</p>
     <p>
       Si vous souhaitez bénéficier d'une place à 30&nbsp;€, inscrivez-vous en envoyant votre adresse mail (elle sera utilisée uniquement dans le cadre du tirage au sort afin de vous contacter). Nous acceptons les cartes étudiantes ou inscriptions à Pôle Emploi comme justificatif.
@@ -73,9 +78,9 @@ redirect_from: /2019/locations/jardin-montplaisir.html
         </button>
       </div>
     </form>
+    {% endcomment %}
   </div>
 </section>
-{% endcomment %}
 
 {% comment %}
 <hr class="wrapper">
