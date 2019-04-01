@@ -9,4 +9,9 @@ layout: default
   </figure>
   {% if page.fr_FR.description %}<p>{{ page.fr_FR.description }}</p>{% endif %}
   {{ content }}
+  <p class="text-center">
+    <a class="button" data-text="Consultez le programme" href="{{ '/programme' | relative_url }}" title="Consulter le programme">
+      <span class="button-inner">Retour à la page programme</span>
+    </a>
+  </p>
 </article>
