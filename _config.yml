@@ -88,6 +88,7 @@ microtypo:
 
 include:
   - _headers
+  - .htaccess
 
 exclude:
   - .editorconfig
@@ -112,3 +113,17 @@ exclude:
   - "node_modules"
   - "package.json"
   - "package-lock.json"
+
+plugins:
+  - jekyll-minifier
+
+jekyll-minifier:
+  preserve_php: true                # Default: false
+  remove_intertag_spaces: true      # Default: false
+  simple_doctype: true             # Default: false
+  remove_script_attributes: true   # Default: false
+  simple_boolean_attributes: false  # Default: false
+  compress_js_templates: true      # Default: false
+  preserve_patterns:                # Default: (empty)
+  uglifier_args:
+    harmony: true
