@@ -5,7 +5,7 @@ layout: default
 <article class="wrapper">
   <h1>{{ page.title }}</h1>
   <figure class="conference-speaker-pic">
-    <img src="/2019/assets/images/speakers/{{ page.image }}" class="person-avatar lozad" width="100" height="100">
+    <img data-src="/2019/assets/images/speakers/{{ page.image }}" class="person-avatar lozad" width="100" height="100">
   </figure>
   {% if page.fr_FR.description %}<p>{{ page.fr_FR.description }}</p>{% endif %}
   {{ content }}

@@ -59,7 +59,7 @@ published: true
       <article class="conference" id="{{ speaker.title | slugify }}">
         <figure class="conference-speaker-pic">
           <a title="{{ "Aller directement à l'intervention de %s" | replace:"%s",speaker.title }}" href="{{ speaker.url | relative_url }}"><img
-              src="/2019/assets/images/speakers/{{ speaker.image }}" class="person-avatar lozad" width="150" height="150"></a>
+              data-src="/2019/assets/images/speakers/{{ speaker.image }}" class="person-avatar lozad" width="150" height="150"></a>
         </figure>
         <h3 class="conference-speaker-name">
           <span class="text-xs">Présenté par</span><br>
