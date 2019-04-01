@@ -68,6 +68,13 @@ self.addEventListener('activate', event => {
   event.waitUntil(clearOldCaches()
     .then(() => self.clients.claim())
   );
+  event.waitUntil(async function() {
+    // Feature-detect
+    if (self.registration.navigationPreload) {
+      // Enable navigation preloads!
+      await self.registration.navigationPreload.enable();
+    }
+  }());
 });
 
 self.addEventListener('message', event => {
@@ -85,10 +92,10 @@ self.addEventListener('fetch', event => {
   if (request.method !== 'GET') {
     return;
   }
-  
+
   // For HTML requests, try the network first, fall back to the cache, finally the offline page
   if (request.headers.get('Accept').includes('text/html')) {
-    
+
     event.respondWith(
       fetch(request)
       .then(response => {

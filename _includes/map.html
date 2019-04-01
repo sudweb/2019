@@ -1,6 +1,10 @@
 <div id="map"></div>
 <script>
-L.Icon.Default.imagePath = '/assets/images/leaflet/';
+fetchInject([
+  '{{ "/assets/js/vendor/leaflet.js" | relative_url }}',
+  '{{ "/assets/css/leaflet.css" | relative_url }}'
+]).then(() => {
+  L.Icon.Default.imagePath = '/assets/images/leaflet/';
 
 var map = L.map('map').setView([43.578, 1.474], 13);
 
@@ -36,4 +40,5 @@ L.marker([43.59013, 1.45933], markerOptions).addTo(map)
   .bindPopup('Le jardin Monplaisir', popupOptions)
   .openPopup();
 
+})
 </script>
