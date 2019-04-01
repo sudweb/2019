@@ -1,5 +1,5 @@
-lastname,forname,value
-DEFFONTAINE,Mickaël,"30"
-MOYSE,Thomas,"10"
-ZULAUF,Etienne,"150"
-RONSAUT,Alexandre,"30"
+lastname,forname,value,image
+DEFFONTAINE,Mickaël,"30",
+MOYSE,Thomas,"10",
+ZULAUF,Etienne,"150",occitech.jpg
+RONSAUT,Alexandre,"30",,

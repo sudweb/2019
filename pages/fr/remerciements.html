@@ -39,7 +39,7 @@ published: true
       {% assign width = value | divided_by: 30 | floor | plus: 1 %}
       <div class="thanks-grid__bloc-{{ width }}" style="grid-area: auto / auto / span {{ width | divided_by: 10 | plus: 1 }} / span {{ width }};">
         <a class="logo" title="{{ mecene.forname  }} {{ mecene.lastname  }}" href="{{ "/financer/#crowdfounding" | relative_url }}">
-          <img src="/2019/assets/images/merci/anonymous/{{ randomNumber }}.svg" />
+          <img data-src="/2019/assets/images/merci/{% if mecene.image %}{{ mecene.image }}{% else %}anonymous/{{ randomNumber }}.svg{% endif %}" class="lozad" />
           <span class="sr-only" tyle="font-size: {{ width | divided_by: 5 | plus: 1 }}vw;">{{ mecene.forname  }} {{ mecene.lastname  }}</span>
         </a>
       </div>
