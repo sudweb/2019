@@ -21,7 +21,7 @@ redirect_from: /2019/locations/jardin-montplaisir.html
       </a>
     </p>
     <a title="Logiciel billetterie en ligne" href="https://weezevent.com/?c=sys_widget" class="weezevent-widget-integration" target="_blank" data-src="https://www.weezevent.com/widget_billeterie.php?id_evenement=421478&lg_billetterie=1&code=44372&width_auto=1&color_primary=00AEEF" data-width="650" data-height="600" data-id="421478" data-resize="1" data-width_auto="1" data-noscroll="0" data-nopb="0">Billetterie Weezevent</a>
-    <script type="text/javascript" src="https://www.weezevent.com/js/widget/min/widget.min.js"></script>
+    <script type="text/javascript" src="https://www.weezevent.com/js/widget/min/widget.min.js" defer></script>
   </div>
 </section>
 {% endif %}
@@ -60,7 +60,7 @@ redirect_from: /2019/locations/jardin-montplaisir.html
     <p>Il y a actuellement {{ site.data.crowdfunding.reduced.nb }} places financées {% if site.data.crowdfunding.reduced.available > 0 %} dont <strong>{{ site.data.crowdfunding.reduced.available }} sont disponible{% if site.data.crowdfunding.reduced.available > 1 %}s{% endif %}</strong>{% endif %}.{% comment %}{% if site.data.crowdfunding.reduced.available==0 %} Toutes ont été affectées.{% endif %}{% endcomment %}</p>
 
     <p>L'équipe de Sud Web se réserve le droit de demander un justificatif en cas d'abus constaté. Ces places sont <strong>réservées</strong> à des personnes en situation de difficulté financière. Nous comptons sur l'honnêteté des personnes que nous avons l'habitude d'accueillir tous les ans et le respect mutuel.</p>
-    
+
     {% comment %}
     <p>Par souci d'équité, l'attribution de ces places se fera par tirage au sort, qui aura lieu tous les jeudis jusqu'au <strong>26 Avril 2019</strong> (limite d'inscription la veille à 23:59). Nous contacterons alors les personnes concernées pour confirmer leur réglement.</p>
     <p>
