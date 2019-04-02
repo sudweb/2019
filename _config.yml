@@ -88,7 +88,6 @@ microtypo:
 
 include:
   - _headers
-  - .htaccess
 
 exclude:
   - .editorconfig
@@ -116,6 +115,7 @@ exclude:
 
 plugins:
   - jekyll-minifier
+  - jekyll-include-cache
 
 jekyll-minifier:
   preserve_php: true                # Default: false

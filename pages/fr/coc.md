@@ -106,5 +106,5 @@ En ce qui concerne la personne à l’origine de la situation, l’exclusion est
 </div>
 </section>
 
-{% include banners/station.html locale=page.locale %}
+{% include_cached banners/station.html locale=page.locale %}
 
