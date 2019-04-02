@@ -3,9 +3,13 @@
     <head>
         <meta charset="utf-8">
 
+        <link rel="dns-prefetch" href="//www.sudweb.fr/">
+        <link rel="preload" as="image" href="{{ "/assets/images/logo-bg.jpg" | relative_url }}">
+        <link rel="preload" as="style" href="{{ "/assets/css/main.css?160518" | relative_url }}">
+        <link rel="preload" as="script" href="{{ "/assets/js/fetch-inject.js?180218" | relative_url }}">
+        <link rel="preload" as="font" href="{{ "/assets/fonts/oraqle_script-webfont.woff2?date=20180119" | relative_url }}">
         <link rel="preload" as="font" type="font/woff2" crossorigin href="{{ "/assets/fonts/roboto-light-webfont.woff2" | relative_url }}">
         <link rel="preload" as="font" type="font/woff2" crossorigin href="{{ "/assets/fonts/roboto-regular-webfont.woff2" | relative_url }}">
-        <link rel="preload" as="font" type="font/woff2" crossorigin href="{{ "/assets/images/logo-bg.jpg" | relative_url }}">
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -19,7 +23,7 @@
         <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/favicons/favicon-16x16.png">
         <link rel="manifest" href="{{ site.baseurl }}/assets/favicons/manifest.json">
         <link rel="mask-icon" href="{{ site.baseurl }}/assets/favicons/safari-pinned-tab.svg" color="#93ac3d">
-        <link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicons/favicon.ico?date=20180119">
+        <link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicons/favicon.ico?date=20190119">
         <meta name="msapplication-config" content="{{ site.baseurl }}/assets/favicons/browserconfig.xml">
         <meta name="theme-color" content="#c8d891">
 

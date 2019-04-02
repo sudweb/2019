@@ -11,6 +11,7 @@ group :jekyll_plugins do
   gem 'liquid-md5'
   gem 'octopress-autoprefixer'
   gem 'jekyll-minifier'
+  gem 'jekyll-include-cache'
 end
 
 group :development do

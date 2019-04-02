@@ -31,4 +31,4 @@ Voici les valeurs que nous partageons et véhiculons :
 </div>
 </section>
 
-{% include banners/forum.html locale=page.locale %}
+{% include_cached banners/forum.html locale=page.locale %}

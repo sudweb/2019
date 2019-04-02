@@ -41,7 +41,7 @@ Toute copie d’un contenu d’une des pages du site doit avoir obtenu l’autor
 Les informations que vous pouvez donner au travers des différents formulaires nous sont destinées exclusivement.
 
 Conformément à l’article 34 de la loi 1978 dite loi “Informatique et Libertés”, vous disposez d’un droit d’accès, de modification, de rectification et de suppression des données qui vous concernent. Pour l’exercer, veuillez adressez un courrier électronique à l'adresse : contact à sudweb.fr
-
+ 
 </div>
 </section>
 
