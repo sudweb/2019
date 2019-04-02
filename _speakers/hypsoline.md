@@ -2,7 +2,7 @@
 speaker:
   - Hypsoline
 image: hypsoline.jpg
-job: Directrice Artistique taquine, La Netscouade
+job: Directrice Artistique taquine
 twitter: Hypsoline_
 published: true
 fr_FR:
