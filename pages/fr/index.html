@@ -18,7 +18,8 @@ redirect_from:
       <a class="button" data-text="Tarif plein (120&nbsp;€)" href="{{ '/billetterie' | relative_url }}" title="Réserver une place à plein tarif">
         <span class="button-inner">Tarif plein (120&nbsp;€)</span>
       </a>
-      <a class="button" data-text="Tarif réduit (30&nbsp;€)" href="{{ '/billetterie/#tarif-reduit' | relative_url }}" title="Réserver une place au tarif réduit">
+      {% comment %}
+      <a class="button" data-text="Tarif réduit (30&nbsp;€)" href="#tarif-reduit" title="A qui sont réservés les tickets à tarifs réduits">
         <span class="button-inner">Tarif réduit (30&nbsp;€)</span>
       </a>
       {% comment %}
