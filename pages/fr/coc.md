@@ -1,110 +1,112 @@
 ---
-title: Code de conduite
+title: Cadre de sécurisation des interactions
 description: "Consignes pour créer un cadre d’interaction bientraitant et protecteur"
 i18n-key: coc
 permalink: /code-de-conduite/
 redirect_from:
   - /code-of-conduct/
-published: false
+published: true
 ---
 
 <section class="section">
-<div class="wrapper" markdown="1">
+  <div class="wrapper" markdown="1">
 
-# Code de Conduite <small>ou plutôt consignes pour créer un cadre d’interaction bientraitant et protecteur</small>
+# Cadre de sécurisation des interactions
 
-> Ce qui n’est pas grave pour vous l’est peut-être pour les autres.
+## L’intention
 
-À Sud Web, nous supposons que les gens sont intelligents et bien intentionnés, et nous ne cherchons pas à leur dire quoi faire. Cependant, il nous  paraît important que cette rencontre s’organise dans un environnement &laquo;&nbsp;<span lang="en">safe</span>&#8239;<sup><a href="#note1" id="note1-source">1</a></sup>&nbsp;&raquo; pour tou·te·s.
+Ce cadre de sécurisation des interactions est ce que l’on peut appeler un «&nbsp;Code de Conduite&nbsp;». Nous l’avons simplement renommé pour mieux traduire notre intention. En effet, nous pensons que pour comprendre un tel code, comprendre son intention est primordiale. Nous espérons ainsi répondre aux critiques qui pourraient être adressées, en tout cas faire taire les jugements et caricatures qui sont à l’opposé d’une argumentation construite.
 
-Nous avons donc décidé de proposer des consignes qui permettent de faire en sorte que chacun·e se sente à l’aise.
+Notre but est avant tout de protéger les personnes vulnérables. Nous réaffirmons en effet cette année encore notre volonté d’écouter et protéger les personnes qui nous feraient part de situations mal vécues ou même oppressantes. En posant des barrières devant les choses qui ne nous paraissent pas acceptables et en détaillant les réponses que nous pourrions apporter en fonction des situations, nous souhaitons rassurer sur le sérieux de notre démarche.
 
-</div>
+Ensuite, en affichant et assumant ce cadre, nous trions les participant·es à Sud Web (et oui&nbsp;!) Ce tri s’effectue de deux manières différentes&nbsp;: dans un premier temps en attirant les personnes qui sont proches de nos valeurs, et dans un second temps en éloignant les personnes qui ne s’y retrouveraient pas. C’est donc un tri non pas de notre part mais un tri qui se fait en âme et conscience des différentes personnes qui souhaiteraient venir.
+
+Enfin, ce cadre de sécurisation a aussi pour nous une dimension éducative. Nous avons tous plus ou moins intégré comme normaux des comportements ou des propos qui peuvent être violents pour des personnes avec un vécu, une culture différente. Ce cadre est là pour rappeler que nous venons tous d’horizons différents et que la question n’est pas de savoir si **vous** pensez être dans votre bon droit mais de réaliser que nous ne sommes pas toutes égales ou tous égaux face aux violences.
+
+Si vous comprenez ces quelques principes et croyez en notre sincérité, alors nous espérons que vous comprendrez l’importance de l’existence d’un tel cadre. Nous pourrons alors débattre du fond, ce qui nous importe plus (voir la dernière partie).
+
+  </div>
 </section>
 
 {% include banners/informelle.html locale=page.locale %}
 
 <section class="section">
-<div class="wrapper" markdown="1">
+  <div class="wrapper" markdown="1">
 
-## Un <span lang="en">Code of Conduct</span>, pour quoi faire ?
+## Le qui
 
-Dans chaque groupement, collectif ou rassemblement, il y a une culture dominante principale et des personnes qui n’appartiennent pas à cette culture. Ces personnes sont donc sous-représentées dans le contexte, et naturellement, elles sont plus susceptibles d’être &laquo;&nbsp;oppressées&nbsp;&raquo; par la communauté principale. Souvent, cette oppression se manifeste par des comportements ou attitudes blessantes adoptées sans s’en rendre compte.
+Les participant·es à Sud Web peuvent être réparti·es en plusieurs catégories&nbsp;:
 
-Ici, les consignes de sécurisation des interactions permettent de créer un contexte &laquo;&nbsp;<span lang="en">safe</span>&#8239;<sup><a href="#note1" id="note1-source">1</a></sup>&nbsp;&raquo; pour celles et ceux qui sont sous-représenté·e·s en mettant en lumière une problématique.
+- le public, qui composera le jour J la majorité des personnes présentes à la conférences&nbsp;;
+- les conférenciers et conférencières, qui viendront nous partager leur(s) expérience(s)&nbsp;;
+- la Thym, qui regroupe les organisateurs et organisatrices de Sud Web&nbsp;;
+- les référent·es, qui sont chargées de la bonne application de ce cadre.
 
-Imaginons-les comme un principe de précaution qui permet d’anticiper des situations pouvant aller de l’inconfortable à l’oppressif pour certain·e·s, inhérentes à un contexte.
+Malgré cette diversité de catégories, rappelons que nous pouvons tou·tes devenir victimes, tourmenteurs ou tourmentrices, aussi bien les personnes du public que la Thym ou les référent·es. Personne ne se trouve donc au-dessus des règles de ce cadre.
 
-En adoptant ces consignes, nous cherchons à établir un lien de confiance et de soin pour inviter celles et ceux qui sont sous-représenté·e·s à intégrer la communauté en toute tranquillité, dans l’objectif d’encourager et promouvoir la diversité.
+Cela étant dit, les référent·es qui seront listé·es ci-dessous (nous sommes en train de constituer la liste) seront des personnes choisies car nous pensons qu’elles seront capables de rester à l’écoute si on leur remonte un problème et qu’elles sauront accompagner les personnes qui en auront besoin. Elles s’engageront à se montrer un maximum disponible. Elles seront plusieurs au cas où l’un ou l’une d’entre elles se trouvent être à l’origine d’un incident.
 
-## Concrètement, comment ça marche ?
+## Le où
 
-Pour sauvegarder et encourager le cadre auquel nous aspirons, nous avons défini ce qui nous convenait, et ce qui ne nous convenait pas :
+Nous souhaitons que le cadre s’applique aussi largement que possible. Ainsi, nous l’appliquons aussi bien dans nos échanges numériques (Slack, email, réseaux sociaux, etc.) que le jour de l’évènement. Les conférences, ateliers ou les discussions informelles sur le lieu de Sud Web sont donc concernées.
 
-### Les postures encouragées :
+## Les comportements
 
-**L’accueil** :
-Faisons en sorte que les personnes – de tous horizons et identités confondues – soient les bienvenues, qu’elles se sentent accueillies dans un espace ouvert et chaleureux. Cela inclut, mais sans s’y limiter, les membres de toute ethnie, culture, nationalité, couleur, statut d’immigration, classe économique et sociale, niveau d’éducation, sexe, orientation sexuelle, identité sexuelle, âge, taille, situation familiale, croyance politique, religion, capacité mentale et physique.
+Les comportements listés ci-dessous sont des exemples de ce qui peut être encouragés ou découragés, il ne s’agit en aucun cas d’une liste exhaustive. Nous comptons également sur votre bon sens pour combler les manques.
 
-**La bienveillance et la bientraitance** :
-Rencontrons-nous avec bienveillance, c’est-à-dire la volonté de viser le bien et le bonheur d’autrui, et assurons-nous d’être bien-traitant en s’assurant que notre manière d’agir concrètement va bien dans le sens de la bienveillance.
+Tout comportement condamné par la loi est **évidemment** à proscrire. Cela inclut les propos ou comportements discriminatoires envers une personne, fondés sur l’origine, le sexe, l’apparence physique, l’état de santé, le handicap, les caractéristiques génétiques, les moeurs, l’orientation sexuelle, l’âge, les opinions politiques ou encore l’appartenance (ou non appartenance) à une ethnie, nation ou religion déterminée.
 
-### Les comportements que nous voudrions décourager :
+L’abus d’alcool, en plus d’être dangereux pour votre santé, peut l’être pour la santé (et l’humeur) des personnes autour de vous. Restez vigilant.
 
-* attaques personnelles : menaces, insultes, langage violent dirigés contre une autre personne ;
-* humour oppressif et langage discriminatoire ;
-* avances, drague non consentie ;
-* insistance alors que quelqu’un vous demande d’arrêter ;
-* encouragement des comportements ci-dessus.
+Avant de fumer (cigarette électronique incluse), commencez par demander aux personnes autour de vous si cela les dérange.
 
-## Que faire si vous vivez une situation qui fait référence à ces consignes ?
+En cas de prise de photos, vidéos ou sons, veillez à toujours vous assurer de l’accord des personnes dans le champ de captation de votre appareil.
 
-Avant toute chose, sachez que vous êtes légitime de dire que vous n’êtes pas à l’aise avec ce qui est en train de se passer. Vous serez pris·e au sérieux.
+Les nouveaux et nouvelles participant·es à Sud Web peuvent se sentir intimidé·es de venir discuter avec les personnes qui semblent déjà se connaître&nbsp;: ouvrez vos rangs, allez à la rencontre des autres&nbsp;!
 
-* Vous êtes à l’aise, vous avez de l’énergie : nous vous invitons à signaler son comportement oppressif à la personne concernée et&#8239;/&#8239;ou à la Thym.
-* Vous n’êtes pas à l’aise et&#8239;/&#8239;ou vous n’avez pas l’énergie :
-    * vous pouvez en parler à une personne présente, en qui vous avez confiance, pour que celle-ci contacte la Thym ;
-    * ou appellez un·e ami·e de confiance ;
-    * ou encore vous rendre dans un endroit et&#8239;/&#8239;ou auprès de personnes auprès desquelles vous vous sentez bien.
+Si vous êtes victime d’une situation qui vous pose problème, vous êtes tout à fait légitime pour le faire savoir. En fonction de votre énergie et de votre aisance, parlez-en directement à la personne concernée, un ou une référente, ou encore une personne en qui vous avez confiance (présente sur place ou non).
 
-## Que pouvez-vous faire si vous êtes témoin d’une situation oppressive ?
+Si vous êtes témoin d’un comportement qui vous paraît inadéquat et que vous vous en sentez capable, nous vous encourageons à vérifier auprès de la personne concernée que les propos ou l’acte était effectivement inapproprié, et de lui proposer votre aide en cas de réponse positive. Et surtout ne pensez pas que quelqu’un d’autre le fera à votre place, ça ne marche pas&nbsp;!
 
-Les options sont multiples et dépendent souvent du contexte et des personnes en présence. En règle général, nous préconisons :
+Si vous êtes mis en cause, placez-vous dans une posture d’écoute pour comprendre la critique qui vous est adressée. Identifiez s’il s’agit d’un malentendu, de paroles qui vous ont échappé ou d’un comportement effectivement blessant que vous n’aviez pas imaginé comme tel. Vous pouvez entamer la discussion ensuite.
 
-* Auprès de la personne qui a vécu une expérience négative : 
-    * vérifiez que c’était bien une situation mal vécue par la personne ;
-    * si c’est le cas, assurez-vous qu’elle se sente bien ;
-    * si vous vous en sentez capable, demandez-lui si vous pouvez faire quelque chose pour elle. Si oui, demandez-lui comment elle souhaite gérer la situation, ou comment elle souhaite que vous la gériez ;
-    * dans tous les cas, ce qui nous paraît important est de s’adapter aux besoins&#8239;/&#8239;aspirations de la personne que vous êtes venu soutenir.
+Les référents et référentes sont là pour assurer une écoute responsable, mais rien ne vaut une oreille amicale&nbsp;! Nous vous encourageons à contacter la personne en qui vous avez le plus confiance, et surtout ne pas rester seul·e en cas de soucis.
 
-* Auprès de la personne à l’origine de la situation :
-    * l’interpeller ;
-    * vérifier qu’elle est disposée à échanger au sujet de la situation ;
-        * si oui, lui demander de s’expliquer sur la situation ;
-        * sinon, lui proposer d’en reparler plus tard et&#8239;/&#8239;ou d’en faire part à la Thym.
+En cas de discussion qui ne vous apporte rien, et au contraire vous fait perdre votre temps, n’hésitez pas à appliquer la loi des deux pieds et partir vers une autre activité qui vous sera plus bénéfique.
 
-Il s’agit évidemment d’une proposition non exhaustive qui ne tient pas compte des multiples contextes et personnes. Notre objectif est davantage de conseiller que d’imposer une méthode stricte&#8239;<sup><a href="#note2" id="note2-source">2</a></sup>.
+## Les engagements
 
-## À qui puis-je m’adresser ?
+L’efficacité d’un tel cadre ne peut se prouver que dans les faits. Comme un problème est toujours à prévoir, nous détaillons ici le processus que nous envisageons pour y répondre du mieux possible.
 
-Tou·te·s les participant·e·s recevront, quelques jours avant l'événement, un mail récapitulatif contenant les numéros de téléphone et emails des personnes à contacter et nous les afficherons aussi pendant l'événement pour qu'ils soient accessibles facilement.
+La première étape consiste en un ou une référente qui prend connaissance d’un problème. Son premier souci est de s’assurer que la victime se porte bien en allant parler avec elle. Il pourra lui être conseillée de se rapprocher d’une personne proche capable de lui apporter le soutien dont elle a besoin.
 
-## Que se passe-t-il si les consignes ne sont pas respectées ?
+Ensuite, le ou la référente en charge du problème va s’assurer que les autres référent·es sont au courant de la situation.
 
-Une fois informé·e·s, nous avons l’intention de **faire quelque chose**, tout en étant bien conscient·e·s que chaque situation est différente. Nous aspirons en priorité à soutenir les personnes qui ont vécu une situation négative.
+Il ou elle se rapprochera ensuite de la personne mise en cause pour la tenir au courant de la situation et obtenir sa version des faits. Si la victime est d’accord avec cela, une discussion entre les deux parties pourra être tenue. Si la discussion ne permet pas de régler le problème, un système de réponses graduées est prévu&nbsp;:
 
-Nous agirons en priorité pour le bien-être de la personne qui a vécu une expérience négative, afin qu’elle se sente mieux. Idéalement, nous construirons la réparation avec elle, mais pas obligatoirement – cela dépendra d’elle.
+- discuter avec la ou les personnes mises en cause&nbsp;;
+- adresser un avertissement&nbsp;;
+- supprimer de potentielles responsabilités&nbsp;;
+- bannir temporairement de l’événement&nbsp;;
+- bannir définitivement de l’événement&nbsp;;
+- annoncer publiquement ce qui aurait été fait si la personne mise en cause ne peut être identifiée&nbsp;;
+- encourager et accompagner la victime pour porter plainte s’il y a lieu d’être.
 
-En ce qui concerne la personne à l’origine de la situation, l’exclusion est possible mais en aucun cas n’est obligatoire. Il y a une granularité possible. D’ailleurs nous sommes plutôt partisan·e·s d’une granularité.
+S’agissant d’exemples, une réponse sur-mesure est toujours à envisager. Si une sanction est prévue, elle doit être décidée collectivement par le groupe de référent·es pour éviter une sanction de complaisance. <strong>Nous nous engageons dans tous les cas à ce que quelque chose soit fait.</strong>
 
-***
+## Les retours
 
-<sup id="note1">1</sup>&#8239;: par <span lang="en">safe</span>, nous désignons un climat de confiance, de tranquillité et d’harmonie dans lequel chacun·e se sent pris en compte, en sécurité affective et émotionnelle. C’est un contexte dans lequel personne n’a besoin d’être sur ses gardes et qui libère des angoisses liées au regard de l’autre, à son jugement, à sa capacité à se moquer de soi ou de ses erreurs et à exiger des justifications. <a href="#note1-source">↵</a>
+Tout «&nbsp;Code de Conduite&nbsp;» ou «&nbsp;Cadre de sécurisation des interactions&nbsp;» restera imparfait car il est très difficile de l’adapter à toutes les attentes. Pour autant, nous pouvons toujours faire de notre mieux pour l’améliorer. Pour cela vous pouvez contacter les référentes et référents pour leur faire part de vos remarques. Nous mettrons également une boîte à disposition durant votre séjour à Sud Web pour que vous puissiez y glisser vos remarques (de manière anonyme ou non, c’est vous qui voyez).
 
-<sup id="note2">2</sup>&#8239;: comme le fait remarquer [David](https://larlet.fr/david/stream/2018/01/12/), nous rappelons à toutes fins utiles qu’il existe en France un cadre légal de [lutte contre les discriminations](https://www.legifrance.gouv.fr/affichSarde.do?reprise=true&page=1&idSarde=SARDOBJT000007118441). <a href="#note2-source">↵</a>
+## Crédits
 
-</div>
+Ce cadre a été construit à partir de différentes ressources et inspirations, notamment&nbsp;:
+
+- les réflexions de [Julia Barbelane](https://julia-barbelane.github.io/reflexions/#code-of-conduct) sur le sujet ;
+- le [Code de Conduite](http://wiki.leloop.org/index.php/Code_de_Conduite) du Loop ;
+- le bouquin [How to Respond to Code of Conduct Reports](https://frameshiftconsulting.com/code-of-conduct-book/).
+
+Nous les remercions pour leur temps passé à partager leurs expériences.
+
+  </div>
 </section>
-
-{% include_cached banners/station.html locale=page.locale %}
-
