@@ -15,13 +15,13 @@ published: true
 
 ## L’intention
 
-Ce cadre de sécurisation des interactions est ce que l’on peut appeler un «&nbsp;Code de Conduite&nbsp;». Nous l’avons simplement renommé pour mieux traduire notre intention. En effet, nous pensons que pour comprendre un tel code, comprendre son intention est primordiale. Nous espérons ainsi répondre aux critiques qui pourraient être adressées, en tout cas faire taire les jugements et caricatures qui sont à l’opposé d’une argumentation construite.
+Ce cadre de sécurisation des interactions est ce que l’on peut appeler un «&nbsp;Code de Conduite&nbsp;». Nous l’avons renommé pour mieux traduire notre intention. En effet, nous pensons que pour comprendre un tel code, comprendre son intention est primordiale. Nous espérons ainsi répondre aux critiques, aux jugements et aux caricatures qui sont à l’opposé d’une argumentation construite.
 
-Notre but est avant tout de protéger les personnes vulnérables. Nous réaffirmons en effet cette année encore notre volonté d’écouter et protéger les personnes qui nous feraient part de situations mal vécues ou même oppressantes. En posant des barrières devant les choses qui ne nous paraissent pas acceptables et en détaillant les réponses que nous pourrions apporter en fonction des situations, nous souhaitons rassurer sur le sérieux de notre démarche.
+Notre but est avant tout de protéger les personnes en situation de vulnérabilité. Nous réaffirmons cette année encore notre volonté d’écouter et de protéger les personnes qui nous feraient part de situations mal vécues ou oppressantes. En posant des barrières devant les choses qui ne nous paraissent pas acceptables et en détaillant les réponses que nous pourrions apporter en fonction des situations, nous souhaitons renforcer le sérieux de notre démarche.
 
-Ensuite, en affichant et assumant ce cadre, nous trions les participant·es à Sud Web (et oui&nbsp;!) Ce tri s’effectue de deux manières différentes&nbsp;: dans un premier temps en attirant les personnes qui sont proches de nos valeurs, et dans un second temps en éloignant les personnes qui ne s’y retrouveraient pas. C’est donc un tri non pas de notre part mais un tri qui se fait en âme et conscience des différentes personnes qui souhaiteraient venir.
+Ensuite, en affichant et assumant ce cadre, nous trions les participant·es à Sud Web (et oui&nbsp;!) Ce tri s’effectue de deux manières différentes&nbsp;: dans un premier temps en attirant les personnes qui se sentent proches de nos valeurs, et dans un second temps en éloignant les personnes qui ne s’y retrouveraient pas. C’est donc un tri non pas de notre part mais un tri qui se fait en âme et conscience des différentes personnes qui souhaiteraient venir.
 
-Enfin, ce cadre de sécurisation a aussi pour nous une dimension éducative. Nous avons tous plus ou moins intégré comme normaux des comportements ou des propos qui peuvent être violents pour des personnes avec un vécu, une culture différente. Ce cadre est là pour rappeler que nous venons tous d’horizons différents et que la question n’est pas de savoir si **vous** pensez être dans votre bon droit mais de réaliser que nous ne sommes pas toutes égales ou tous égaux face aux violences.
+Enfin, ce cadre de sécurisation a aussi pour nous une dimension d'apprentissage. Nous avons tous plus ou moins intégré comme normaux des comportements ou des propos qui peuvent être violents pour des personnes avec un vécu, une culture différente. Ce cadre est là pour rappeler que nous venons tous d’horizons différents et que la question n’est pas de savoir si **vous** pensez être dans votre bon droit mais de réaliser que nous ne sommes pas toutes égales ou tous égaux face aux violences.
 
 Si vous comprenez ces quelques principes et croyez en notre sincérité, alors nous espérons que vous comprendrez l’importance de l’existence d’un tel cadre. Nous pourrons alors débattre du fond, ce qui nous importe plus (voir la dernière partie).
 
@@ -48,7 +48,7 @@ Cela étant dit, les référent·es qui seront listé·es ci-dessous (nous somme
 
 ## Le où
 
-Nous souhaitons que le cadre s’applique aussi largement que possible. Ainsi, nous l’appliquons aussi bien dans nos échanges numériques (Slack, email, réseaux sociaux, etc.) que le jour de l’évènement. Les conférences, ateliers ou les discussions informelles sur le lieu de Sud Web sont donc concernées.
+Nous souhaitons que le cadre s’applique aussi largement que possible. Ainsi, nous l’appliquons aussi bien dans nos échanges numériques (Slack, email, réseaux sociaux, etc.) que les jours de l’évènement. Les conférences, ateliers ou les discussions informelles sur le lieu de Sud Web sont donc concernées.
 
 ## Les comportements
 
@@ -62,7 +62,7 @@ Avant de fumer (cigarette électronique incluse), commencez par demander aux per
 
 En cas de prise de photos, vidéos ou sons, veillez à toujours vous assurer de l’accord des personnes dans le champ de captation de votre appareil.
 
-Les nouveaux et nouvelles participant·es à Sud Web peuvent se sentir intimidé·es de venir discuter avec les personnes qui semblent déjà se connaître&nbsp;: ouvrez vos rangs, allez à la rencontre des autres&nbsp;!
+Les nouveaux et nouvelles participant·es à Sud Web peuvent se sentir intimidé·es de venir discuter avec les personnes qui semblent déjà se connaître&nbsp;: [ouvrez vos rangs](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/), allez à la rencontre des autres&nbsp;!
 
 Si vous êtes victime d’une situation qui vous pose problème, vous êtes tout à fait légitime pour le faire savoir. En fonction de votre énergie et de votre aisance, parlez-en directement à la personne concernée, un ou une référente, ou encore une personne en qui vous avez confiance (présente sur place ou non).
 
@@ -78,7 +78,7 @@ En cas de discussion qui ne vous apporte rien, et au contraire vous fait perdre 
 
 L’efficacité d’un tel cadre ne peut se prouver que dans les faits. Comme un problème est toujours à prévoir, nous détaillons ici le processus que nous envisageons pour y répondre du mieux possible.
 
-La première étape consiste en un ou une référente qui prend connaissance d’un problème. Son premier souci est de s’assurer que la victime se porte bien en allant parler avec elle. Il pourra lui être conseillée de se rapprocher d’une personne proche capable de lui apporter le soutien dont elle a besoin.
+La première étape consiste en un ou une référente qui prend connaissance d’un problème. Son souci premier est de s’assurer que la victime se porte bien en allant parler avec elle. Il pourra lui être conseillée de se rapprocher d’une personne proche capable de lui apporter le soutien dont elle a besoin.
 
 Ensuite, le ou la référente en charge du problème va s’assurer que les autres référent·es sont au courant de la situation.
 
