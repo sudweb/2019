@@ -68,3 +68,8 @@
   value: https://sudweb.fr/blog/
   in_nav: false
   in_footer: true
+- name: Déroulé des 2 journées
+  type: url
+  value: planning
+  in_footer: true
+
