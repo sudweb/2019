@@ -3,7 +3,6 @@ speaker:
   - Jude Piccardi
 image: jude-piccardi.jpeg
 job: Apprenti développeur, Capgemini
-twitter: jude_piccardi
 published: true
 fr_FR:
   title: "Comment j'ai participé à écouter le cœur de Mars"
