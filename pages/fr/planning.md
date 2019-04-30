@@ -19,11 +19,10 @@ Vous pouvez vous rendre au Catalyseur où votre badge vous sera alors distribué
 Ouverture de l’amphithéâtre et début des conférences ; il y aura une pause café à 10h30.  
 Sachez qu’il n’est pas nécessaire d’être dans l’amphithéâtre pour profiter de Sud Web. Les présentations de nos orateurs et oratrices sont des ouvertures inspirantes aux ateliers participatifs mais des salles seront d’ores et déjà à votre disposition pour démarrer des conversations entre vous.
 
-**11h - Atelier création culinaire**  
+**12h - Pause déjeuner / Atelier création culinaire**  
 Cette année, vous avez la possibilité de mettre la main à la pâte et de réaliser des repas avec l’aide de [Bénédicte](http://www.benedictelambert.com/) et Valentin des [Savoureux Compagnons](https://www.savoureuxcompagnons.fr/compagnon/vluiggi/) dans un atelier culinaire.
 
-**12h - Pause déjeuner**  
-On enchaîne déjà sur les ateliers. On vous désigne où sont les salles, l’organisation, les règles du lieu. On vous rappelle le premier atelier : se faire à manger.
+La pause est prévue jusqu’à 14h mais vous pouvez enchaîner sur les ateliers dès que vous en avez envie. On vous désigne où sont les salles, l’organisation, les règles du lieu.
 
 **14h - Ateliers auto-organisés**  
 Vous avez des salles à votre disposition ; des orateurices à disposition ; un Fablab à disposition ; des Thym members à votre disposition ; des participant·es à disposition.  
