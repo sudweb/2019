@@ -6,9 +6,9 @@ job: Directrice Artistique taquine
 twitter: Hypsoline_
 published: true
 fr_FR:
-  title: "Vous allez voir ce que vous allez voir !"
+  title: "Banals Typographes"
   description: >-
-   Hypsoline_ n’est pas que taquine, elle est aussi cachotière. Pour le moment, on ne sait pas ce qu’elle va nous montrer, mais ça va vous intéresser.
+   Hypsoline\_ n’est pas que taquine, elle est aussi cachotière. Pour le moment, on ne sait pas ce qu’elle va nous montrer, mais ça va vous intéresser.
 ---
 
 ## Comment l’a-ton approché ?
