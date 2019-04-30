@@ -10,6 +10,33 @@ permalink: /planning/
 
 Cette année, on a mis la nourriture au centre de la conférence, les pauses repas sont des moments de partage et de plaisir.
 
+**Nos Cuistots**
+
+<div class="grid-2">
+    <div>
+      <figure class="conference-speaker-pic">
+        <img
+           data-src="/2019/assets/images/speakers/benedicte.jpg" class="person-avatar lozad fade" alt="{{ speaker.title }}" width="100" height="100">
+      </figure>
+      <h3 class="conference-speaker-name">
+        <a href="{{ speaker.url | relative_url }}">Bénédicte</a>
+      </h3>
+      <p>Militer pour un respect de l'environnement autour d'une alimentation raisonnée et joyeuse. Faire bouillonner l’imagination, créer de l'enthousiasme.</p>
+      <p><a href="http://www.benedictelambert.com/">Bénédicte Lambert</a></p>
+    </div>
+    <div>
+      <figure class="conference-speaker-pic">
+        <img
+           data-src="/2019/assets/images/speakers/valentin.jpg" class="person-avatar lozad fade" alt="{{ speaker.title }}" width="100" height="100">
+      </figure>
+      <h3 class="conference-speaker-name">
+        <a href="{{ speaker.url | relative_url }}">Valentin</a>
+      </h3>
+      <p>Passionné par l’humain et sa capacité à coopérer. Surtout à travers la cuisine. Je cuisine des plats qui me plaisent, c'est pour ça que c'est bon ! 😀</p>
+      <p>Les <a href="https://www.savoureuxcompagnons.fr/compagnon/vluiggi/">Savoureux Compagnons</a></p>
+    </div>
+</div>
+
 <hr>
 
 ## Vendredi 24 mai 2019
