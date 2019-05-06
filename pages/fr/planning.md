@@ -70,7 +70,7 @@ Petite pause pour se rassasier, cette année on y apporte un petit plus.
 À 17h15, on vous demandera de vous préparer pour un rendu de la journée afin de montrer ce qui a été fait. Une manière de partager les expériences.
 
 **20h - Rendez-vous citadin**  
-Malheureusement, la privatisation d’un lieu dans cette ville festive qu’est Toulouse est compliquée ; il faudrait avancer beaucoup d’argent (entre 40 et 60€ par personne). Nous avons choisi de ne pas faire de soirée communautaire afin de garder le prix des entrées accessibles. En revanche, nous vous proposons de nous réunir aux [quais de la Daurade](https://www.openstreetmap.org/search?query=quai%20de%20la%20daurade#map=19/43.59984/1.44035) afin de poursuivre nos discussions.  
+Cette année nous avons choisi de ne pas faire de soirée communautaire afin de garder le prix des entrées accessibles. En revanche, nous vous proposons de nous réunir aux [quais de la Daurade](https://www.openstreetmap.org/search?query=quai%20de%20la%20daurade#map=19/43.59984/1.44035) afin de poursuivre nos discussions.  
 Nous vous conseillons de réserver vos places en restaurants si vous êtes des groupes de plusieurs personnes.
 
 <hr>
