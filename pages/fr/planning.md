@@ -75,7 +75,7 @@ Nous vous conseillons de réserver vos places en restaurants si vous êtes des g
 
 <hr>
 <p class="text-center">
-<a class="button" data-text="Consultez les infos pratiques" href="{{ ’/infos-pratiques/’ | relative_url }}" title="Consultez les infos pratiques">
+<a class="button" data-text="Consultez les infos pratiques" href="{{ '/infos-pratiques/' | relative_url }}" title="Consultez les infos pratiques">
   <span class="button-inner">Consultez les infos pratiques</span>
 </a>
 </p>
