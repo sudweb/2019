@@ -55,6 +55,7 @@ permalink: .htaccess
     Header set Content-Security-Policy "
       default-src 'self';
       script-src 'self' 'unsafe-eval' 'unsafe-inline' https://api.github.com https://unpkg.com https://instant.page https://cdn.jsdelivr.net https://*.openstreetmap.org;
+      worker-src sw.js;
     "
 
     # prevent mime based attacks
