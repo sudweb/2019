@@ -54,6 +54,7 @@ permalink: .htaccess
     Header always append X-Frame-Options SAMEORIGIN
     Header set Content-Security-Policy "
       default-src 'self';
+      img-src 'self' https://*.openstreetmap.org;
       script-src 'self' 'unsafe-eval' 'unsafe-inline' https://api.github.com https://unpkg.com https://instant.page https://cdn.jsdelivr.net https://*.openstreetmap.org;
       worker-src sw.js;
     "
