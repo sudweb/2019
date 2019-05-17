@@ -64,15 +64,15 @@ En cas de prise de photos, vidéos ou sons, veillez à toujours vous assurer de 
 
 Les nouveaux et nouvelles participant·es à Sud Web peuvent se sentir intimidé·es de venir discuter avec les personnes qui semblent déjà se connaître&nbsp;: [ouvrez vos rangs](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/), allez à la rencontre des autres&nbsp;!
 
+Les référents et référentes sont là pour assurer une écoute responsable, mais rien ne vaut une oreille amicale&nbsp;! Nous vous encourageons à contacter la personne en qui vous avez le plus confiance, et surtout ne pas rester seul·e en cas de soucis.
+
+En cas de discussion qui ne vous apporte rien, et au contraire vous fait perdre votre temps, n’hésitez pas à appliquer la loi des deux pieds et partir vers une autre activité qui vous sera plus bénéfique.
+
 Si vous êtes victime d’une situation qui vous pose problème, vous êtes tout à fait légitime pour le faire savoir. En fonction de votre énergie et de votre aisance, parlez-en directement à la personne concernée, un ou une référente, ou encore une personne en qui vous avez confiance (présente sur place ou non).
 
 Si vous êtes témoin d’un comportement qui vous paraît inadéquat et que vous vous en sentez capable, nous vous encourageons à vérifier auprès de la personne concernée que les propos ou l’acte était effectivement inapproprié, et de lui proposer votre aide en cas de réponse positive. Et surtout ne pensez pas que quelqu’un d’autre le fera à votre place, ça ne marche pas&nbsp;!
 
-Si vous êtes mis en cause, placez-vous dans une posture d’écoute pour comprendre la critique qui vous est adressée. Identifiez s’il s’agit d’un malentendu, de paroles qui vous ont échappé ou d’un comportement effectivement blessant que vous n’aviez pas imaginé comme tel. Vous pouvez entamer la discussion ensuite.
-
-Les référents et référentes sont là pour assurer une écoute responsable, mais rien ne vaut une oreille amicale&nbsp;! Nous vous encourageons à contacter la personne en qui vous avez le plus confiance, et surtout ne pas rester seul·e en cas de soucis.
-
-En cas de discussion qui ne vous apporte rien, et au contraire vous fait perdre votre temps, n’hésitez pas à appliquer la loi des deux pieds et partir vers une autre activité qui vous sera plus bénéfique.
+Si vous êtes mis en cause, placez-vous dans une posture d’écoute pour comprendre la critique qui vous est adressée. Identifiez s’il s’agit d’un malentendu, de paroles qui vous ont échappé ou d’un comportement effectivement blessant que vous n’aviez pas imaginé comme tel. Vous pouvez entamer la discussion ensuite uniquement si vous avez été invité à le faire.
 
 ## Les engagements
 
@@ -80,7 +80,7 @@ L’efficacité d’un tel cadre ne peut se prouver que dans les faits. Comme un
 
 La première étape consiste en un ou une référente qui prend connaissance d’un problème. Son souci premier est de s’assurer que la victime se porte bien en allant parler avec elle. Il pourra lui être conseillée de se rapprocher d’une personne proche capable de lui apporter le soutien dont elle a besoin.
 
-Ensuite, le ou la référente en charge du problème va s’assurer que les autres référent·es sont au courant de la situation.
+Ensuite en accord avec la victime, le ou la référente en charge du problème va s’assurer que les autres référent·es sont au courant de la situation.
 
 Il ou elle se rapprochera ensuite de la personne mise en cause pour la tenir au courant de la situation et obtenir sa version des faits. Si la victime est d’accord avec cela, une discussion entre les deux parties pourra être tenue. Si la discussion ne permet pas de régler le problème, un système de réponses graduées est prévu&nbsp;:
 
@@ -92,7 +92,7 @@ Il ou elle se rapprochera ensuite de la personne mise en cause pour la tenir au 
 - annoncer publiquement ce qui aurait été fait si la personne mise en cause ne peut être identifiée&nbsp;;
 - encourager et accompagner la victime pour porter plainte s’il y a lieu d’être.
 
-S’agissant d’exemples, une réponse sur-mesure est toujours à envisager. Si une sanction est prévue, elle doit être décidée collectivement par le groupe de référent·es pour éviter une sanction de complaisance. <strong>Nous nous engageons dans tous les cas à ce que quelque chose soit fait.</strong>
+S’agissant d’exemples, une réponse sur-mesure est toujours à envisager. Si une sanction est prévue, elle doit être décidée collectivement par le groupe de référent·es pour éviter une sanction de complaisance. <strong>Nous nous engageons dans tous les cas à ce que quelque chose soit fait, en accord avec la victime.</strong>
 
 ## Les retours
 
