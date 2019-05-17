@@ -29,6 +29,10 @@ published: true
 <div class="wrapper">
   <h2>Nos donateurs</h2>
   <div class="thanks-grid" style="grid-template-columns: repeat({{ total | divided_by: 24 }}, 1fr);">
+    {% assign min = 1 %}
+    {% assign max = 16 %}
+    {% assign diff = max | minus: min %}
+    
     {% for mecene in site.data.mecenes %}
     {% assign value = mecene.value | strip | remove: "&nbsp;" | plus: 0 %}
       {% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
