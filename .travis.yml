@@ -6,11 +6,13 @@ script:
 addons:
   ssh_known_hosts: ssh-sudweb.alwaysdata.net
 before_deploy:
+- openssl aes-256-cbc -K $encrypted_913e2c12d44b_key -iv $encrypted_913e2c12d44b_iv -in deploy_rsa.enc -out deploy_rsa -d
 - eval "$(ssh-agent -s)"
 - chmod 600 $TRAVIS_BUILD_DIR/deploy_rsa
 - ssh-add $TRAVIS_BUILD_DIR/deploy_rsa
 after_deploy:
 - ssh-agent -k
+install: exit 0
 deploy:
   provider: script
   skip_cleanup: true
@@ -23,8 +25,3 @@ env:
   - JEKYLL_VERSION=3.8
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
   - WEEZEVENT_EVENT_ID=218160
-before_install:
-- openssl aes-256-cbc -K $encrypted_913e2c12d44b_key -iv $encrypted_913e2c12d44b_iv
-  -in deploy_rsa.enc -out deploy_rsa -d
-- openssl aes-256-cbc -K $encrypted_913e2c12d44b_key -iv $encrypted_913e2c12d44b_iv
-  -in deploy_rsa.enc -out deploy_rsa -d
