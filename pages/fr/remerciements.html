@@ -29,17 +29,14 @@ published: true
 <div class="wrapper">
   <h2>Nos donateurs</h2>
   <div class="thanks-grid" style="grid-template-columns: repeat({{ total | divided_by: 24 }}, 1fr);">
-  {% assign min = 1 %}
-  {% assign max = 16 %}
-  {% assign diff = max | minus: min %}
     {% for mecene in site.data.mecenes %}
     {% assign value = mecene.value | strip | remove: "&nbsp;" | plus: 0 %}
       {% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
-      {% assign width = value | divided_by: 30 | floor | plus: 1 %}
+      {% assign width = 2 %}
       <div class="thanks-grid__bloc-{{ width }}" style="grid-area: auto / auto / span {{ width | divided_by: 10 | plus: 1 }} / span {{ width }};">
         <a class="logo" title="{{ mecene.forname  }} {{ mecene.lastname  }}" href="{{ "/financer/#crowdfounding" | relative_url }}">
           <img data-src="/2019/assets/images/merci/{% if mecene.image %}{{ mecene.image }}{% else %}anonymous/{{ randomNumber }}.svg{% endif %}" class="lozad" />
-          <span class="sr-only" tyle="font-size: {{ width | divided_by: 5 | plus: 1 }}vw;">{{ mecene.forname  }} {{ mecene.lastname  }}</span>
+          <span class="sr-only" tyle="font-size: {{ width | divided_by: 5 | plus: 1 }}vw;">{{ mecene.forname  }} {{ mecene.lastname  }} a donné {{ value }}€</span>
         </a>
       </div>
     {% endfor %}
