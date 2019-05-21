@@ -44,7 +44,24 @@ Les participant·es à Sud Web peuvent être réparti·es en plusieurs catégori
 
 Malgré cette diversité de catégories, rappelons que nous pouvons tou·tes devenir victimes, tourmenteurs ou tourmentrices, aussi bien les personnes du public que la Thym ou les référent·es. Personne ne se trouve donc au-dessus des règles de ce cadre.
 
-Cela étant dit, les référent·es qui seront listé·es ci-dessous (nous sommes en train de constituer la liste) seront des personnes choisies car nous pensons qu’elles seront capables de rester à l’écoute si on leur remonte un problème et qu’elles sauront accompagner les personnes qui en auront besoin. Elles s’engageront à se montrer un maximum disponible. Elles seront plusieurs au cas où l’un ou l’une d’entre elles se trouvent être à l’origine d’un incident.
+Cela étant dit, les référent·es qui sont listé·es ci-dessous sont des personnes choisies car nous pensons qu’elles sont capables de rester à l’écoute si on leur remonte un problème et qu’elles sauront accompagner les personnes qui en auraient besoin. Elles s’engagent à se montrer un maximum disponible.
+
+**Marien Fressinaud** :
+
+- Twitter : [@berumuron](https://twitter.com/berumuron)
+- Mastodon : [@marien@tutut.delire.party](https://tutut.delire.party/@marien)
+- Slack : @marien
+- Email : [sudweb@marienfressinaud.fr](mailto:sudweb@marienfressinaud.fr)
+- ou, si ça concerne l’organisation de Sud Web : [marien@sudweb.fr](mailto:marien@sudweb.fr)
+
+**Maïtané Lenoir · Maiwann** :
+
+- Twitter : [@maiwann\_](https://twitter.com/maiwann_/)
+- Mastodon : [@maiwann@framapiaf.org](https://framapiaf.org/@maiwann)
+- Slack : @maiwann
+- Mail : [bonjour@maiwann.net](mailto:bonjour@maiwann.net)
+
+Leurs numéros de téléphone vous seront donnés sur place.
 
 ## Le où
 
