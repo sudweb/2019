@@ -16,8 +16,8 @@
 - name: Billetterie
   type: page
   value: billetterie
-  in_nav: true
-  in_footer: true
+  in_nav: false
+  in_footer: false
 - name: Venir à Anduze
   type: page
   value: venir-anduze
@@ -26,8 +26,8 @@
 - name: Infos pratiques
   type: page
   value: infos-pratiques
-  in_nav: true
-  in_footer: true
+  in_nav: false
+  in_footer: false
 - name: Code de Conduite
   type: page
   value: code-de-conduite

@@ -74,13 +74,6 @@ Cette année nous avons choisi de ne pas faire de soirée communautaire afin de 
 Nous vous conseillons de réserver vos places en restaurants si vous êtes des groupes de plusieurs personnes.
 
 <hr>
-<p class="text-center">
-<a class="button" data-text="Consultez les infos pratiques" href="{{ '/infos-pratiques/' | relative_url }}" title="Consultez les infos pratiques">
-  <span class="button-inner">Consultez les infos pratiques</span>
-</a>
-</p>
-
-<hr>
 
 ## Samedi 25 mai 2019
 
@@ -105,13 +98,6 @@ Ateliers
 Le lieu ferme à 18h00, on a déjà passé pas mal de temps ensemble. Alors on fait un dernier grand cercle pour partager ses sentiments sur l’événement.
 
 **18h00 - Pour les braves**  
-
-<hr>
-<p class="text-center">
-  <a class="button" data-text="{% t Réserver sa place %}" href="{{ page.baseurl | default:site.baseurl }}/{{ "billetterie" | t: page.locale }}/" title="{% t Venir à Sud Web 2018 %}">
-    <span class="button-inner">{% t Aller à la billeterie %}</span>
-  </a>
-</p>
 
 <hr>
 
