@@ -12,7 +12,7 @@ before_deploy:
 - ssh-add $TRAVIS_BUILD_DIR/deploy_rsa
 after_deploy:
 - ssh-agent -k
-install: exit 0
+#install: exit 0
 deploy:
   provider: script
   skip_cleanup: true
