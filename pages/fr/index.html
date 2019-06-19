@@ -7,7 +7,25 @@ redirect_from:
 - /thym/
 ---
 
-<!-- <section class="section">
+<section class="section">
+  <div class="wrapper">
+    <p class="text-center">Sud Web c’est fini, mais vous pouvez donner votre avis !</p>
+    <p class="text-center">Soit vous cliquez sur le lien direct vers le formulaire (ci-dessous), soit vous remplissez le formulaire intégré sous le lien ci-dessous (↓ par là quoi ↓).</p>
+    <p class="text-center">Les résultats sont publics, ils permettront à la prochaine équipe de prévoir une prochaine édition.</p>
+  </div>
+</section>
+
+<p class="text-center">
+  <a class="button" data-text="Je donne mon avis" href="https://framaforms.org/sud-web-quen-as-tu-pense-1560425456" title="Je donne mon avis">
+    <span class="button-inner">Donner son avis - accès direct au formulaire</span>
+  </a>
+</p>
+
+<iframe src="https://framaforms.org/sud-web-quen-as-tu-pense-1560425456" width="100%" height="2000" border="0" ></iframe>
+
+
+{% comment %}
+<section class="section">
   <div class="wrapper">
     <h1>Prochaine édition les 24 et 25 mai à Toulouse&nbsp;!</h1>
     <p>
@@ -28,8 +46,10 @@ redirect_from:
       {% endcomment %}
     </p>
   </div>
-</section> -->
+</section>
+{% endcomment %}
 
+{% comment %}
 <section id="speakers" class="section">
   <div class="wrapper"> <a class="sr-only" src="#conferences">Aller directement au programme détaillé</a>
     <h2 class="text-center">Les intervenant<span aria-hidden="true">·e·</span>s 2019&nbsp;</h2>
@@ -56,10 +76,12 @@ redirect_from:
     </p>
   </div>
 </section>
+{% endcomment %}
 
 {% include banners/anduze-conf.html locale=page.locale %}
 
-<!-- <section class="section">
+{% comment %}
+<section class="section">
   <div class="wrapper">
     <h2>Que comprend une place pour Sud Web&nbsp;?</h2>
     <div class="grid-2">
@@ -94,4 +116,5 @@ redirect_from:
     <p>Si vous avez des questions, n’hésitez pas à nous contacter par <a href="mailto:contact@sudweb.fr" title="Envoyez-nous un email">mail</a>, sur <a href="https://twitter.com/sudweb">Twitter</a>, ou <a href="http://sudweb.herokuapp.com/">Slack</a>.</p>
   </div>
   {% include_cached banners/capitole.html locale=page.locale %}
-</section> -->
+</section>
+{% endcomment %}
