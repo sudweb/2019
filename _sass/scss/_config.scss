@@ -49,7 +49,7 @@ $font-weight-light          : 100;
 $font-weight-normal         : 300;
 $font-weight-bold           : 400;
 
-$default-font-family        : "Roboto", arial, sans-serif;
+$default-font-family        : -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
 $default-font-weight        : $font-weight-normal;
 $default-font-style         : normal;
 
@@ -57,24 +57,24 @@ $logo-font-family           : "Oraqle", cursive;
 $logo-font-weight           : normal;
 $logo-font-style            : normal;
 
-$main-title-font-family     : "Roboto", arial, sans-serif;
+$main-title-font-family     : $default-font-family;
 $main-title-font-weight     : $font-weight-light;
 $main-title-font-style      : normal;
 
-$title-font-family          : "Roboto", arial, sans-serif;
+$title-font-family          : $default-font-family;
 $title-font-weight          : $font-weight-light;
 $title-font-style           : normal;
 $title-line-height          : 1.2;
 
-$nav-font-family            : "Roboto", arial, sans-serif;
+$nav-font-family            : $default-font-family;
 $nav-font-weight            : $font-weight-light;
 $nav-font-style             : normal;
 
-$input-font-family          : "Roboto", arial, sans-serif;
+$input-font-family          : $default-font-family;
 $input-font-weight          : $font-weight-normal;
 $input-font-style           : italic;
 
-$button-font-family         : "Roboto", arial, sans-serif;
+$button-font-family         : $default-font-family;
 $button-font-weight         : $font-weight-bold;
 $button-font-style          : normal;
 
