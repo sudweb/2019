@@ -1,5 +1,8 @@
 {
   "name": "Sud Web",
+  "short_name": "SW",
+  "lang": "fr",
+  "dir": "ltr",
   "icons": [
       {
           "src": "{{ 'assets/favicons/android-chrome-192x192.png?date=20180123' | relative_url }}",
@@ -12,7 +15,13 @@
           "type": "image/png"
       }
   ],
-  "theme_color": "#d15757",
-  "background_color": "#d15757",
-  "display": "standalone"
+  "theme_color": "##bf2525",
+  "background_color": "##bf2525",
+  "display": "standalone",
+  "splash_pages": null,
+  "serviceworker": {
+    "src": "sw.js",
+    "scope": "/",
+    "use_cache": false
+  }
 }

@@ -24,10 +24,6 @@
       image {
         position: fixed;
       }
-
-      text {
-        fill: url(#pic);
-      }
     }
 
     &-baseline {
@@ -73,15 +69,14 @@
     &-logo {
       width: 15em; height: auto;
       font: $logo-font-style $logo-font-weight 1.6rem/1 $logo-font-family;
-
-      text {
-        fill: url(#pic);
-      }
     }
 
     &-baseline {
       margin: 0;
       font-size: 2em; color: $focus-color;
+    }
+    a {
+      color: inherit;
     }
   }
 }
